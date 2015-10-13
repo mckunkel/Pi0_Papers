@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  12 OCT 2015 16:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  13 OCT 2015 16:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -225,16 +225,13 @@ Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
 LaTeX Info: Redefining \bm on input line 203.
 )
-Class revtex4-1 Info: Patching array package. on input line 58.
-Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 58.
+Class revtex4-1 Info: Patching array package. on input line 59.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 59.
 
-Class revtex4-1 Info: cite was not loaded (OK!) on input line 58.
-Class revtex4-1 Info: mcite was not loaded (OK!) on input line 58.
-Class revtex4-1 Info: multicol was not loaded (OK!) on input line 58.
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 59.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 59.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 59.
  (./draft_1.aux
-
-LaTeX Warning: Label `sec:level1' multiply defined.
-
 
 LaTeX Warning: Label `sec:level1' multiply defined.
 
@@ -259,18 +256,18 @@ LaTeX Warning: Label `sec:level1' multiply defined.
 )
 \openout1 = `draft_1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
  (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count108
@@ -334,12 +331,18 @@ e
 ))
 \openout3 = `draft_1Notes.bib'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 97.
+
+(./variables.tex
+\figwidth=\skip51
+\qfigheight=\skip52
+\hfigheight=\skip53
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 98.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 97.
+LaTeX Font Info:    Try loading font information for U+msb on input line 98.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -347,44 +350,147 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 Class revtex4-1 Warning: Assuming \noaffiliation for collaboration.
 
+(./intro.tex) (./Experimental_Setup.tex
 
-Class revtex4-1 Warning: If you want your PACS to appear in your output, use do
-cument class option showpacs.
+Package natbib Warning: Citation `clas.g12.note' on page 1 undefined on input l
+ine 2.
 
-(./intro.tex) (./Experimental_Setup.tex) (./Particle_ID.tex)
-(./Event_Selection.tex) (./Monte_Carlo.tex) (./Systematics.tex)
-(./Normalization.tex) (./XSection.tex) (./Compare_theory.tex) (./draft_1.bbl)
+
+Package natbib Warning: Citation `clas.g12.note' on page 1 undefined on input l
+ine 2.
+
+<../../figures/hall-b/trigger_sector.pdf, id=1, 968.61874pt x 722.7pt>
+File: ../../figures/hall-b/trigger_sector.pdf Graphic file (type pdf)
+
+<use ../../figures/hall-b/trigger_sector.pdf>
+Package pdftex.def Info: ../../figures/hall-b/trigger_sector.pdf used on input 
+line 9.
+(pdftex.def)             Requested size: 177.11946pt x 132.14252pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./draft_1.aux)
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 16.
+
+
+LaTeX Warning: Reference `tab:data.trig.conf.1' on page 2 undefined on input li
+ne 18.
+
+
+LaTeX Warning: Reference `tab:data.trig.conf.2' on page 2 undefined on input li
+ne 18.
+
+
+LaTeX Warning: Reference `tab:data.trig.conf.3' on page 2 undefined on input li
+ne 18.
+
+
+LaTeX Warning: Reference `tab:data.trig.conf.1' on page 2 undefined on input li
+ne 18.
+
+
+LaTeX Warning: Reference `tab:data.trig.conf.2' on page 2 undefined on input li
+ne 18.
+
+
+LaTeX Warning: Reference `tab:data.trig.conf.3' on page 2 undefined on input li
+ne 18.
+
+
+LaTeX Warning: Reference `tab:data.trig.mor' on page 2 undefined on input line 
+20.
+
+
+<../../figures/hall-b/trigger_logic_w_st.pdf, id=26, 567.11874pt x 420.57124pt>
+File: ../../figures/hall-b/trigger_logic_w_st.pdf Graphic file (type pdf)
+<use ../../figures/hall-b/trigger_logic_w_st.pdf>
+Package pdftex.def Info: ../../figures/hall-b/trigger_logic_w_st.pdf used on in
+put line 22.
+(pdftex.def)             Requested size: 177.11946pt x 131.35118pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `tab:data.trig.conf.2' on page 2 undefined on input li
+ne 28.
+
+
+LaTeX Warning: Reference `tab:data.ecccthresh' on page 2 undefined on input lin
+e 28.
+
+
+LaTeX Warning: Reference `tab:data.ecccthresh' on page 2 undefined on input lin
+e 28.
+
+[2 <../../figures/hall-b/trigger_sector.pdf> <../../figures/hall-b/trigger_logi
+c_w_st.pdf>]) (./Event_Selection.tex
+
+LaTeX Warning: Reference `sec:analysis.pid' on page 3 undefined on input line 2
+.
+
+(./tables/skim_requirements.tex)) (./Monte_Carlo.tex) (./Systematics.tex)
+(./Normalization.tex
+
+Package natbib Warning: Citation `clas.gflux' on page 3 undefined on input line
+ 2.
+
+
+Package natbib Warning: Citation `clas.g12.note' on page 3 undefined on input l
+ine 2.
+
+
+LaTeX Warning: Reference `fig:gflux' on page 3 undefined on input line 2.
+
+) (./XSection.tex) (./Compare_theory.tex) (./draft_1.bbl)
+
+Package natbib Warning: There were undefined citations.
+
+[3] (./draft_1.aux)
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4535 strings out of 493117
- 59470 string characters out of 6135433
- 134831 words of memory out of 5000000
- 7891 multiletter control sequences out of 15000+600000
- 18321 words of font info for 68 fonts, out of 8000000 for 9000
+ 4636 strings out of 493117
+ 60821 string characters out of 6135433
+ 151031 words of memory out of 5000000
+ 7981 multiletter control sequences out of 15000+600000
+ 19968 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,28p,824b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/
-local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
-cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on draft_1.pdf (1 page, 134301 bytes).
+ 38i,8n,28p,1592b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on draft_1.pdf (3 pages, 1140400 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 160 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
