@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  13 OCT 2015 16:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  11 JAN 2016 17:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -225,61 +225,89 @@ Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
 LaTeX Info: Redefining \bm on input line 203.
 )
-Class revtex4-1 Info: Patching array package. on input line 59.
-Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 59.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-Class revtex4-1 Info: cite was not loaded (OK!) on input line 59.
-Class revtex4-1 Info: mcite was not loaded (OK!) on input line 59.
-Class revtex4-1 Info: multicol was not loaded (OK!) on input line 59.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@tempdima=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\par \vskip \abovecapti
+onskip \begingroup \small \rmfamily \sbox \@tempboxa {\let \\\heading@cr \@make
+@capt@title {#1}{#2}}\@ifdim {\wd \@tempboxa >\hsize }{\begingroup \samepage \f
+lushing \let \footnote \@footnotemark@gobble \@make@capt@title {#1}{#2}\par \en
+dgroup }{\global \@minipagefalse \hb@xt@ \hsize {\hfil \unhbox \@tempboxa \hfil
+ }}\endgroup \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count108
+)
+\c@KVtest=\count109
+\sf@farskip=\skip51
+\sf@captopadj=\dimen122
+\sf@capskip=\skip52
+\sf@nearskip=\skip53
+\c@subfigure=\count110
+\c@subfigure@save=\count111
+\c@lofdepth=\count112
+\c@subtable=\count113
+\c@subtable@save=\count114
+\c@lotdepth=\count115
+\sf@top=\skip54
+\sf@bottom=\skip55
+)
+Class revtex4-1 Info: Patching array package. on input line 60.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 60.
+
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 60.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 60.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 60.
  (./draft_1.aux
-
-LaTeX Warning: Label `sec:level1' multiply defined.
-
-
-LaTeX Warning: Label `sec:level1' multiply defined.
-
-
-LaTeX Warning: Label `sec:level1' multiply defined.
-
-
-LaTeX Warning: Label `sec:level1' multiply defined.
-
-
-LaTeX Warning: Label `sec:level1' multiply defined.
-
-
-LaTeX Warning: Label `sec:level1' multiply defined.
-
 
 LaTeX Warning: Label `sec:level1' multiply defined.
 
 )
 \openout1 = `draft_1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
  (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count108
-\scratchdimen=\dimen115
+\scratchcounter=\count116
+\scratchdimen=\dimen123
 \scratchbox=\box43
-\nofMPsegments=\count109
-\nofMParguments=\count110
+\nofMPsegments=\count117
+\nofMParguments=\count118
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count111
-\MPscratchDim=\dimen116
-\MPnumerator=\count112
-\makeMPintoPDFobject=\count113
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen124
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks25
 ) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -329,20 +357,23 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
 \openout3 = `draft_1Notes.bib'.
 
 
 (./variables.tex
-\figwidth=\skip51
-\qfigheight=\skip52
-\hfigheight=\skip53
+\figwidth=\skip56
+\qfigheight=\skip57
+\hfigheight=\skip58
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 98.
+LaTeX Font Info:    Try loading font information for U+msa on input line 99.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 98.
+LaTeX Font Info:    Try loading font information for U+msb on input line 99.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -373,7 +404,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 16.
+ on input line 15.
 
 
 LaTeX Warning: Reference `tab:data.trig.conf.1' on page 2 undefined on input li
@@ -429,11 +460,17 @@ e 28.
 [2 <../../figures/hall-b/trigger_sector.pdf> <../../figures/hall-b/trigger_logi
 c_w_st.pdf>]) (./Event_Selection.tex
 
+LaTeX Warning: Reference `tab:skim.requirements' on page 3 undefined on input l
+ine 2.
+
+
 LaTeX Warning: Reference `sec:analysis.pid' on page 3 undefined on input line 2
 .
 
-(./tables/skim_requirements.tex)) (./Monte_Carlo.tex) (./Systematics.tex)
-(./Normalization.tex
+(./tables/skim_requirements.tex)) (./Monte_Carlo.tex) (./Normalization.tex
+
+LaTeX Warning: Reference `sec:results' on page 3 undefined on input line 2.
+
 
 Package natbib Warning: Citation `clas.gflux' on page 3 undefined on input line
  2.
@@ -458,13 +495,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4636 strings out of 493117
- 60821 string characters out of 6135433
- 151031 words of memory out of 5000000
- 7981 multiletter control sequences out of 15000+600000
- 19968 words of font info for 74 fonts, out of 8000000 for 9000
+ 5808 strings out of 493117
+ 81930 string characters out of 6135433
+ 174440 words of memory out of 5000000
+ 9146 multiletter control sequences out of 15000+600000
+ 19497 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,28p,1592b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,8n,42p,1592b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -487,7 +524,7 @@ dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2014/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/local/texlive/2014/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on draft_1.pdf (3 pages, 1140400 bytes).
+Output written on draft_1.pdf (3 pages, 1140095 bytes).
 PDF statistics:
  160 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream
