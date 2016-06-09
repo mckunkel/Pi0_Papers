@@ -1,0 +1,62 @@
+\documentclass[%
+reprint,
+showpacs,
+preprintnumbers,
+amsmath,amssymb,
+aps,
+%linenumbers
+]{revtex4-1}
+
+\usepackage{graphicx}% Include figure files
+\usepackage{dcolumn}% Align table columns on decimal point
+\usepackage{bm}% bold math
+\usepackage[caption=false]{subfig}
+\usepackage{hyperref}% add hypertext capabilities
+\usepackage[mathlines]{lineno}% Enable numbering of text and display math
+%\linenumbers\relax % Commence numbering lines
+
+\begin{document}
+\input{variables}
+\preprint{APS/123-QED}
+
+\title{Photoproduction of the $\pi^0$ meson from 1.1 - 5.5~GeV and a comparison to the CCR and Handbag model}
+\author{M. C. Kunkel}
+\altaffiliation[Now at ]{Forschungszentrum J\"ulich}%Lines break automatically or can be forced with \\
+\email{m.kunkel@fz-juelich.de}
+\author{M. J. Amaryan}%
+\affiliation{%
+	Old Dominion University, VA (U.S.A.)
+}
+\author{I. Strakovsky}%
+\affiliation{%
+	The George Washington University, Washington, DC (U.S.A.) 
+	\\
+}
+\collaboration{and the CLAS Collaboration }%\noaffiliation
+\date{\today}% It is always \today, today,
+             %  but any date may be explicitly specified
+
+\begin{abstract}
+Exclusive neutral pion photoproduction ($\gamma p \rightarrow p \pi^0$) was measured in the CLAS detector at the Thomas Jefferson National Facility. The experiment employed a 1.1-5.5~GeV bremsstrahlung photon beam from 5.6~GeV electron beam created in the Continuous Electron Beam Accelerator Facility (CEBAF). The photon beam energy was impinged on a liquid hydrogen target. The neutral pions were detected via external conversion, $\pi^0 \rightarrow \gamma \gamma \rightarrow e^+e^-\gamma$, and subsequent Dalitz decay, $\pi^0 \rightarrow \gamma^* \gamma \rightarrow e^+e^-\gamma$. Measured differential cross-sections, $\frac{d\sigma}{dt}$ and $\frac{d\sigma}{d\cos \theta}$ are compared with the constituent counting rule, Regge and handbag theoretical calculations. The results for the constituent counting rule agree well with the data. The Regge theoretical calculations underestimate the differential cross sections between 3.9 and 4.6~GeV, but agree with data at photon energies 4.6-5.4~GeV. The handbag theoretical calculation significantly underestimates the data at center of mass energies, s  $\sim$ 11~GeV.  
+\end{abstract}
+%
+%\pacs{13.20.Cz, 13.25.Cq, 13.30.Ce,  13.60.Le, 14.40.0n}% PACS, the Physics and Astronomy
+                             % Classification Scheme.
+%\keywords{Suggested keywords}%Use showkeys class option if keyword
+                              %display desired
+\maketitle
+%
+%\tableofcontents
+\input{intro}
+\input{Experimental_Setup}
+\input{Event_Selection}
+\input{Particle_ID}
+\input{Monte_Carlo}
+\input{Systematics}
+%\input{XSection}
+\input{Compare_theory}
+%\input{Summary}
+\nocite{*}
+\bibliographystyle{aipnum-cp}%
+\bibliography{PI0}%
+\end{document}

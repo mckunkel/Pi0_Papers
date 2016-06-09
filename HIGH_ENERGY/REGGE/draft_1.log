@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  12 OCT 2015 14:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  9 JUN 2016 12:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -225,40 +225,92 @@ Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
 LaTeX Info: Redefining \bm on input line 203.
 )
-Class revtex4-1 Info: Patching array package. on input line 58.
-Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 58.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-Class revtex4-1 Info: cite was not loaded (OK!) on input line 58.
-Class revtex4-1 Info: mcite was not loaded (OK!) on input line 58.
-Class revtex4-1 Info: multicol was not loaded (OK!) on input line 58.
- (./draft_1.aux)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@tempdima=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\par \vskip \abovecapti
+onskip \begingroup \small \rmfamily \sbox \@tempboxa {\let \\\heading@cr \@make
+@capt@title {#1}{#2}}\@ifdim {\wd \@tempboxa >\hsize }{\begingroup \samepage \f
+lushing \let \footnote \@footnotemark@gobble \@make@capt@title {#1}{#2}\par \en
+dgroup }{\global \@minipagefalse \hb@xt@ \hsize {\hfil \unhbox \@tempboxa \hfil
+ }}\endgroup \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count108
+)
+\c@KVtest=\count109
+\sf@farskip=\skip51
+\sf@captopadj=\dimen122
+\sf@capskip=\skip52
+\sf@nearskip=\skip53
+\c@subfigure=\count110
+\c@subfigure@save=\count111
+\c@lofdepth=\count112
+\c@subtable=\count113
+\c@subtable@save=\count114
+\c@lotdepth=\count115
+\sf@top=\skip54
+\sf@bottom=\skip55
+)
+Class revtex4-1 Info: Patching array package. on input line 61.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 61.
+
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 61.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 61.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 61.
+ (./draft_1.aux
+
+LaTeX Warning: Label `sec:level1' multiply defined.
+
+
+LaTeX Warning: Label `sec:level1' multiply defined.
+
+)
 \openout1 = `draft_1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-
-(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+ (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count108
-\scratchdimen=\dimen115
+\scratchcounter=\count116
+\scratchdimen=\dimen123
 \scratchbox=\box43
-\nofMPsegments=\count109
-\nofMParguments=\count110
+\nofMPsegments=\count117
+\nofMParguments=\count118
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count111
-\MPscratchDim=\dimen116
-\MPnumerator=\count112
-\makeMPintoPDFobject=\count113
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen124
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks25
 ) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -308,89 +360,133 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
 \openout3 = `draft_1Notes.bib'.
 
 
+(./variables.tex
+\figwidth=\skip56
+\qfigheight=\skip57
+\hfigheight=\skip58
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 83.
 
-Class revtex4-1 Warning: Assuming \noaffiliation for collaboration.
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 114.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 114.
+LaTeX Font Info:    Try loading font information for U+msb on input line 83.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-Class revtex4-1 Warning: If you want your PACS to appear in your output, use do
-cument class option showpacs.
+Class revtex4-1 Warning: Assuming \noaffiliation for collaboration.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 135.
+(./intro.tex) (./Experimental_Setup.tex) (./Event_Selection.tex
+(./tables/skim_requirements.tex)) (./Particle_ID.tex [1{/usr/local/texlive/2014
+/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+</Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
+A/mm2P_vs_mEPEpEm.pdf, id=27, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
+r/DATA/mm2P_vs_mEPEpEm.pdf Graphic file (type pdf)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
+<use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter
+/DATA/mm2P_vs_mEPEpEm.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
+/analysis/KineFitter/DATA/mm2P_vs_mEPEpEm.pdf used on input line 9.
+(pdftex.def)             Requested size: 196.80034pt x 252.00739pt.
+
+</Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
+A/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf, id=28, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
+r/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter
+/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
+/analysis/KineFitter/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf used on input line 1
+2.
+(pdftex.def)             Requested size: 221.40256pt x 252.00739pt.
 
 
-LaTeX Warning: Reference `eq:wideeq' on page 1 undefined on input line 150.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./Compare_theory.tex (./THEORY_COMPARE/regge_compare.tex
+</Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/pi0_regge.
+pdf, id=29, 937.5025pt x 560.0925pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/pi0_r
+egge.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/pi0_re
+gge.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
+/analysis/DSG/pi0_regge.pdf used on input line 4.
+(pdftex.def)             Requested size: 274.98727pt x 159.9955pt.
+)) (./Summary.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./draft_1.bbl [2]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 140.
 
 
-Package natbib Warning: Citation `witten2001' on page 1 undefined on input line
- 190.
+Underfull \hbox (badness 7362) in paragraph at lines 183--188
+ []\OT1/cmr/m/n/9 O. Bartholomy \OT1/cmr/m/it/9 et al. \OT1/cmr/m/n/9 (CB-ELSA 
+Col-lab-o-ra-tion),
+ []
 
 
-Package natbib Warning: Citation `feyn54' on page 1 undefined on input line 190
-.
+Underfull \hbox (badness 6348) in paragraph at lines 192--197
+ []\OT1/cmr/m/n/9 V. Crede \OT1/cmr/m/it/9 et al. \OT1/cmr/m/n/9 (CBELSA/TAPS C
+ol-lab-o-ra-tion),
+ []
 
-[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+) [3 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
+r/DATA/mm2P_vs_mEPEpEm.pdf, page is rotated 90 degrees> </Users/michaelkunkel/W
+ORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DATA/hdataLEP_MOR_pi0_FINA
+L_PLOTS.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WORK/GIT_HUB/THE
+SIS/figures/print/analysis/DSG/pi0_regge.pdf>] (./draft_1.aux)
 
-Package natbib Warning: Citation `epr' on page 2 undefined on input line 199.
-
-
-Package natbib Warning: Citation `epr' on page 2 undefined on input line 208.
-
-(./draft_1.bbl)
-
-Package natbib Warning: There were undefined citations.
-
-[2] (./draft_1.aux)
-
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4533 strings out of 493117
- 59522 string characters out of 6135433
- 138845 words of memory out of 5000000
- 7915 multiletter control sequences out of 15000+600000
- 17143 words of font info for 64 fonts, out of 8000000 for 9000
+ 5937 strings out of 493117
+ 84828 string characters out of 6135433
+ 179864 words of memory out of 5000000
+ 9272 multiletter control sequences out of 15000+600000
+ 19497 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,28p,277b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
-usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
-al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
-ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/
-2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
-14/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2014/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on draft_1.pdf (2 pages, 191896 bytes).
+ 44i,10n,47p,1206b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on draft_1.pdf (3 pages, 500363 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 198 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
