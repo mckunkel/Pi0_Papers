@@ -45,10 +45,11 @@ showpacs,
 \usepackage{dcolumn}% Align table columns on decimal point
 \usepackage{bm}% bold math
 \usepackage{subfig}
+
 %\usepackage{hyperref}% add hypertext capabilities
 %\usepackage[mathlines]{lineno}% Enable numbering of text and display math
 %\linenumbers\relax % Commence numbering lines
-
+%
 %\usepackage[showframe,%Uncomment any one of the following lines to test 
 %%scale=0.7, marginratio={1:1, 2:3}, ignoreall,% default settings
 %%text={7in,10in},centering,
@@ -61,54 +62,25 @@ showpacs,
 \input{variables}
 \preprint{APS/123-QED}
 
-\title{Photoproduction of the $\pi^0$ meson from 3.6 - 5.5~GeV }% Force line breaks with \\
+\title{Photoproduction of the $\pi^0$ meson from 3.9 - 5.5~GeV with a comparison to the Regge Model}% Force line breaks with \\
 %\thanks{A footnote to the article title}%
 
 \author{Michael C. Kunkel}
- \altaffiliation[Also at ]{Physics Department, Old Dominion University.}%Lines break automatically or can be forced with \\
+ \altaffiliation[Now at ]{Forschungszentrum J\"ulich.}%Lines break automatically or can be forced with \\
 %\author{Second Author}%
 % \email{Second.Author@institution.edu}
-\affiliation{%
- Forschungszentrum J\"ulich \\
+\affiliation{%Physics Department, Old Dominion University.
+ Physics Department, Old Dominion University. \\
 % This line break forced with \textbackslash\textbackslash
 }%
 
 \collaboration{CLAS Collaboration}%\noaffiliation
 
-%\author{Charlie Author}
-% \homepage{http://www.Second.institution.edu/~Charlie.Author}
-%\affiliation{
-% Second institution and/or address\\
-% This line break forced% with \\
-%}%
-%\affiliation{
-% Third institution, the second for Charlie Author
-%}%
-%\author{Delta Author}
-%\affiliation{%
-% Authors' institution and/or address\\
-% This line break forced with \textbackslash\textbackslash
-%}%
-%
-%\collaboration{CLEO Collaboration}%\noaffiliation
-
 \date{\today}% It is always \today, today,
              %  but any date may be explicitly specified
 
 \begin{abstract}
-Exclusive neutral pion photoproduction ($\gamma p \rightarrow p \pi^0$) was measured in the CLAS detector at the Thomas Jefferson National Facility. The experiment employed a 1.1-5.5~GeV bremsstrahlung photon beam from 5.6~GeV electron beam created in the Continuous Electron Beam Accelerator Facility (CEBAF). The photon beam energy was impinged on a liquid hydrogen target. The neutral pions were detected via external conversion, $\pi^0 \rightarrow \gamma \gamma \rightarrow e^+e^-\gamma$, and subsequent Dalitz decay, $\pi^0 \rightarrow \gamma^* \gamma \rightarrow e^+e^-\gamma$. Measured differential cross-sections, $\frac{d\sigma}{dt}$ and $\frac{d\sigma}{d\cos \theta}$ are compared with Regge and handbag theoretical calculations. The Regge theoretical calculations  underestimate the differential cross sections between 3.9 and 4.6~GeV, but agree with data at photon energies 4.6-5.4~GeV. The handbag theoretical calculation significantly underestimates the data at center of mass energies, s  $\sim$ 11~GeV.  
-
-%\begin{description}
-%\item[Usage]
-%Secondary publications and information retrieval purposes.
-%\item
-%\pacs{13.20.Cz, 13.25.Cq, 13.30.Ce,  13.60.Le, 14.40.0n}
-%%\pacs{PACS numbers: 13.20.Cz, 13.25.Cq, 13.30.Ce,  13.60.Le, 14.40.0n}% PACS, the Physics and Astronomy
-%May be entered using the \verb+\pacs{#1}+ command.
-%\item[Structure]
-%You may use the \texttt{description} environment to structure your abstract;
-%use the optional argument of the \verb+\item+ command to give the category of each item. 
-%\end{description}
+Exclusive neutral pion photoproduction ($\gamma p \rightarrow p \pi^0$) was measured in the CLAS detector at the Thomas Jefferson National Facility. The experiment employed a 1.1-5.5~GeV bremsstrahlung photon beam from 5.6~GeV electron beam created in the Continuous Electron Beam Accelerator Facility (CEBAF). The photon beam energy was impinged on a liquid hydrogen target. The neutral pions were detected via external conversion, $\pi^0 \rightarrow \gamma \gamma \rightarrow e^+e^-\gamma$, and subsequent Dalitz decay, $\pi^0 \rightarrow \gamma^* \gamma \rightarrow e^+e^-\gamma$. Measured differential cross-sections, $\frac{d\sigma}{dt}$ and $\frac{d\sigma}{d\cos \theta}$ are compared with Regge theory. The Regge theoretical calculations underestimate the differential cross sections between 3.9 and 4.6~GeV, but agree with data at photon energies 4.6-5.4~GeV.   
 \end{abstract}
 
 \pacs{13.20.Cz, 13.25.Cq, 13.30.Ce,  13.60.Le, 14.40.0n}% PACS, the Physics and Astronomy
@@ -120,15 +92,18 @@ Exclusive neutral pion photoproduction ($\gamma p \rightarrow p \pi^0$) was meas
 %\tableofcontents
 \input{intro}
 \input{Experimental_Setup}
-%\input{Particle_ID }
 \input{Event_Selection}
-\input{Monte_Carlo}
+\input{Particle_ID}
+%\input{Monte_Carlo}
 %\input{Systematics}
-\input{Normalization}
-\input{XSection}
+%\input{Normalization}
+%\input{XSection}
 \input{Compare_theory}
+\input{Summary}
 
-
+\nocite{*}
+\bibliographystyle{aipnum-cp}%
+\bibliography{PI0}%
 %
 % ****** End of file apssamp.tex ******
 \end{document}
