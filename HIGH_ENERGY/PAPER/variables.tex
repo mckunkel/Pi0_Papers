@@ -1,0 +1,50 @@
+%%% new commands and macros %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newlength{\figwidth}
+\setlength{\figwidth}{0.9\columnwidth}
+
+\newlength{\qfigheight}
+\setlength{\qfigheight}{0.25\textheight}
+
+\newlength{\hfigheight}
+\setlength{\hfigheight}{0.5\textheight}
+
+\newcommand{\acro}[1]{#1\@}
+\newcommand{\abbr}[1]{\textsc{\texttt{#1}}}
+\newcommand{\abbrlc}[2]{\textsc{\texttt{#1}}\texttt{#2}}
+\newcommand{\desg}[1]{\texttt{#1}}
+\newcommand{\todo}[1]{\textbf{\uppercase{\emph{#1}}}} %\textcolor{Orange}{#1}}}
+
+\def\g12{\emph{g12}}
+
+\def\clas{\abbr{CLAS }}
+
+\def\figures{figures}
+\def\tablepath{../../}
+\newcommand{\bank}[4]{$\mathtt{#1}^{#2}_{#3}\lbrack\mathtt{#4}\rbrack$}
+
+\def\ith{$i$\textsuperscript{th}}
+
+
+
+%\def\coloronline{(Color online.)\ }
+\def\coloronline{}
+
+%%% particles
+\def\p{\mathrm{p}}
+\def\n{\mathrm{n}}
+\def\Kp{\mathrm{K}^{+}}
+\def\Km{\mathrm{K}^{-}}
+\def\K0{\mathrm{K}^{0}}
+\def\Y{\mathrm{Y}}
+\def\epos{\mathrm{e}^{+}}
+\def\eneg{\mathrm{e}^{-}}
+\def\gamstar{\mathrm{$\gamma$}^{*}}
+\def\piup{$\pi$}
+\def\gammaup{$\gamma$}
+\def\um{{\text{$\mu$}}m}
+
+\newcommand{\bra}[1]{\left<#1\right|}
+\newcommand{\ket}[1]{\left|#1\right>}
+\newcommand{\braket}[2]{\left<#1\middle|#2\right>}
+\def\piz{$\mathrm{\pi^{0}}\ $}
+\def\epem{$e^+e^-\ $}
