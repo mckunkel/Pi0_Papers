@@ -11,6 +11,8 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: draft_1Notes.bib
 Database file #2: PI0.bib
+Warning--I didn't find a database entry for "PLUTO"
+Warning--I didn't find a database entry for "pdg"
 Warning--jnrlst (dependency: not reversed) set 1
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
@@ -28,7 +30,7 @@ Warning--empty chapter and pages in scalingexp11
 Warning--empty year in SAID
 You've used 30 entries,
             6023 wiz_defined-function locations,
-            1820 strings with 18614 characters,
+            1823 strings with 18627 characters,
 and the built_in function-call counts, 30554 in all, are:
 = -- 2514
 > -- 659
@@ -67,4 +69,4 @@ warning$ -- 5
 while$ -- 140
 width$ -- 0
 write$ -- 322
-(There were 5 warnings)
+(There were 7 warnings)

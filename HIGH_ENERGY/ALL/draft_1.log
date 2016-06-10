@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  10 JUN 2016 11:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  10 JUN 2016 12:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -727,13 +727,13 @@ Missing character: There is no ’ in font cmr6!
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 213--218
+Underfull \hbox (badness 7362) in paragraph at lines 225--230
  []\OT1/cmr/m/n/9 O. Bartholomy \OT1/cmr/m/it/9 et al. \OT1/cmr/m/n/9 (CB-ELSA 
 Col-lab-o-ra-tion),
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 222--227
+Underfull \hbox (badness 6348) in paragraph at lines 234--239
  []\OT1/cmr/m/n/9 V. Crede \OT1/cmr/m/it/9 et al. \OT1/cmr/m/n/9 (CBELSA/TAPS C
 ol-lab-o-ra-tion),
  []
@@ -760,13 +760,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 9338 strings out of 493117
- 135279 string characters out of 6135433
+ 9315 strings out of 493117
+ 135146 string characters out of 6135433
  242969 words of memory out of 5000000
- 12515 multiletter control sequences out of 15000+600000
+ 12492 multiletter control sequences out of 15000+600000
  20136 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,12n,47p,1762b,576s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,12n,47p,1763b,576s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -794,7 +794,7 @@ st/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2014/texmf-dist
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2014/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on draft_1.pdf (9 pages, 788722 bytes).
+Output written on draft_1.pdf (9 pages, 788750 bytes).
 PDF statistics:
  643 PDF objects out of 1000 (max. 8388607)
  492 compressed objects within 5 object streams

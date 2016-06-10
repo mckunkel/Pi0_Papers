@@ -205,6 +205,18 @@
   }\textbf {\bibinfo {volume} {C88}},\ p.\ \bibinfo {pages} {065203} (\bibinfo
   {year} {2013})},\ \Eprint {http://arxiv.org/abs/1308.4028} {1308.4028}
   \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Beck}(2006)}]{beck}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Beck}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Eur.
+  Phys. J. A,}\ }\textbf {\bibinfo {volume} {28}},\ \unskip\ \bibinfo {pages}
+  {173--183} (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Joss}(1970)}]{Joos}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Joss}},\ }\href@noop {} {\bibinfo {title} {Compilation of photoproduction
+  data above 1.2~gev},\ }\  \bibinfo {year} {1970} \unskip\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Bartholomy}\ \emph {et~al.}(2005)\citenamefont
   {Bartholomy} \emph {et~al.}}]{ELSA05}%
   \BibitemOpen
@@ -262,12 +274,6 @@
   {Briscoe}} \emph {et~al.},\ }\href@noop {} {\bibinfo {title} {{Institute of
   Nuclear Studies of The George Washington University Database}},\ }\
   \unskip\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Joss}(1970)}]{Joos}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {Joss}},\ }\href@noop {} {\bibinfo {title} {Compilation of photoproduction
-  data above 1.2~gev},\ }\  \bibinfo {year} {1970} \unskip\BibitemShut
-  {NoStop}%
 \bibitem [{\citenamefont {Fuchs}\ \emph {et~al.}(1996)\citenamefont {Fuchs}
   \emph {et~al.}}]{Fuchs}%
   \BibitemOpen
@@ -275,10 +281,4 @@
   {Fuchs}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
   {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume} {368}},\ \unskip\
   \bibinfo {pages} {20 -- 25} (\bibinfo {year} {1996})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Beck}(2006)}]{beck}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
-  {Beck}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Eur.
-  Phys. J. A,}\ }\textbf {\bibinfo {volume} {28}},\ \unskip\ \bibinfo {pages}
-  {173--183} (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
 \end{thebibliography}%
