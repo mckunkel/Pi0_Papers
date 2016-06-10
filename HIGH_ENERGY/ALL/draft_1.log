@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  9 JUN 2016 16:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  10 JUN 2016 11:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -500,27 +500,20 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (./intro.tex) (./Experimental_Setup.tex [1{/usr/local/texlive/2014/texmf-var/fo
 nts/map/pdftex/updmap/pdftex.map}]) (./Event_Selection.tex
 (./tables/skim_requirements.tex)) (./Particle_ID.tex
-</Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
-A/mm2P_vs_mEPEpEm.pdf, id=144, 569.12625pt x 367.3725pt>
-File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
-r/DATA/mm2P_vs_mEPEpEm.pdf Graphic file (type pdf)
+<figures/DATA/mm2P_vs_mEPEpEm.pdf, id=148, 569.12625pt x 367.3725pt>
+File: figures/DATA/mm2P_vs_mEPEpEm.pdf Graphic file (type pdf)
 
-<use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter
-/DATA/mm2P_vs_mEPEpEm.pdf>
-Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/KineFitter/DATA/mm2P_vs_mEPEpEm.pdf used on input line 9.
+<use figures/DATA/mm2P_vs_mEPEpEm.pdf>
+Package pdftex.def Info: figures/DATA/mm2P_vs_mEPEpEm.pdf used on input line 9.
+
 (pdftex.def)             Requested size: 196.80034pt x 252.00739pt.
 
-</Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
-A/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf, id=145, 569.12625pt x 367.3725pt>
-File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
-r/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf Graphic file (type pdf)
-
-<use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter
-/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf>
-Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/KineFitter/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf used on input line 1
-2.
+<figures/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf, id=149, 569.12625pt x 367.3725p
+t>
+File: figures/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf Graphic file (type pdf)
+ <use figures/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf>
+Package pdftex.def Info: figures/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf used on 
+input line 12.
 (pdftex.def)             Requested size: 221.40256pt x 252.00739pt.
 ) (./Monte_Carlo.tex
 
@@ -568,10 +561,8 @@ e 28.
 LaTeX Warning: Reference `sec:analysis.trigger.verify' on page 3 undefined on i
 nput line 28.
 
-[3 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/
-DATA/mm2P_vs_mEPEpEm.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WOR
-K/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DATA/hdataLEP_MOR_pi0_FINAL_
-PLOTS.pdf, page is rotated 90 degrees>]
+[3 <./figures/DATA/mm2P_vs_mEPEpEm.pdf, page is rotated 90 degrees> <./figures/
+DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf, page is rotated 90 degrees>]
 
 LaTeX Warning: Reference `sec.data.trig.lepton' on page 4 undefined on input li
 ne 30.
@@ -625,27 +616,22 @@ ut line 71.
 Package natbib Warning: Citation `pdg' on page 5 undefined on input line 4.
 
 
-</Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING_RATI
-O/Converion_Probability_fix.pdf, id=275, 1027.84pt x 770.88pt>
-File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING
-_RATIO/Converion_Probability_fix.pdf Graphic file (type pdf)
+<figures/SYSTEMATICS/Converion_Probability_fix.pdf, id=279, 1027.84pt x 770.88p
+t>
+File: figures/SYSTEMATICS/Converion_Probability_fix.pdf Graphic file (type pdf)
 
-<use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING_
-RATIO/Converion_Probability_fix.pdf>
-Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/BRANCHING_RATIO/Converion_Probability_fix.pdf used on input line 20.
+ <use figures/SYSTEMATICS/Converion_Probability_fix.pdf>
+Package pdftex.def Info: figures/SYSTEMATICS/Converion_Probability_fix.pdf used
+ on input line 20.
 (pdftex.def)             Requested size: 221.38907pt x 167.9944pt.
 
-</Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING_RATI
-O/Converion_Probability_II_fix.pdf, id=276, 1027.84pt x 770.88pt>
-File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING
-_RATIO/Converion_Probability_II_fix.pdf Graphic file (type pdf)
-
-<use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING_
-RATIO/Converion_Probability_II_fix.pdf>
-Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/BRANCHING_RATIO/Converion_Probability_II_fix.pdf used on input line 2
-3.
+<figures/SYSTEMATICS/Converion_Probability_II_fix.pdf, id=280, 1027.84pt x 770.
+88pt>
+File: figures/SYSTEMATICS/Converion_Probability_II_fix.pdf Graphic file (type p
+df)
+ <use figures/SYSTEMATICS/Converion_Probability_II_fix.pdf>
+Package pdftex.def Info: figures/SYSTEMATICS/Converion_Probability_II_fix.pdf u
+sed on input line 23.
 (pdftex.def)             Requested size: 221.38907pt x 167.9944pt.
 
 
@@ -655,9 +641,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING_R
-ATIO/Converion_Probability_fix.pdf> </Users/michaelkunkel/WORK/GIT_HUB/THESIS/f
-igures/print/analysis/BRANCHING_RATIO/Converion_Probability_II_fix.pdf>]
+[5 <./figures/SYSTEMATICS/Converion_Probability_fix.pdf> <./figures/SYSTEMATICS
+/Converion_Probability_II_fix.pdf>]
 
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
  on input line 40.
@@ -693,17 +678,13 @@ Overfull \hbox (103.83305pt too wide) in paragraph at lines 8--26
  []$ 
  []
 
-)
-</Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_Systematic
-s_new.pdf, id=397, 569.12625pt x 385.44pt>
-File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_Syste
-matics_new.pdf Graphic file (type pdf)
+) <figures/SYSTEMATICS/All_Systematics.pdf, id=401, 569.12625pt x 276.03125pt>
+File: figures/SYSTEMATICS/All_Systematics.pdf Graphic file (type pdf)
 
-<use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_System
-atics_new.pdf>
-Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/All_Systematics_new.pdf used on input line 117.
-(pdftex.def)             Requested size: 243.53847pt x 336.00056pt.
+<use figures/SYSTEMATICS/All_Systematics.pdf>
+Package pdftex.def Info: figures/SYSTEMATICS/All_Systematics.pdf used on input 
+line 117.
+(pdftex.def)             Requested size: 243.53847pt x 336.03317pt.
 ) (./Compare_theory.tex
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -714,18 +695,38 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 1.
 
 
-</Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kroll-eps-
-converted-to.pdf, id=403, 663.47874pt x 482.80376pt>
-File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kroll
--eps-converted-to.pdf Graphic file (type pdf)
-
-<use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kroll-
-eps-converted-to.pdf>
-Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/DSG/kroll-eps-converted-to.pdf used on input line 4.
+<figures/ANALYSIS/kroll-eps-converted-to.pdf, id=407, 663.47874pt x 482.80376pt
+>
+File: figures/ANALYSIS/kroll-eps-converted-to.pdf Graphic file (type pdf)
+ <use figures/ANALYSIS/kroll-eps-converted-to.pdf>
+Package pdftex.def Info: figures/ANALYSIS/kroll-eps-converted-to.pdf used on in
+put line 4.
 (pdftex.def)             Requested size: 200.0pt x 145.53474pt.
-)) (./draft_1.bbl [7 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/an
-alysis/All_Systematics_new.pdf, page is rotated 90 degrees>]
+)
+(./THEORY_COMPARE/CCR_compare.tex [7 <./figures/SYSTEMATICS/All_Systematics.pdf
+, page is rotated 90 degrees>]
+Missing character: There is no â in font cmr7!
+Missing character: There is no ˆ in font cmr7!
+Missing character: There is no ’ in font cmr7!
+
+<figures/ANALYSIS/pi0_scaling.pdf, id=471, 736.7525pt x 527.9725pt>
+File: figures/ANALYSIS/pi0_scaling.pdf Graphic file (type pdf)
+
+<use figures/ANALYSIS/pi0_scaling.pdf>
+Package pdftex.def Info: figures/ANALYSIS/pi0_scaling.pdf used on input line 8.
+
+(pdftex.def)             Requested size: 250.0pt x 179.1538pt.
+Missing character: There is no â in font cmr6!
+Missing character: There is no ˆ in font cmr6!
+Missing character: There is no ’ in font cmr6!
+Missing character: There is no â in font cmr6!
+Missing character: There is no ˆ in font cmr6!
+Missing character: There is no ’ in font cmr6!
+)) (./draft_1.bbl
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \hbox (badness 7362) in paragraph at lines 213--218
  []\OT1/cmr/m/n/9 O. Bartholomy \OT1/cmr/m/it/9 et al. \OT1/cmr/m/n/9 (CB-ELSA 
 Col-lab-o-ra-tion),
@@ -737,31 +738,35 @@ Underfull \hbox (badness 6348) in paragraph at lines 222--227
 ol-lab-o-ra-tion),
  []
 
+[8 <./figures/ANALYSIS/kroll-eps-converted-to.pdf>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 284.
+
 )
 
 Package natbib Warning: There were undefined citations.
 
-[8 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kroll-e
-ps-converted-to.pdf>]
+[9 <./figures/ANALYSIS/pi0_scaling.pdf>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
  (./draft_1.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
 Package rerunfilecheck Info: File `draft_1.out' has not changed.
-(rerunfilecheck)             Checksum: DE8744EF0B5AB965C89EF6C9BA62E95A;1697.
+(rerunfilecheck)             Checksum: 0126C6D7DA5F2EF0FF85026C453F9A73;1771.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 9325 strings out of 493117
- 136635 string characters out of 6135433
- 251418 words of memory out of 5000000
- 12509 multiletter control sequences out of 15000+600000
+ 9338 strings out of 493117
+ 135279 string characters out of 6135433
+ 242969 words of memory out of 5000000
+ 12515 multiletter control sequences out of 15000+600000
  20136 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,12n,47p,1762b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,12n,47p,1762b,576s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -789,10 +794,10 @@ st/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2014/texmf-dist
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2014/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on draft_1.pdf (8 pages, 662810 bytes).
+Output written on draft_1.pdf (9 pages, 788722 bytes).
 PDF statistics:
- 607 PDF objects out of 1000 (max. 8388607)
- 465 compressed objects within 5 object streams
- 102 named destinations out of 1000 (max. 500000)
- 215 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 643 PDF objects out of 1000 (max. 8388607)
+ 492 compressed objects within 5 object streams
+ 106 named destinations out of 1000 (max. 500000)
+ 228 words of extra memory for PDF output out of 10000 (max. 10000000)
 
