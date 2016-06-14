@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  13 JUN 2016 17:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  14 JUN 2016 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -383,13 +383,17 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \bframebox=\box43
 LaTeX Info: Redefining \\ on input line 3056.
 )
+(/usr/local/texlive/2014/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
 Class revtex4-1 Info: Patching array package. on input line 18.
 Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 18.
 
 Class revtex4-1 Info: cite was not loaded (OK!) on input line 18.
 Class revtex4-1 Info: mcite was not loaded (OK!) on input line 18.
 Class revtex4-1 Info: multicol was not loaded (OK!) on input line 18.
- (./draft_1.aux)
+
+(./draft_1.aux)
 \openout1 = `draft_1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -406,7 +410,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
- (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count132
 \scratchdimen=\dimen132
@@ -497,215 +502,121 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 47.
 
-(./intro.tex) (./Experimental_Setup.tex [1{/usr/local/texlive/2014/texmf-var/fo
-nts/map/pdftex/updmap/pdftex.map}]) (./Event_Selection.tex
-(./tables/skim_requirements.tex)) (./Particle_ID.tex
-<figures/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS_nolabel.pdf, id=136, 569.12625pt x 3
+(./intro.tex) (./Experimental_Setup.tex) (./Event_Selection.tex
+(./tables/skim_requirements.tex)) (./Particle_ID.tex [1{/usr/local/texlive/2014
+/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<figures/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS_nolabel.pdf, id=131, 569.12625pt x 3
 68.37625pt>
 File: figures/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS_nolabel.pdf Graphic file (type 
 pdf)
  <use figures/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS_nolabel.pdf>
 Package pdftex.def Info: figures/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS_nolabel.pdf 
-used on input line 8.
-(pdftex.def)             Requested size: 221.40256pt x 251.99895pt.
-)
-(./Monte_Carlo.tex
+used on input line 16.
+(pdftex.def)             Requested size: 270.00778pt x 199.99942pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[2]
-
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 3.
-
-
-Package natbib Warning: Citation `PLUTO' on page 3 undefined on input line 4.
-
-
-LaTeX Warning: Reference `tab:targetspecs' on page 3 undefined on input line 18
-.
-
-(./tables/simnumspecs.tex
-Overfull \hbox (15.76003pt too wide) in paragraph at lines 6--21
- []$ 
+Overfull \hbox (24.00778pt too wide) in paragraph at lines 16--17
+ [] 
  []
 
-)
+) (./Monte_Carlo.tex (./tables/simnumspecs.tex) [2 <./figures/DATA/hdataLEP_MOR
+_pi0_FINAL_PLOTS_nolabel.pdf, page is rotated 90 degrees>]) (./Systematics.tex
+(./SYSTEMATICS/Branching_Ratio.tex (./tables/branchingratios.tex))
+(./SYSTEMATICS/Kinematics_Cuts.tex (./tables/systematics_cuts.tex
+Overfull \hbox (0.97339pt too wide) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/9 Adjusted| 
+ []
 
-LaTeX Warning: Reference `sec:analysis.data.reduction' on page 3 undefined on i
-nput line 20.
-
-
-LaTeX Warning: Reference `sec:analysis.fitting.compare' on page 3 undefined on 
-input line 20.
-
+)) (./SYSTEMATICS/Flux.tex
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `sec:analysis.simsmear.verify' on page 3 undefined on 
-input line 71.
-
-
-LaTeX Warning: Reference `sec:analysis.fitting' on page 3 undefined on input li
-ne 71.
-
-
-LaTeX Warning: Reference `sec:results.acceptance' on page 3 undefined on input 
-line 71.
-
-
-LaTeX Warning: Reference `sec:results.normalization' on page 3 undefined on inp
-ut line 71.
-
-) (./Systematics.tex
-
-Package natbib Warning: Citation `pdg' on page 3 undefined on input line 4.
-
-[3 <./figures/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS_nolabel.pdf, page is rotated 90
- degrees>]
-<figures/SYSTEMATICS/Converion_Probability_fix.pdf, id=210, 1027.84pt x 770.88p
-t>
-File: figures/SYSTEMATICS/Converion_Probability_fix.pdf Graphic file (type pdf)
-
- <use figures/SYSTEMATICS/Converion_Probability_fix.pdf>
-Package pdftex.def Info: figures/SYSTEMATICS/Converion_Probability_fix.pdf used
- on input line 20.
-(pdftex.def)             Requested size: 221.38907pt x 167.9944pt.
-
-<figures/SYSTEMATICS/Converion_Probability_II_fix.pdf, id=211, 1027.84pt x 770.
-88pt>
-File: figures/SYSTEMATICS/Converion_Probability_II_fix.pdf Graphic file (type p
-df)
- <use figures/SYSTEMATICS/Converion_Probability_II_fix.pdf>
-Package pdftex.def Info: figures/SYSTEMATICS/Converion_Probability_II_fix.pdf u
-sed on input line 23.
-(pdftex.def)             Requested size: 221.38907pt x 167.9944pt.
-
-(./tables/branchingratios.tex) (./tables/systematics_cuts.tex
-Overfull \hbox (21.98589pt too wide) in paragraph at lines 7--18
- []$ 
- []
-
-) (./tables/sys_flux_runs.tex)
-Underfull \hbox (badness 1178) in paragraph at lines 55--59
+Underfull \hbox (badness 1178) in paragraph at lines 2--17
 []\OT1/cmr/m/n/10 The pho-ton flux cal-cu-la-tion should be con-sis-tent
  []
 
-[4 <./figures/SYSTEMATICS/Converion_Probability_fix.pdf> <./figures/SYSTEMATICS
-/Converion_Probability_II_fix.pdf>]
+[3]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 17.
+
+) (./SYSTEMATICS/Detector.tex) (./SYSTEMATICS/z_vertex.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 103.
+(hyperref)                removing `math shift' on input line 1.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 103.
+(hyperref)                removing `math shift' on input line 1.
 
-
-LaTeX Warning: Reference `fig:results.syserr' on page 5 undefined on input line
- 104.
-
-
-LaTeX Warning: Reference `sec:analysis.target_density' on page 5 undefined on i
-nput line 107.
-
-(./tables/systematics.tex
-Overfull \hbox (2.3279pt too wide) in paragraph at lines 23--24
-[]|$[]$| 
- []
-
-)) (./Compare_theory.tex
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-(./THEORY_COMPARE/handbag.tex
+) (./SYSTEMATICS/Target.tex) (./SYSTEMATICS/Total.tex (./tables/systematics.tex
+))) (./Compare_theory.tex (./THEORY_COMPARE/handbag.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
 
-<figures/ANALYSIS/kroll-eps-converted-to.pdf, id=319, 663.47874pt x 482.80376pt
+<figures/ANALYSIS/kroll-eps-converted-to.pdf, id=220, 663.47874pt x 482.80376pt
 >
 File: figures/ANALYSIS/kroll-eps-converted-to.pdf Graphic file (type pdf)
  <use figures/ANALYSIS/kroll-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ANALYSIS/kroll-eps-converted-to.pdf used on in
 put line 4.
-(pdftex.def)             Requested size: 200.0pt x 145.53474pt.
-)
-(./THEORY_COMPARE/CCR_compare.tex [5]
+(pdftex.def)             Requested size: 249.99852pt x 199.99884pt.
 
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 1.
+Overfull \hbox (3.99852pt too wide) in paragraph at lines 4--5
+ [][] 
+ []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+[4]) (./THEORY_COMPARE/CCR_compare.tex
 Missing character: There is no â in font cmr7!
 Missing character: There is no ˆ in font cmr7!
 Missing character: There is no ’ in font cmr7!
-<figures/ANALYSIS/pi0_scaling.pdf, id=341, 736.7525pt x 527.9725pt>
+
+<figures/ANALYSIS/pi0_scaling.pdf, id=238, 736.7525pt x 527.9725pt>
 File: figures/ANALYSIS/pi0_scaling.pdf Graphic file (type pdf)
 
 <use figures/ANALYSIS/pi0_scaling.pdf>
 Package pdftex.def Info: figures/ANALYSIS/pi0_scaling.pdf used on input line 8.
 
-(pdftex.def)             Requested size: 250.0pt x 179.1538pt.
+(pdftex.def)             Requested size: 249.9979pt x 199.9952pt.
 Missing character: There is no â in font cmr6!
 Missing character: There is no ˆ in font cmr6!
 Missing character: There is no ’ in font cmr6!
 Missing character: There is no â in font cmr6!
 Missing character: There is no ˆ in font cmr6!
 Missing character: There is no ’ in font cmr6!
-)) (./draft_1.bbl
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6 <./figures/ANALYSIS/kroll-eps-converted-to.pdf>]
-
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 95.
-
-
-Underfull \hbox (badness 7362) in paragraph at lines 225--230
+)) (./draft_1.bbl [5 <./figures/ANALYSIS/kroll-eps-converted-to.pdf> <./figures
+/ANALYSIS/pi0_scaling.pdf>]
+Underfull \hbox (badness 7362) in paragraph at lines 239--244
  []\OT1/cmr/m/n/9 O. Bartholomy \OT1/cmr/m/it/9 et al. \OT1/cmr/m/n/9 (CB-ELSA 
 Col-lab-o-ra-tion),
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 234--239
+Underfull \hbox (badness 6348) in paragraph at lines 248--253
  []\OT1/cmr/m/n/9 V. Crede \OT1/cmr/m/it/9 et al. \OT1/cmr/m/n/9 (CBELSA/TAPS C
 ol-lab-o-ra-tion),
  []
 
-)
-
-Package natbib Warning: There were undefined citations.
-
-[7 <./figures/ANALYSIS/pi0_scaling.pdf>]
+) [6]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
  (./draft_1.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
 Package rerunfilecheck Info: File `draft_1.out' has not changed.
-(rerunfilecheck)             Checksum: 0A3315360FF3E146724583D85B89050B;1544.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: 86DA3672C57E4CFE32D697FF10DC9B55;1444.
  ) 
 Here is how much of TeX's memory you used:
- 9256 strings out of 493117
- 134079 string characters out of 6135433
- 258474 words of memory out of 5000000
- 12454 multiletter control sequences out of 15000+600000
- 20136 words of font info for 75 fonts, out of 8000000 for 9000
+ 9245 strings out of 493117
+ 133691 string characters out of 6135433
+ 248266 words of memory out of 5000000
+ 12435 multiletter control sequences out of 15000+600000
+ 19609 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,12n,47p,1763b,496s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
-usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><
+ 36i,12n,38p,1716b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
@@ -727,12 +638,11 @@ dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2014/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/local/texlive/2014/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2014/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on draft_1.pdf (7 pages, 685964 bytes).
+/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on draft_1.pdf (6 pages, 494812 bytes).
 PDF statistics:
- 516 PDF objects out of 1000 (max. 8388607)
- 419 compressed objects within 5 object streams
- 90 named destinations out of 1000 (max. 500000)
- 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 403 PDF objects out of 1000 (max. 8388607)
+ 329 compressed objects within 4 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 

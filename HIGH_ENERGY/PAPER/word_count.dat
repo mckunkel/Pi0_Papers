@@ -1,0 +1,94 @@
+File: intro.tex
+Encoding: ascii
+Words in text: 195
+Words in headers: 1
+Words outside text (captions, etc.): 0
+Number of headers: 1
+Number of floats/tables/figures: 0
+Number of math inlines: 12
+Number of math displayed: 0
+
+File: Experimental_Setup.tex
+Encoding: ascii
+Words in text: 224
+Words in headers: 2
+Words outside text (captions, etc.): 0
+Number of headers: 1
+Number of floats/tables/figures: 0
+Number of math inlines: 9
+Number of math displayed: 0
+
+File: Event_Selection.tex
+Encoding: ascii
+Words in text: 132
+Words in headers: 2
+Words outside text (captions, etc.): 0
+Number of headers: 1
+Number of floats/tables/figures: 0
+Number of math inlines: 5
+Number of math displayed: 0
+
+File: Particle_ID.tex
+Encoding: ascii
+Words in text: 251
+Words in headers: 4
+Words outside text (captions, etc.): 41
+Number of headers: 2
+Number of floats/tables/figures: 1
+Number of math inlines: 15
+Number of math displayed: 0
+Subcounts:
+  text+headers+captions (#headers/#floats/#inlines/#displayed)
+  37+2+0 (1/0/4/0) Section: Particle Identification}\label{sec:analysis.pid
+  214+2+41 (1/1/11/0) Subsection: Kinematic Cuts}\label{sec:analysis.cuts
+
+File: Monte_Carlo.tex
+Encoding: ascii
+Words in text: 287
+Words in headers: 1
+Words outside text (captions, etc.): 0
+Number of headers: 1
+Number of floats/tables/figures: 0
+Number of math inlines: 9
+Number of math displayed: 3
+
+File: Systematics.tex
+Encoding: ascii
+Words in text: 35
+Words in headers: 2
+Words outside text (captions, etc.): 0
+Number of headers: 1
+Number of floats/tables/figures: 0
+Number of math inlines: 1
+Number of math displayed: 0
+
+File: Compare_theory.tex
+Encoding: ascii
+Words in text: 34
+Words in headers: 4
+Words outside text (captions, etc.): 0
+Number of headers: 1
+Number of floats/tables/figures: 0
+Number of math inlines: 1
+Number of math displayed: 0
+
+File: THEORY_COMPARE/handbag.tex
+Encoding: ascii
+Words in text: 201
+Words in headers: 2
+Words outside text (captions, etc.): 37
+Number of headers: 1
+Number of floats/tables/figures: 1
+Number of math inlines: 8
+Number of math displayed: 0
+
+File: THEORY_COMPARE/CCR_compare.tex
+Encoding: utf8
+Words in text: 215
+Words in headers: 3
+Words outside text (captions, etc.): 58
+Number of headers: 1
+Number of floats/tables/figures: 1
+Number of math inlines: 21
+Number of math displayed: 1
+

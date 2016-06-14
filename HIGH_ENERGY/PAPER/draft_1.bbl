@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year  (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{30}%
+\begin{thebibliography}{32}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -150,6 +150,20 @@
   {Schulte}}\ and\ \bibinfo {author} {\bibnamefont {others.}},\ }\href@noop {}
   {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
   {\bibinfo {volume} {87}} (\bibinfo {year} {2001})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Frohlich}\ \emph {et~al.}(2007)\citenamefont
+  {Frohlich}, \citenamefont {Froehlich}, \citenamefont {Cazon}, \citenamefont
+  {Galatyuk}, \citenamefont {Hejny} \emph {et~al.}}]{PLUTO}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.}~\bibnamefont
+  {Frohlich}}, \bibinfo {author} {\bibfnamefont {I.}~\bibnamefont {Froehlich}},
+  \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Cazon}}, \bibinfo
+  {author} {\bibfnamefont {T.}~\bibnamefont {Galatyuk}}, \bibinfo {author}
+  {\bibfnamefont {V.}~\bibnamefont {Hejny}},  \emph {et~al.},\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {PoS}\ }\textbf {\bibinfo {volume}
+  {ACAT2007}},\ p.\ \bibinfo {pages} {076} (\bibinfo {year} {2007})},\ \Eprint
+  {http://arxiv.org/abs/0708.2382} {arXiv:0708.2382 [nucl-ex]} \BibitemShut
+  {NoStop}%
+%%CITATION = ARXIV:0708.2382;%%
 \bibitem [{\citenamefont {Ji}(1997{\natexlab{a}})}]{key1}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {X.-D.}\ \bibnamefont
@@ -281,4 +295,11 @@
   {Fuchs}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
   {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume} {368}},\ \unskip\
   \bibinfo {pages} {20 -- 25} (\bibinfo {year} {1996})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {et~al}(2014)}]{pdg2014}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.~O.}\ \bibnamefont
+  {et~al}} (\bibinfo {collaboration} {Particle Data Group}),\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. C}\ }\textbf {\bibinfo
+  {volume} {38}},\ p.\ \bibinfo {pages} {090001} (\bibinfo {year}
+  {2014})}\BibitemShut {NoStop}%
 \end{thebibliography}%

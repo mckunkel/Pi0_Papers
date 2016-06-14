@@ -1,0 +1,16 @@
+ \subsection{Cut Based Systematic Uncertainty}
+	 The procedure to determine the systematic uncertainty of the cuts placed on the various kinematic fits was first to calculate an acceptance with a different cut, then to calculate a new total cross-section measurement applying the different cut to the data. The total cross-section was computed at various photon beam energies. Lets denote the original measured total cross-section as $\Xi_1$ and the new total cross-section determined by the new cut as $\Xi_n$, then the systematic error was calculated as.
+ 	
+ 	\begin{align}
+ 		\sigma_{cut} = \frac{\left| \Xi_1 - \Xi_n \right|}{\Xi_1}
+ 	\end{align}
+ 	
+ 	Some systematic uncertainty depended on the photon energy. All cut based systematics were performed individually, meaning when a cut was changed, the remaining cuts retained their original value, see Table~\ref{tab:cutsystematics} for the values of the cuts that were changed to calculate the systematic error.
+ 	%This new cross-section was then compared to the cross-section using the base cuts to determine if a dependence on $\cos\theta^{\pi^0}_{C.M.})$ was present. All systematics of the cut based did not show a $\cos\theta^{\pi^0}_{C.M.})$ dependency for specific beam energies.
+ 	\input{tables/systematics_cuts.tex}
+% 	
+% 	\begin{figure}[h!]\begin{center}
+% 			\includegraphics[width=1.2 \figwidth,height=\hfigheight]{\figures/analysis/All_Cut_Systematic.pdf}
+% 			\caption[Plot showing the contribution of the data cut systematic error and the incoming beam dependence of the error]{\label{fig:sys_cut_error} Plot showing the contribution of the data cut systematic error and the incoming beam dependence of the error.}
+% 		\end{center}\end{figure}
+%

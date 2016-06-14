@@ -11,7 +11,6 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: draft_1Notes.bib
 Database file #2: PI0.bib
-Warning--I didn't find a database entry for "PLUTO"
 Warning--I didn't find a database entry for "pdg"
 Warning--jnrlst (dependency: not reversed) set 1
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -28,45 +27,45 @@ Warning--empty chapter and pages in scalingexp7
 Warning--empty chapter and pages in scalingexp4
 Warning--empty chapter and pages in scalingexp11
 Warning--empty year in SAID
-You've used 30 entries,
+You've used 32 entries,
             6023 wiz_defined-function locations,
-            1823 strings with 18627 characters,
-and the built_in function-call counts, 30554 in all, are:
-= -- 2514
-> -- 659
-< -- 98
-+ -- 231
-- -- 169
-* -- 3975
-:= -- 3313
-add.period$ -- 32
-call.type$ -- 30
-change.case$ -- 122
-chr.to.int$ -- 29
-cite$ -- 34
-duplicate$ -- 2773
-empty$ -- 2238
-format.name$ -- 358
-if$ -- 6235
+            1838 strings with 18918 characters,
+and the built_in function-call counts, 32832 in all, are:
+= -- 2675
+> -- 721
+< -- 108
++ -- 252
+- -- 186
+* -- 4311
+:= -- 3544
+add.period$ -- 34
+call.type$ -- 32
+change.case$ -- 130
+chr.to.int$ -- 31
+cite$ -- 36
+duplicate$ -- 2989
+empty$ -- 2401
+format.name$ -- 392
+if$ -- 6699
 int.to.chr$ -- 2
-int.to.str$ -- 39
-missing$ -- 314
-newline$ -- 143
-num.names$ -- 90
-pop$ -- 1070
+int.to.str$ -- 41
+missing$ -- 339
+newline$ -- 150
+num.names$ -- 96
+pop$ -- 1146
 preamble$ -- 1
-purify$ -- 149
+purify$ -- 159
 quote$ -- 0
-skip$ -- 1338
+skip$ -- 1432
 stack$ -- 0
-substring$ -- 1055
-swap$ -- 2540
-text.length$ -- 63
+substring$ -- 1099
+swap$ -- 2754
+text.length$ -- 71
 text.prefix$ -- 0
 top$ -- 8
-type$ -- 465
+type$ -- 498
 warning$ -- 5
-while$ -- 140
+while$ -- 148
 width$ -- 0
-write$ -- 322
-(There were 7 warnings)
+write$ -- 342
+(There were 6 warnings)
