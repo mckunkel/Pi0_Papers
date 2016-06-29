@@ -1,0 +1,26 @@
+\subsubsection{Lepton Triggering and Neutral Triggering}\label{sec.data.trig.lepton}
+In g12, since the \abbr{CC} was filled with gas, it was possible to include the \abbr{CC} as a component of the trigger. 
+There were three trigger ``bits'' used for lepton identification in g12 as listed in Table~\ref{tab:data.trig.conf.2}. Each ``bit'' used a (\abbr{EC}$\cdot$\abbr{CC}) configuration to identify leptons. The (\abbr{EC}$\cdot$\abbr{CC}) configuration required a coincidence between the electromagnetic calorimeter and the Cherenkov subsystems. This coincidence was established by using the voltage sum of the \abbr{CC} for a sector and the voltage sum of the \abbr{EC} for the same sector and comparing each sum to a preset threshold described in Table~\ref{tab:data.ecccthresh}. The \abbr{EC} voltage sum threshold comparison is done on both the \abbr{EC}$_\mathrm{inner}$ and \abbr{EC}$_{\mathrm{total}}$ which are the \abbr{EC} voltage signals for the energy deposited in the inner layer and in all layers. The labels of photon or electron specified in Table~\ref{tab:data.ecccthresh} are not actual photons or electrons, but were considered a first-order approximation for detection. The particle identification is done at the analysis level. The method for determining the (\abbr{EC}$\cdot$\abbr{CC}) does not allow for multiple lepton triggering in the same sector. Determining multiple leptons in the same sector is done at the analysis level. 
+
+The ``bit 6'' trigger configuration, (\abbr{ST}$\cdot$\abbr{TOF})$\cdot$(\abbr{EC}$\cdot$\abbr{CC}) requires a \abbr{ST} and \abbr{TOF} coincidence previously described in~\ref{sec:data.trig} along with a coincidence between the electromagnetic calorimeter and the Cherenkov subsystems described above. The (\abbr{ST}$\cdot$\abbr{TOF}) configuration of ``bit 6'' did not have to be in the same sector as the (\abbr{EC}$\cdot$\abbr{CC}) configuration of ``bit 6''. The ``bit 11'' trigger configuration, (\abbr{EC}$\cdot$\abbr{CC})$\times$2 requires two coincidences between the electromagnetic calorimeter and the Cherenkov subsystems described above, in two different sectors. 
+
+The ``bit 5'' trigger configuration was also established as a lepton trigger. It required \abbr{EC} hits in two sectors. The ``bit 5'' trigger configuration was also established to analyze physics involving two or more neutral particles accompanied with a charged track, such as exclusive \pizT production in which the \pizT decays via 2 photons. The method for ``bit 5'' voltage sum comparison is identical to the \abbr{EC} voltage sum of ``bit 6'' and ``bit 11''
+
+It should be noted that none of the lepton triggers required a \abbr{MOR} signal, allowing for physics involving leptons to be measured starting from g12's lowest tagger detection value of 1.142~GeV.
+
+For this analysis, only runs in which had the ``bit 6'' trigger configuration were used. To satisfy the trigger requirement in the data for photon beam energies $<3.6$~GeV, cuts were placed on the \abbr{EC} and \abbr{CC} hit quantities recorded. Since either lepton could have produced the needed hits the cut was a permutation of both leptons, i.e.
+\begin{itemize}
+	\item $e^+_\mathrm{\abbr{EC}hit}$ \& $e^+_\mathrm{\abbr{CC}hit}$ OR $e^-_\mathrm{\abbr{EC}hit}$ \& $e^-_\mathrm{\abbr{CC}hit}$ OR $e^+_\mathrm{\abbr{EC}hit}$ \& $e^-_\mathrm{\abbr{CC}hit}$ OR $e^-_\mathrm{\abbr{EC}hit}$ \& $e^+_\mathrm{\abbr{CC}hit}$
+%	\begin{itemize}
+%		\item OR
+%	\end{itemize}
+%	\item $e^-_\mathrm{\abbr{EC}hit}$ \& $e^-_\mathrm{\abbr{CC}hit}$
+%	\item $e^+_\mathrm{\abbr{EC}hit}$ \& $e^-_\mathrm{\abbr{CC}hit}$
+%	\item $e^-_\mathrm{\abbr{EC}hit}$ \& $e^+_\mathrm{\abbr{CC}hit}$
+\end{itemize}
+%\FloatBarrier
+%\input{tables/trigger_config_2} % label: tab:data.trig.conf.2
+
+%\input{tables/trigger_ec_cc} % label: tab:data.ecccthresh
+
+\FloatBarrier

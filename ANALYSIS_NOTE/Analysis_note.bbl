@@ -1,0 +1,150 @@
+\begin{thebibliography}{10}
+
+\bibitem{JPAC}
+V.~Mathieu et~al.
+\newblock {Neutral Pion Photoproduction in a Regge Model}.
+\newblock {\em Phys. Rev.}, D92(7):074013, 2015.
+
+\bibitem{scaling1}
+Stanley~J. Brodsky and Glennys~R. Farrar.
+\newblock Scaling laws at large transverse momentum.
+\newblock {\em Phys. Rev. Lett.}, 31:1153--1156, 1973.
+
+\bibitem{scaling2}
+G.~Peter Lepage and Stanley~J. Brodsky.
+\newblock Exclusive processes in perturbative quantum chromodynamics.
+\newblock {\em Phys. Rev. D}, 22:2157--2198, 1980.
+
+\bibitem{scalingexp5}
+P.V. Landshoff and J.C. Polkinghorne.
+\newblock pp elastic scattering at large momentum transfer.
+\newblock {\em Physics Letters B}, 44(3):293 -- 295, 1973.
+
+\bibitem{scalingexp7}
+R.~L. Anderson et~al.
+\newblock Comparison of 20 exclusive reactions at large t.
+\newblock {\em Phys. Rev. D}, 49, 1994.
+
+\bibitem{scalingexp2}
+W.~Chen et~al.
+\newblock Measurement of the differential cross section for the reaction
+  $\ensuremath{\gamma}n\ensuremath{\rightarrow}{\ensuremath{\pi}}^{-}p$ from
+  deuterium.
+\newblock {\em Phys. Rev. Lett.}, 103:012301, 2009.
+
+\bibitem{scalingexp3}
+L.~Y. Zhu et~al.
+\newblock Cross-section measurement of charged-pion photoproduction from
+  hydrogen and deuterium.
+\newblock {\em Phys. Rev. Lett.}, 91:022003, 2003.
+
+\bibitem{scalingexp4}
+R.~A. Schumacher and M.~M. Sargsian.
+\newblock Scaling and resonances in elementary ${K}^{+}\ensuremath{\Lambda}$
+  photoproduction.
+\newblock {\em Phys. Rev. C}, 83, 2011.
+
+\bibitem{scalingexp6}
+R.~L. Anderson et~al.
+\newblock Measurements of exclusive photoproduction processes at large values
+  of $t$ and $u$ from 4 to 7.5 gev.
+\newblock {\em Phys. Rev. D}, 14:679--697, 1976.
+
+\bibitem{scalingexp8}
+J.~Napolitano et~al.
+\newblock Measurement of the differential cross section for the reaction
+  $^{2}\mathrm{H}(\ensuremath{\gamma},p)n$ at high photon energies and
+  ${\ensuremath{\theta}}_{\mathrm{c}.\mathrm{m}.}=90\ifmmode^\circ\else\textdegree\fi{}$.
+\newblock {\em Phys. Rev. Lett.}, 61:2530--2533, 1988.
+
+\bibitem{scalingexp9}
+J.~E. Belz et~al.
+\newblock Two-body photodisintegration of the deuteron up to 2.8 gev.
+\newblock {\em Phys. Rev. Lett.}, 74:646--649, 1995.
+
+\bibitem{scalingexp10}
+C.~Bochna et~al.
+\newblock Measurements of deuteron photodisintegration up to 4.0 gev.
+\newblock {\em Phys. Rev. Lett.}, 81:4576--4579, 1998.
+
+\bibitem{scalingexp11}
+E.~C. Schulte and others.
+\newblock Measurement of the high energy two-body deuteron photodisintegration
+  differential cross section.
+\newblock {\em Phys. Rev. Lett.}, 87, 2001.
+
+\bibitem{g12note}
+Z.~Akbar et~al.
+\newblock {g12 Analysis Procedures, Statistics and Systematics}.
+\newblock Technical report, \texttt{CLAS} Technical Note, 2016.
+
+\bibitem{pdg2014}
+K.A.~Olive et~al.
+\newblock Review of particle physics.
+\newblock {\em Phys. Rev. C}, 38:090001, 2014.
+
+\bibitem{dustin.kinfit}
+K.~Hicks D.~Keller.
+\newblock Techniques in kinematic fitting.
+\newblock {\em CLAS-NOTE}, 2010-1.
+
+\bibitem{SAID}
+{W.J.~Briscoe and others}.
+\newblock {Institute of Nuclear Studies of The George Washington University
+  Database}.
+\newblock \url{http://gwdac.phys.gwu.edu/}, 2016.
+\newblock Accessed: 2015-12-01.
+
+\bibitem{Dugger13}
+M.~Dugger et~al.
+\newblock {Beam asymmetry $\Sigma$ for $\pi^+$ and $\pi^0$ photoproduction on
+  the proton for photon energies from 1.102 to 1.862 GeV}.
+\newblock {\em Phys.Rev.}, C88(6):065203, 2013.
+
+\bibitem{BonnGat}
+A.V. Anisovich et~al.
+\newblock {Photoproduction of pions and properties of baryon resonances from a
+  Bonn-Gatchina partial wave analysis}.
+\newblock {\em Eur.Phys.J.}, A44:203--220, 2010.
+
+\bibitem{Dugger07}
+M.~Dugger et~al.
+\newblock {pi0 photoproduction on the proton for photon energies from 0.675 to
+  2.875-GeV}.
+\newblock {\em Phys.Rev.}, C76:025211, 2007.
+
+\bibitem{Graal}
+O.~Bartalini et~al.
+\newblock {Measurement of pi0 photoproduction on the proton from 550-MeV to
+  1500-MeV at GRAAL}.
+\newblock {\em Eur.Phys.J.}, A26:399--419, 2005.
+
+\bibitem{LEPS}
+M.~Sumihama et~al.
+\newblock {Backward-angle photoproduction of pi0 mesons on the proton at E
+  gamma = 1.5-2.4-GeV}.
+\newblock {\em Phys.Lett.}, B657:32--37, 2007.
+
+\bibitem{ELSA05}
+O.~Bartholomy et~al.
+\newblock {Neutral pion photoproduction off protons in the energy range 0.3-GeV
+  $<$ E(gamma) $<$ 3-GeV}.
+\newblock {\em Phys.Rev.Lett.}, 94:012003, 2005.
+
+\bibitem{ELSA11}
+V.~Crede et~al.
+\newblock {Photoproduction of Neutral Pions off Protons}.
+\newblock {\em Phys.Rev.}, C84:055203, 2011.
+
+\bibitem{brem}
+M.~Braunschweig et~al.
+\newblock Single photoproduction of neutral $\pi$-mesons on hydrogen at small
+  angles between 4 and 5.8 gev.
+\newblock {\em Physics Letters B}, 26(6):405 -- 409, 1968.
+
+\bibitem{Huang2000}
+Han~Wen Huang and Peter Kroll.
+\newblock {Large momentum transfer electroproduction of mesons}.
+\newblock {\em Eur.Phys.J.}, C17:423--435, 2000.
+
+\end{thebibliography}

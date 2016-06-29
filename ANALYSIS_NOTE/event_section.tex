@@ -1,0 +1,26 @@
+\section{Data Selection and Analysis Cuts}\label{sec:evnt}
+\subsection{Event Selection}\label{subsec:evnt}
+	The reaction chain of interest in this analysis is:
+	\begin{align}
+	\gamma p \rightarrow p + x
+	\end{align}
+	where $x$ is reconstructed from the missing mass of $p(\gamma,p)x$ off the target proton and the tagged photon. The meson $x$ can then decay according to  
+	\begin{align}
+	x\rightarrow e^{+}e^{-}(\gamma)
+	\end{align}
+	where the decay product $\gamma$ is left undetected. For the \pizT meson the decay products, $e^+$,$e^-$,$\gamma$, can arise from two main decay branching ratios found in Tab.~\ref{tab:pi0}. The first decay of $\piz\rightarrow\gamma\gamma$ can produce electron/positron pairs via external conversion inside the hydrogen target, i.e. $\gamma\rightarrow e^+e^-$ , while the second decay $\piz\rightarrow e^+e^-\gamma$ is produced via Dalitz decays. The total sum of both branching ratios accounts for $\sim$ 99.997\% of all decays of \pizT.
+	\input{tables/pi0_decay}
+	\FloatBarrier
+	Pions were skimmed initially because lepton identification is done at the analysis level. If the event satisfied the requirements listed in Table~\ref{tab:skim.requirements}, then all timing, momentum and vertex information was 
+	outputted as well as \abbr{CC} and \abbr{EC} information. To reduce the size of the data set, a cut 
+	was placed on the total missing mass of $\gamma p \to p \pi^{+} \pi^{-}$ to be less than 275~MeV. This cut was broad enough to not interfere with \pizT selection from single 
+	\pizT production i.e. $\gamma p \to p \pi^{0}$ when assigned the pion the lighter mass of a electron/positron. This broad cut also does not interfere with \pizT production from 
+	light meson decay, i.e $\gamma p \to p \omega \to p \pi^{+} \pi^{-} \pi^{0}$. 
+		
+	\input{tables/skim_requirements}
+	\FloatBarrier
+\subsection{Lepton Identification}
+	Lepton identification was based on conservation of mass. Once the data is skimmed according to Table~\ref{tab:skim.requirements}, all particles that were $\pi^+$, $\pi^-$, unknown with $q^+$ or unknown with $q^-$ were tentatively assigned to be electrons or positrons based on their charge. This meant that the mass term of the particle's 4-vector was set to be the mass of an electron instead of that of a pion. This technique works because the mass of the \pizT (0.135~GeV) is less than the mass of $\pi^+$ or $\pi^-$ (0.139~GeV) and by laws of conservation of energy-momentum, a lighter particle cannot decay into heavier particle's.
+\input{DATA/lepton_triggering}	
+\input{DATA/kinematic_fitting}
+\input{DATA/trigger_eff}
