@@ -3,53 +3,50 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Analysis_note.aux
 The style file: unsrt.bst
 Database file #1: PI0.bib
-Warning--I didn't find a database entry for "CBwiki"
-Warning--I didn't find a database entry for "CBjlab"
-Warning--I didn't find a database entry for "PLUTO"
+Warning--I didn't find a database entry for "clas.g12.note"
+Warning--I didn't find a database entry for "clas.gflux"
 Warning--I didn't find a database entry for "durham"
 Warning--I didn't find a database entry for "Christo"
-Warning--I didn't find a database entry for "Poisson"
-Warning--I didn't find a database entry for "pdg"
 Warning--I didn't find a database entry for "williams"
-You've used 26 entries,
+You've used 31 entries,
             1791 wiz_defined-function locations,
-            623 strings with 7025 characters,
-and the built_in function-call counts, 5420 in all, are:
-= -- 507
-> -- 196
+            641 strings with 7569 characters,
+and the built_in function-call counts, 6168 in all, are:
+= -- 563
+> -- 239
 < -- 0
-+ -- 75
-- -- 49
-* -- 329
-:= -- 894
-add.period$ -- 79
-call.type$ -- 26
-change.case$ -- 27
++ -- 92
+- -- 61
+* -- 352
+:= -- 1022
+add.period$ -- 95
+call.type$ -- 31
+change.case$ -- 30
 chr.to.int$ -- 0
-cite$ -- 26
-duplicate$ -- 223
-empty$ -- 553
-format.name$ -- 49
-if$ -- 1199
+cite$ -- 31
+duplicate$ -- 261
+empty$ -- 637
+format.name$ -- 61
+if$ -- 1369
 int.to.chr$ -- 0
-int.to.str$ -- 26
-missing$ -- 24
-newline$ -- 134
-num.names$ -- 26
-pop$ -- 34
+int.to.str$ -- 31
+missing$ -- 29
+newline$ -- 159
+num.names$ -- 31
+pop$ -- 63
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 100
+skip$ -- 113
 stack$ -- 0
-substring$ -- 450
-swap$ -- 25
+substring$ -- 438
+swap$ -- 30
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 52
-width$ -- 28
-write$ -- 288
-(There were 8 warnings)
+while$ -- 57
+width$ -- 33
+write$ -- 339
+(There were 5 warnings)

@@ -2,7 +2,7 @@
 
 In this section, the calculations leading up to the systematic of the measurement will be discussed. Systematic errors are caused the controls of the experiment, such as flux, simulation, density and length of the $\ell H_2$ target and also systematic errors are caused by various analytical tools used, such as the kinematic fitter.
 \subsubsection{Branching Ratio Systematic Uncertainty}
-The branching ratios for the two topologies used to measure the cross-section were obtained from \abbr{PDG}\label{abbr:pdg}~\cite{pdg} and are listed again in Table~\ref{tab:brspecs} with their associated errors. Uncorrelated quantities that are summed as,
+The branching ratios for the two topologies used to measure the cross-section were obtained from \abbr{PDG}\label{abbr:pdg}~\cite{pdg2014} and are listed again in Table~\ref{tab:brspecs} with their associated errors. Uncorrelated quantities that are summed as,
 \begin{align}
 f = \sum_{i = 1}^{M}a_iP_i  
 \end{align}
@@ -54,25 +54,27 @@ Some systematic uncertainty depended on the photon energy. All cut based systema
 \end{center}\end{figure}
 \FloatBarrier
 \subsubsection{Photon Flux Systematic Uncertainty}
-The photon flux calculation should be consistent throughout the experiment. If the flux measurement is not consistent due to corrections made with the live-time, beam corrections or fractional difference in the reported current to the actual current during the photon flux normalization run then a systematic uncertainty would be produced. To study this effect we divided the g12 run period into four groups. The change between group 2 and group 3 was at the run in which the tagger hysteresis was not present, see Sec~\ref{sec:analysis.corrections.beam}. Table~\ref{tab:flux_sys} lists the run groups used for this study.
-\input{tables/sys_flux_runs.tex}
+The photon flux calculation should be consistent throughout the experiment. If the flux measurement is not consistent due to corrections made with the live-time, beam corrections or fractional difference in the reported current to the actual current during the photon flux normalization run then a systematic uncertainty would be produced. The systematic uncertainty of the photon flux was derived in~\cite{g12note} and is quoted to be as a lower limit of 5.7\%.
 
-The procedure to determine the systematic error, $\sigma$, of the flux is to calculate the accepted and flux corrected yield, $\Upsilon^c$, for each run group and compare $\Upsilon^c$ to the average accepted and flux corrected yield of all 4 run groups, $\mu^c$. After $\sigma$ is calculated, it was normalized to $N \mu^c$ as to represent the error as a percentage, which later is added in quadrature and  multiplied by the measured cross section to determine the appropriate error. 
-\begin{align}
-\sigma_{group} = \sqrt{\sum_{i=1}^{N = 4}\left(\Upsilon_i^c - \mu^c\right)},
-\end{align}
-where
-\begin{align}
-\mu^c = \frac{1}{N}\sum_{i=1}^{N=4}\Upsilon_i^c
-\end{align}
-\begin{align}
-\sigma_{group}^{normalized} = \frac{\sigma_{group}}{N\mu^c}
-\end{align}
-
-\begin{figure}[h!]\begin{center}
-\includegraphics[width=1.2 \figwidth,height=\hfigheight]{\figures/analysis/Beam_Fluxsystematic_Error.pdf}
-\caption[Plot showing the contribution of the flux systematic error and the incoming beam dependence of the error]{\label{fig:sys_flux_error} Plot showing the contribution of the flux systematic error and the incoming beam dependence of the error.}
-\end{center}\end{figure}
+%To study this effect we divided the g12 run period into four groups. The change between group 2 and group 3 was at the run in which the tagger hysteresis was not present, see Sec~\ref{sec:analysis.corrections.beam}. Table~\ref{tab:flux_sys} lists the run groups used for this study.
+%\input{tables/sys_flux_runs.tex}
+%
+%The procedure to determine the systematic error, $\sigma$, of the flux is to calculate the accepted and flux corrected yield, $\Upsilon^c$, for each run group and compare $\Upsilon^c$ to the average accepted and flux corrected yield of all 4 run groups, $\mu^c$. After $\sigma$ is calculated, it was normalized to $N \mu^c$ as to represent the error as a percentage, which later is added in quadrature and  multiplied by the measured cross section to determine the appropriate error. 
+%\begin{align}
+%\sigma_{group} = \sqrt{\sum_{i=1}^{N = 4}\left(\Upsilon_i^c - \mu^c\right)},
+%\end{align}
+%where
+%\begin{align}
+%\mu^c = \frac{1}{N}\sum_{i=1}^{N=4}\Upsilon_i^c
+%\end{align}
+%\begin{align}
+%\sigma_{group}^{normalized} = \frac{\sigma_{group}}{N\mu^c}
+%\end{align}
+%
+%\begin{figure}[h!]\begin{center}
+%\includegraphics[width=1.2 \figwidth,height=\hfigheight]{\figures/analysis/Beam_Fluxsystematic_Error.pdf}
+%\caption[Plot showing the contribution of the flux systematic error and the incoming beam dependence of the error]{\label{fig:sys_flux_error} Plot showing the contribution of the flux systematic error and the incoming beam dependence of the error.}
+%\end{center}\end{figure}
 \FloatBarrier
 
 
@@ -116,7 +118,7 @@ The total systematic uncertainty along with a list of the individual systematics
 \input{tables/systematics.tex}
 Figure~\ref{fig:results.syserr} is a pictorial version of Table~\ref{tab:systematics}.
 \begin{figure}[h!]\begin{center}
-\includegraphics[width=1.1 \figwidth,height=\hfigheight]{\figures/analysis/All_Systematics_new.pdf}
+\includegraphics[width=1.1 \figwidth,height=\hfigheight]{\figures/analysis/All_Systematics.pdf}
 \caption[The contribution of all systematic uncertainties]{\label{fig:results.syserr}The contribution of all systematic uncertainties.}
 \end{center}\end{figure}
 \FloatBarrier
