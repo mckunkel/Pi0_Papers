@@ -12,39 +12,40 @@
 \BOOKMARK [3][-]{subsubsection.2.3.6}{2-C Cut}{subsection.2.3}% 12
 \BOOKMARK [2][-]{subsection.2.4}{Particle Vertex Timing Cuts}{section.2}% 13
 \BOOKMARK [2][-]{subsection.2.5}{z Vertex Cuts}{section.2}% 14
-\BOOKMARK [3][-]{subsubsection.2.5.1}{Final Data Distribution}{subsection.2.5}% 15
-\BOOKMARK [2][-]{subsection.2.6}{Lepton Trigger Efficiency for 0 \040Candidates}{section.2}% 16
-\BOOKMARK [1][-]{section.3}{Target Density}{}% 17
-\BOOKMARK [1][-]{section.4}{Photon Normalization}{}% 18
-\BOOKMARK [1][-]{section.5}{Normalization}{}% 19
-\BOOKMARK [2][-]{subsection.5.1}{Normalization History}{section.5}% 20
-\BOOKMARK [2][-]{subsection.5.2}{g12 Normalization Procedure}{section.5}% 21
-\BOOKMARK [2][-]{subsection.5.3}{g12 Normalization Results}{section.5}% 22
-\BOOKMARK [2][-]{subsection.5.4}{Normalization Comparison}{section.5}% 23
-\BOOKMARK [2][-]{subsection.5.5}{Normalization Uncertainties}{section.5}% 24
-\BOOKMARK [1][-]{section.6}{Simulation}{}% 25
-\BOOKMARK [2][-]{subsection.6.1}{Simulation Verification}{section.6}% 26
-\BOOKMARK [2][-]{subsection.6.2}{PLUTO++ Event Generator}{section.6}% 27
-\BOOKMARK [2][-]{subsection.6.3}{Simulating the Lepton Trigger}{section.6}% 28
-\BOOKMARK [3][-]{subsubsection.6.3.1}{Validity of Trigger Simulation}{subsection.6.3}% 29
-\BOOKMARK [2][-]{subsection.6.4}{Simulation Kinematic Variables Verification}{section.6}% 30
-\BOOKMARK [2][-]{subsection.6.5}{Acceptance}{section.6}% 31
-\BOOKMARK [1][-]{section.7}{Results}{}% 32
-\BOOKMARK [2][-]{subsection.7.1}{Cross-Section}{section.7}% 33
-\BOOKMARK [2][-]{subsection.7.2}{Statistical Uncertainties}{section.7}% 34
-\BOOKMARK [2][-]{subsection.7.3}{Systematic Uncertainty}{section.7}% 35
-\BOOKMARK [3][-]{subsubsection.7.3.1}{Branching Ratio Systematic Uncertainty}{subsection.7.3}% 36
-\BOOKMARK [3][-]{subsubsection.7.3.2}{Cut Based Systematic Uncertainty}{subsection.7.3}% 37
-\BOOKMARK [3][-]{subsubsection.7.3.3}{Photon Flux Systematic Uncertainty}{subsection.7.3}% 38
-\BOOKMARK [3][-]{subsubsection.7.3.4}{Detector Efficiency Systematic Uncertainty}{subsection.7.3}% 39
-\BOOKMARK [3][-]{subsubsection.7.3.5}{z-vertex Cut Systematic Uncertainty}{subsection.7.3}% 40
-\BOOKMARK [3][-]{subsubsection.7.3.6}{Target Systematic Uncertainty}{subsection.7.3}% 41
-\BOOKMARK [3][-]{subsubsection.7.3.7}{Total Systematic Uncertainty}{subsection.7.3}% 42
-\BOOKMARK [2][-]{subsection.7.4}{Comparison to World Data and SAID Fits}{section.7}% 43
-\BOOKMARK [3][-]{subsubsection.7.4.1}{Differential Cross-Sections dd}{subsection.7.4}% 44
-\BOOKMARK [3][-]{subsubsection.7.4.2}{Excitation Functions}{subsection.7.4}% 45
-\BOOKMARK [3][-]{subsubsection.7.4.3}{t-Dependence}{subsection.7.4}% 46
-\BOOKMARK [3][-]{subsubsection.7.4.4}{SAID 2 Improvements}{subsection.7.4}% 47
-\BOOKMARK [3][-]{subsubsection.7.4.5}{Discussion of SAID Fits and Comaprision to World Data}{subsection.7.4}% 48
-\BOOKMARK [1][-]{section.8}{Conclusions}{}% 49
-\BOOKMARK [1][-]{section*.76}{BIBLIOGRAPHY}{}% 50
+\BOOKMARK [3][-]{subsubsection.2.5.1}{Final MC Distribution}{subsection.2.5}% 15
+\BOOKMARK [3][-]{subsubsection.2.5.2}{Final Data Distribution}{subsection.2.5}% 16
+\BOOKMARK [2][-]{subsection.2.6}{Lepton Trigger Efficiency for 0 \040Candidates}{section.2}% 17
+\BOOKMARK [1][-]{section.3}{Target Density}{}% 18
+\BOOKMARK [1][-]{section.4}{Photon Normalization}{}% 19
+\BOOKMARK [1][-]{section.5}{Normalization}{}% 20
+\BOOKMARK [2][-]{subsection.5.1}{Normalization History}{section.5}% 21
+\BOOKMARK [2][-]{subsection.5.2}{g12 Normalization Procedure}{section.5}% 22
+\BOOKMARK [2][-]{subsection.5.3}{g12 Normalization Results}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.4}{Normalization Comparison}{section.5}% 24
+\BOOKMARK [2][-]{subsection.5.5}{Normalization Uncertainties}{section.5}% 25
+\BOOKMARK [1][-]{section.6}{Simulation}{}% 26
+\BOOKMARK [2][-]{subsection.6.1}{Simulation Verification}{section.6}% 27
+\BOOKMARK [2][-]{subsection.6.2}{PLUTO++ Event Generator}{section.6}% 28
+\BOOKMARK [2][-]{subsection.6.3}{Simulating the Lepton Trigger}{section.6}% 29
+\BOOKMARK [3][-]{subsubsection.6.3.1}{Validity of Trigger Simulation}{subsection.6.3}% 30
+\BOOKMARK [2][-]{subsection.6.4}{Simulation Kinematic Variables Verification}{section.6}% 31
+\BOOKMARK [2][-]{subsection.6.5}{Acceptance}{section.6}% 32
+\BOOKMARK [1][-]{section.7}{Results}{}% 33
+\BOOKMARK [2][-]{subsection.7.1}{Cross-Section}{section.7}% 34
+\BOOKMARK [2][-]{subsection.7.2}{Statistical Uncertainties}{section.7}% 35
+\BOOKMARK [2][-]{subsection.7.3}{Systematic Uncertainty}{section.7}% 36
+\BOOKMARK [3][-]{subsubsection.7.3.1}{Branching Ratio Systematic Uncertainty}{subsection.7.3}% 37
+\BOOKMARK [3][-]{subsubsection.7.3.2}{Cut Based Systematic Uncertainty}{subsection.7.3}% 38
+\BOOKMARK [3][-]{subsubsection.7.3.3}{Photon Flux Systematic Uncertainty}{subsection.7.3}% 39
+\BOOKMARK [3][-]{subsubsection.7.3.4}{Detector Efficiency Systematic Uncertainty}{subsection.7.3}% 40
+\BOOKMARK [3][-]{subsubsection.7.3.5}{z-vertex Cut Systematic Uncertainty}{subsection.7.3}% 41
+\BOOKMARK [3][-]{subsubsection.7.3.6}{Target Systematic Uncertainty}{subsection.7.3}% 42
+\BOOKMARK [3][-]{subsubsection.7.3.7}{Total Systematic Uncertainty}{subsection.7.3}% 43
+\BOOKMARK [2][-]{subsection.7.4}{Comparison to World Data and SAID Fits}{section.7}% 44
+\BOOKMARK [3][-]{subsubsection.7.4.1}{Differential Cross-Sections dd}{subsection.7.4}% 45
+\BOOKMARK [3][-]{subsubsection.7.4.2}{Excitation Functions}{subsection.7.4}% 46
+\BOOKMARK [3][-]{subsubsection.7.4.3}{t-Dependence}{subsection.7.4}% 47
+\BOOKMARK [3][-]{subsubsection.7.4.4}{SAID 2 Improvements}{subsection.7.4}% 48
+\BOOKMARK [3][-]{subsubsection.7.4.5}{Discussion of SAID Fits and Comaprision to World Data}{subsection.7.4}% 49
+\BOOKMARK [1][-]{section.8}{Conclusions}{}% 50
+\BOOKMARK [1][-]{section*.79}{BIBLIOGRAPHY}{}% 51

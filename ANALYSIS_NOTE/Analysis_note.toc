@@ -6,46 +6,47 @@
 \contentsline {subsubsection}{\numberline {2.2.1}Lepton Triggering and Neutral Triggering}{6}{subsubsection.2.2.1}
 \contentsline {subsection}{\numberline {2.3}Kinematic Fitting}{8}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}Tuning}{8}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2.3.2}Analysis Fitting}{15}{subsubsection.2.3.2}
-\contentsline {subsubsection}{\numberline {2.3.3}Kinematic Fitting Analysis and Cuts}{17}{subsubsection.2.3.3}
-\contentsline {subsubsection}{\numberline {2.3.4}1-C \& 4-C Cuts}{21}{subsubsection.2.3.4}
-\contentsline {subsubsection}{\numberline {2.3.5}Missing Energy Cut}{24}{subsubsection.2.3.5}
-\contentsline {subsubsection}{\numberline {2.3.6}2-C Cut}{27}{subsubsection.2.3.6}
-\contentsline {subsection}{\numberline {2.4}Particle Vertex Timing Cuts}{30}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}$z$ Vertex Cuts}{31}{subsection.2.5}
-\contentsline {subsubsection}{\numberline {2.5.1}Final Data Distribution}{33}{subsubsection.2.5.1}
-\contentsline {subsection}{\numberline {2.6}Lepton Trigger Efficiency for $\pi ^{0} \ $Candidates}{33}{subsection.2.6}
-\contentsline {section}{\numberline {3}Target Density}{33}{section.3}
-\contentsline {section}{\numberline {4}Photon Normalization}{35}{section.4}
-\contentsline {section}{\numberline {5}Normalization}{36}{section.5}
-\contentsline {subsection}{\numberline {5.1}Normalization History}{36}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}g12 Normalization Procedure}{37}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}g12 Normalization Results}{40}{subsection.5.3}
-\contentsline {subsection}{\numberline {5.4}Normalization Comparison}{50}{subsection.5.4}
-\contentsline {subsection}{\numberline {5.5}Normalization Uncertainties}{51}{subsection.5.5}
-\contentsline {section}{\numberline {6}Simulation}{51}{section.6}
-\contentsline {subsection}{\numberline {6.1}Simulation Verification}{52}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}PLUTO++ Event Generator}{53}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Simulating the Lepton Trigger}{54}{subsection.6.3}
-\contentsline {subsubsection}{\numberline {6.3.1}Validity of Trigger Simulation}{55}{subsubsection.6.3.1}
-\contentsline {subsection}{\numberline {6.4}Simulation Kinematic Variables Verification}{55}{subsection.6.4}
-\contentsline {subsection}{\numberline {6.5}Acceptance}{61}{subsection.6.5}
-\contentsline {section}{\numberline {7}Results}{62}{section.7}
-\contentsline {subsection}{\numberline {7.1}Cross-Section}{62}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Statistical Uncertainties}{63}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}Systematic Uncertainty}{65}{subsection.7.3}
-\contentsline {subsubsection}{\numberline {7.3.1}Branching Ratio Systematic Uncertainty}{65}{subsubsection.7.3.1}
-\contentsline {subsubsection}{\numberline {7.3.2}Cut Based Systematic Uncertainty}{67}{subsubsection.7.3.2}
-\contentsline {subsubsection}{\numberline {7.3.3}Photon Flux Systematic Uncertainty}{69}{subsubsection.7.3.3}
-\contentsline {subsubsection}{\numberline {7.3.4}Detector Efficiency Systematic Uncertainty}{69}{subsubsection.7.3.4}
-\contentsline {subsubsection}{\numberline {7.3.5}$z$-vertex Cut Systematic Uncertainty}{71}{subsubsection.7.3.5}
-\contentsline {subsubsection}{\numberline {7.3.6}Target Systematic Uncertainty}{71}{subsubsection.7.3.6}
-\contentsline {subsubsection}{\numberline {7.3.7}Total Systematic Uncertainty}{71}{subsubsection.7.3.7}
-\contentsline {subsection}{\numberline {7.4}Comparison to World Data and SAID Fits}{72}{subsection.7.4}
-\contentsline {subsubsection}{\numberline {7.4.1}Differential Cross-Sections $\frac {\lowercase {d}\sigma }{\lowercase {d}\Omega }$}{72}{subsubsection.7.4.1}
-\contentsline {subsubsection}{\numberline {7.4.2}Excitation Functions}{77}{subsubsection.7.4.2}
-\contentsline {subsubsection}{\numberline {7.4.3}$t$-Dependence}{79}{subsubsection.7.4.3}
-\contentsline {subsubsection}{\numberline {7.4.4}SAID $\chi ^2$ Improvements}{83}{subsubsection.7.4.4}
-\contentsline {subsubsection}{\numberline {7.4.5}Discussion of SAID Fits and Comaprision to World Data}{83}{subsubsection.7.4.5}
-\contentsline {section}{\numberline {8}Conclusions}{84}{section.8}
-\contentsline {section}{BIBLIOGRAPHY}{85}{section*.76}
+\contentsline {subsubsection}{\numberline {2.3.2}Analysis Fitting}{16}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Kinematic Fitting Analysis and Cuts}{18}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}1-C \& 4-C Cuts}{23}{subsubsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.5}Missing Energy Cut}{26}{subsubsection.2.3.5}
+\contentsline {subsubsection}{\numberline {2.3.6}2-C Cut}{29}{subsubsection.2.3.6}
+\contentsline {subsection}{\numberline {2.4}Particle Vertex Timing Cuts}{33}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}$z$ Vertex Cuts}{34}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Final \textsc {\texttt {MC}} Distribution}{36}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}Final Data Distribution}{37}{subsubsection.2.5.2}
+\contentsline {subsection}{\numberline {2.6}Lepton Trigger Efficiency for $\pi ^{0} \ $Candidates}{37}{subsection.2.6}
+\contentsline {section}{\numberline {3}Target Density}{38}{section.3}
+\contentsline {section}{\numberline {4}Photon Normalization}{38}{section.4}
+\contentsline {section}{\numberline {5}Normalization}{39}{section.5}
+\contentsline {subsection}{\numberline {5.1}Normalization History}{39}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}g12 Normalization Procedure}{39}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}g12 Normalization Results}{43}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Normalization Comparison}{53}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Normalization Uncertainties}{54}{subsection.5.5}
+\contentsline {section}{\numberline {6}Simulation}{54}{section.6}
+\contentsline {subsection}{\numberline {6.1}Simulation Verification}{55}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}PLUTO++ Event Generator}{56}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Simulating the Lepton Trigger}{57}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}Validity of Trigger Simulation}{58}{subsubsection.6.3.1}
+\contentsline {subsection}{\numberline {6.4}Simulation Kinematic Variables Verification}{58}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Acceptance}{64}{subsection.6.5}
+\contentsline {section}{\numberline {7}Results}{65}{section.7}
+\contentsline {subsection}{\numberline {7.1}Cross-Section}{65}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Statistical Uncertainties}{66}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Systematic Uncertainty}{68}{subsection.7.3}
+\contentsline {subsubsection}{\numberline {7.3.1}Branching Ratio Systematic Uncertainty}{68}{subsubsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.2}Cut Based Systematic Uncertainty}{70}{subsubsection.7.3.2}
+\contentsline {subsubsection}{\numberline {7.3.3}Photon Flux Systematic Uncertainty}{72}{subsubsection.7.3.3}
+\contentsline {subsubsection}{\numberline {7.3.4}Detector Efficiency Systematic Uncertainty}{72}{subsubsection.7.3.4}
+\contentsline {subsubsection}{\numberline {7.3.5}$z$-vertex Cut Systematic Uncertainty}{74}{subsubsection.7.3.5}
+\contentsline {subsubsection}{\numberline {7.3.6}Target Systematic Uncertainty}{74}{subsubsection.7.3.6}
+\contentsline {subsubsection}{\numberline {7.3.7}Total Systematic Uncertainty}{74}{subsubsection.7.3.7}
+\contentsline {subsection}{\numberline {7.4}Comparison to World Data and SAID Fits}{75}{subsection.7.4}
+\contentsline {subsubsection}{\numberline {7.4.1}Differential Cross-Sections $\frac {\lowercase {d}\sigma }{\lowercase {d}\Omega }$}{75}{subsubsection.7.4.1}
+\contentsline {subsubsection}{\numberline {7.4.2}Excitation Functions}{80}{subsubsection.7.4.2}
+\contentsline {subsubsection}{\numberline {7.4.3}$t$-Dependence}{82}{subsubsection.7.4.3}
+\contentsline {subsubsection}{\numberline {7.4.4}SAID $\chi ^2$ Improvements}{86}{subsubsection.7.4.4}
+\contentsline {subsubsection}{\numberline {7.4.5}Discussion of SAID Fits and Comaprision to World Data}{86}{subsubsection.7.4.5}
+\contentsline {section}{\numberline {8}Conclusions}{87}{section.8}
+\contentsline {section}{BIBLIOGRAPHY}{88}{section*.79}

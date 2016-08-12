@@ -3,7 +3,7 @@ Another quantity that is used for \abbr{PID} and data cleanliness is the vertex 
 \begin{align}
 t_{vert}= t_{\abbr{TOF}} -  l_{\abbr{TOF}}/(c\beta) \label{eq:tvert.tof}
 \end{align}
-where $t_{\abbr{TOF}}$ and $l_{\abbr{TOF}}$ are the time and length measurement, respectively, recorded at the \abbr{TOF} subsystem, and $c$ is the speed of light. The value of $\beta$ is calculated using the particles mass, $m$, and momentum, $p$, as measured from the \abbr{DC}. Therefore $\beta = \frac{p}{E} = \frac{p}{\sqrt{p^2+m^2}}$. Another means of calculating $t_{vert}$ is to use the timing of the tagger hit using the RF-corrected tagger time, see tagger calibration in \cite{clas.g12.note}. In this method $t_{vert}$ is calculated as;
+where $t_{\abbr{TOF}}$ and $l_{\abbr{TOF}}$ are the time and length measurement, respectively, recorded at the \abbr{TOF} subsystem, and $c$ is the speed of light. The value of $\beta$ is calculated using the particles mass, $m$, and momentum, $p$, as measured from the \abbr{DC}. Therefore $\beta = \frac{p}{E} = \frac{p}{\sqrt{p^2+m^2}}$. Another means of calculating $t_{vert}$ is to use the timing of the tagger hit using the RF-corrected tagger time, see tagger calibration in \cite{g12note}. In this method $t_{vert}$ is calculated as;
 \begin{align}
 t_{vert}=t_{pho} + t_{prop} \label{eq:tvert.tagger}
 \end{align}
@@ -13,29 +13,42 @@ where $t_{pho}$ is the RF-corrected time that the photon crossed the center of t
 
 \begin{figure}[h!]\begin{center}
 \includegraphics[width=\figwidth,height=\hfigheight]{\figures/analysis/TIMING/Timing_Plots.pdf}
-\caption[Number of events vs. $t_{pho} + t_{prop} - (t_{\abbr{TOF}} -  l_{\abbr{TOF}}/(c\beta))$ for \abbr{MC} and data for proton, $e^-$, and $e^+$]{\label{fig:timing.all}Number of events vs. $t_{pho} + t_{prop} - (t_{\abbr{TOF}} -  l_{\abbr{TOF}}/(c\beta))$ for \abbr{MC} and data for proton, $e^-$, and $e^+$.}
+\caption[Number of events vs. $t_{pho} + t_{prop} - (t_{\abbr{TOF}} -  l_{\abbr{TOF}}/(c\beta))$ for \abbr{MC} and data for proton, $e^-$, and $e^+$]{\label{fig:timing.all}Number of events vs. $t_{pho} + t_{prop} - (t_{\abbr{TOF}} -  l_{\abbr{TOF}}/(c\beta))$ for \abbr{MC} and data for proton, $e^-$, and $e^+$. The vertical dashed-dotted lines represent the 1.2~ns cut placed on this quantity.}
 \end{center}\end{figure}
 
 \FloatBarrier
 \subsection{$z$ Vertex Cuts}\label{sec:analysis.zvert}
-To ensure that \pizT production occurred on the $\ell$H$_2$ target, a cut was placed on the $z$-vertex position to be $-110 \le z \le -70$~Fig.~\ref{fig:zcut}. Since the vertex resolution of \abbr{CLAS} is 1~cm, there is a probability of \pizT production on the Kapton endcaps of the target. This effect was studied as a systematic uncertainty (see Sec~\ref{sec:results.systematics}). 
+To ensure that \pizT production occurred on the $\ell$H$_2$ target, a cut was placed on the $z$-vertex position to be $-110 \le z \le -70$~cm~Fig.~\ref{fig:zcut}. Since the vertex resolution of \abbr{CLAS} is 1~cm, there is a probability of \pizT production on the Kapton endcaps of the target. This effect was studied as a systematic uncertainty (see Sec~\ref{sec:results.systematics}). 
 \begin{figure}[h!]\begin{center}
 \includegraphics[width=\figwidth,height= 0.75 \hfigheight]{\figures/analysis/TARGET_DENSITY/z-vertex.pdf}
-\caption[Number of data events plotted vs. $z$-vertex]{\label{fig:zcut}Number of data events plotted vs. $z$-vertex}
+\caption[Number of data events plotted vs. $z$-vertex]{\label{fig:zcut}Number of data events plotted vs. $z$-vertex.}
 \end{center}\end{figure}
-The z-vertex is not flat because of acceptance. At large angles(backward) the acceptance in g12 was reduced to $\approxeq$100 degrees for single particle detection. For multi-particle detection, the acceptance, at large angles, was reduced to $\approxeq$70 degrees (see Fig.~\ref{fig:Ptheta_z}). For particles that originated from the start of the target, this acceptance effect was prominent. For $\pi^0$ production in g12, in which the decay of $\pi^0$ was identified with \epemT($\gamma$) events, the acceptance was largest when production occurred near the center of the target. When production happened in the forward part of the target, the dilepton acceptance was reduced. 
+The z-vertex distribution is not flat because of acceptance. At large angles(backward) the acceptance in g12 was reduced to $\approxeq$100 degrees for single particle detection. For multi-particle detection, the acceptance, at large angles, was reduced to $\approxeq$70 degrees (see Fig.~\ref{fig:Ptheta_z}). For particles that originated from the target entrance, this acceptance effect was prominent. For $\pi^0$ production in g12, in which the decay of $\pi^0$ was identified with \epemT($\gamma$) events, the acceptance was largest when production occurred near the center of the target. When production happened in the downstream part of the target, the dilepton acceptance was reduced. 
 
 \begin{figure}[h!]\begin{center}
 \includegraphics[width=\figwidth,height= 0.75 \hfigheight]{\figures/analysis/TARGET_DENSITY/PTheta_vs_z.pdf}
 \caption[Proton $\theta$ vs. $z$-vertex]{\label{fig:Ptheta_z}Proton $\theta$ vs. $z$-vertex. The z-axis depicts the total number of events.}
 \end{center}\end{figure}
 \FloatBarrier
+\subsubsection{Final \abbr{MC} Distribution}\label{sec.final.MC}
+The final \abbr{MC} selection used for measuring of physics variables from \pizT production for this analysis can be seen in Fig.~\ref{fig:kinfit.finalMC.plot}.
+
+\begin{figure}[h!]\begin{center}
+		\includegraphics[width=\figwidth,height= 0.75 \hfigheight]{\figures/analysis/KineFitter/MC/hdataLEP_MOR_pi0_FINAL_PLOTS_MC.pdf}
+		\caption[Number of \abbr{MC} events plotted vs. squared missing mass $M^{2}_x(\gamma p \to p X)$ for $\gamma p \to p e^+ e^- (\gamma)$ events after all cuts and corrections.]{\label{fig:kinfit.finalMC.plot}Number of \abbr{MC} events plotted vs. squared missing mass $M^{2}_x(\gamma p \to p X)$ for $\gamma p \to p e^+ e^- (\gamma)$ events after all cuts and corrections. The vertical dashed-dotted line represents the threshold for $\gamma p \to p \pipi$ production.}
+	\end{center}\end{figure}
+\newpage	
 \subsubsection{Final Data Distribution}\label{sec.final.data}
-The final data selection used for measuring of physics variables from \pizT production for this analysis can be seen in Fig.~\ref{fig:kinfit.final.plot}.
+The final data selection used for measuring of physics variables from \pizT production for this analysis can be seen in Fig.~\ref{fig:kinfit.final.plot}.A table of fitted mass quantities for both data and \abbr{MC} can be see in Tab.~\ref{tab:finalfit}
 
 \begin{figure}[h!]\begin{center}
 \includegraphics[width=\figwidth,height= 0.75 \hfigheight]{\figures/analysis/KineFitter/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf}
-\caption[Number of data events plotted vs. missing mass $M_x(\gamma p \to p X)$ for $\gamma p \to p e^+ e^- (\gamma)$ events after all cuts and corrections.]{\label{fig:kinfit.final.plot}Number of data events plotted vs. missing mass $M_x(\gamma p \to p X)$ for $\gamma p \to p e^+ e^- (\gamma)$ events after all cuts and corrections.}
+\caption[Number of data events plotted vs. squared missing mass $M^{2}_x(\gamma p \to p X)$ for $\gamma p \to p e^+ e^- (\gamma)$ events after all cuts and corrections.]{\label{fig:kinfit.final.plot}Number of data events plotted vs. squared missing mass $M^{2}_x(\gamma p \to p X)$ for $\gamma p \to p e^+ e^- (\gamma)$ events after all cuts and corrections. The vertical dashed-dotted line represents the threshold for $\gamma p \to p \pipi$ production.}
 \end{center}\end{figure}
+
+
+\FloatBarrier
+
+\input{tables/final_stats.tex}
 \FloatBarrier
 \input{DATA/trigger_eff}
