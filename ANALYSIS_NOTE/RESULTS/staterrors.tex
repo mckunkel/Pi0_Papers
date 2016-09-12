@@ -1,6 +1,6 @@
 \subsection{Statistical Uncertainties}\label{sec:results.staterrors}
 
-In this section, the calculations leading up to the statistical uncertainty of the cross-section measurement will be discussed. Statistical fluctuations of the measurement will depend solely on the variables in eq.~\ref{eq:xsection2} that are not constant and can vary depending on bin width or calculation methods. For this analysis, discrete binning was employed allowing to utilize Poisson distribution error estimation. A Poisson distribution $P(\lambda,k)$ is defined as,
+In this section, the calculations leading up to the statistical uncertainty of the cross-section measurement will be discussed. Statistical fluctuations of the measurement will depend solely on the variables in Eq.~\ref{eq:xsection2} that are not constant and can vary depending on bin width or calculation methods. For this analysis, discrete binning was employed allowing to utilize Poisson distribution error estimation. A Poisson distribution $P(\lambda,k)$ is defined as,
 \begin{equation}
 P(\lambda,k) = \frac{\lambda^k e^{-\lambda}}{k!}
 \end{equation}
@@ -25,7 +25,7 @@ where the statistical error of the flux $F(E_\gamma)$ and detected particles $\U
 \sigma_{\Upsilon} = \sqrt{\Upsilon} \label{eq:yield.err}. 
 \end{align}
 \end{subequations}
-From eq.~\ref{eq:acceptance}
+From Eq.~\ref{eq:acceptance}
 \begin{align}\label{eq:acceptance.error}
 \left(\frac{\sigma_\eta}{\eta}\right) = \left(\left(\frac{\sigma_R}{N_R}\right)^2 +\left(\frac{\sigma_G}{N_G}\right)^2\right)^{\frac{1}{2}}
 \end{align}
@@ -40,7 +40,7 @@ therefore
 \begin{align}\label{eq:acceptance.error.simp}
 \left(\frac{\sigma_\eta}{\eta}\right) = \left(\frac{1}{N_R} +\frac{1}{N_G}\right)^{\frac{1}{2}}
 \end{align}
-The number of events reconstructed, $N_R$ for the simulation was chosen to be such that $N_R \sim 4\Upsilon$, while the pair-production rate combined with the acceptance made it such that $N_R \ll N_G$, simplifying eq.~\ref{eq:acceptance.error.simp} to be
+The number of events reconstructed, $N_R$ for the simulation was chosen to be such that $N_R \sim 4\Upsilon$, while the pair-production rate combined with the acceptance made it such that $N_R \ll N_G$, simplifying Eq.~\ref{eq:acceptance.error.simp} to be
 \begin{align}\label{eq:acceptance.error.simpII}
 \left(\frac{\sigma_\eta}{\eta}\right) = \left(\frac{1}{4\Upsilon}\right)^{\frac{1}{2}}.
 \end{align}
@@ -48,14 +48,14 @@ It should also be noted that the beam energy binning chosen reflects that $\Upsi
 \begin{align}
 \sigma_\varXi = \varXi \left(\frac{1}{\Upsilon} +\frac{1}{4\Upsilon}\right)^{\frac{1}{2}}\label{eq:xsection.error.part1}
 \end{align}
-The backward angle binning discussed in Sec~\ref{sec:results.xsection} eq.~\ref{backbin} was chosen to minimize the statistical error by maximizing 
+The backward angle binning discussed in Sec~\ref{sec:results.xsection} Eq.~\ref{backbin} was chosen to minimize the statistical error by maximizing 
 \begin{align}
 \left(\frac{1}{\Upsilon} +\frac{1}{4\Upsilon}\right)^{\frac{1}{2}}\label{eq:xsection.error.part}
 \end{align}
-The contribution of eq.~\ref{eq:xsection.error.part} is shown in Fig.~\ref{fig:results.staterr} for values of $\Upsilon < 100$ which is typical at high beam energies, large backward $cos\theta^{\pi^0}_{C.M.}$.
+The contribution of Eq.~\ref{eq:xsection.error.part} is shown in Fig.~\ref{fig:results.staterr} for values of $\Upsilon < 100$ which is typical at high beam energies, large backward $cos\theta^{\pi^0}_{C.M.}$.
 
 \begin{figure}[h!]\begin{center}
-\includegraphics[width=\figwidth,height=\qfigheight]{\figures/analysis/statistical_errorII.pdf}
+\includegraphics[width=\figwidth,height=1.5\qfigheight]{\figures/analysis/statistical_errorIII.pdf}
 \caption[The uncertainty plotted vs. the total number of detected events and reconstructed events from \abbr{MC}, for small values of $\Upsilon$]{\label{fig:results.staterr}The uncertainty plotted vs. the total number of detected events and reconstructed events from \abbr{MC}, for small values of $\Upsilon$. The binning in the backward direction was chosen to maximize $\Upsilon$ to reduce the overall statistical error }
 \end{center}\end{figure}
 

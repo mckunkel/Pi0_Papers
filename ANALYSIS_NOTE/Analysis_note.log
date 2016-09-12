@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  12 AUG 2016 15:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  12 SEP 2016 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2124,15 +2124,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 2_XSection_Normaization_Compare_thesisI.pdf, page is rotated 90 degrees>])
 (./simulation.tex (./SIMULATION/simulation_verification.tex [54 </Users/michael
 kunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/G12_XSection_Norma
-ization_Compare_thesisII.pdf, page is rotated 90 degrees>]
-Overfull \hbox (28.60121pt too wide) in paragraph at lines 2--3
-\T1/cmr/m/n/10.95 were treated as gen-er-ated events and in-putted into the \T1
-/cmtt/m/sc/10.95 GAM2PART$\OMS/cmsy/m/n/10.95 !$\T1/cmtt/m/sc/10.95 GSIM$\OMS/c
-msy/m/n/10.95 !$\T1/cmtt/m/sc/10.95 GPP$\OMS/cmsy/m/n/10.95 !$\T1/cmtt/m/n/10.9
-5 a1c
- []
-
-[55]) (./SIMULATION/pluto.tex
+ization_Compare_thesisII.pdf, page is rotated 90 degrees>] [55])
+(./SIMULATION/pluto.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 5.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
@@ -2141,13 +2134,9 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
  [56])
-(./SIMULATION/sim_leptrig.tex [57]
-
-LaTeX Warning: Citation `durham' on page 58 undefined on input line 30.
-
-[58]
+(./SIMULATION/sim_leptrig.tex [57] [58]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/N_events.pdf
-, id=2722, 569.12625pt x 365.365pt>
+, id=2723, 569.12625pt x 365.365pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/N_event
 s.pdf Graphic file (type pdf)
 
@@ -2156,55 +2145,51 @@ s.pdf Graphic file (type pdf)
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /simulation/N_events.pdf used on input line 36.
 (pdftex.def)             Requested size: 324.01454pt x 223.42424pt.
-
-
-LaTeX Warning: Citation `durham' on page 59 undefined on input line 40.
-
-
-LaTeX Warning: Reference `sec:analysis.data.reduction' on page 59 undefined on 
-input line 40.
-
-[59 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/N_events
-.pdf, page is rotated 90 degrees>]
-</Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_vs_MxP.pd
-f, id=2783, 569.12625pt x 359.3425pt>
+ [59 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/N_event
+s.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_vs_MxP_II
+.pdf, id=2786, 569.12625pt x 204.765pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_vs_M
-xP.pdf Graphic file (type pdf)
+xP_II.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_vs_Mx
-P.pdf>
+P_II.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/simulation/ME_vs_MxP.pdf used on input line 47.
-(pdftex.def)             Requested size: 324.01454pt x 148.95438pt.
+/simulation/ME_vs_MxP_II.pdf used on input line 47.
+(pdftex.def)             Requested size: 324.01454pt x 186.19894pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_vs_MxP_si
-mulation.pdf, id=2784, 569.12625pt x 373.395pt>
+mulation_II.pdf, id=2787, 569.12625pt x 204.765pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_vs_M
-xP_simulation.pdf Graphic file (type pdf)
+xP_simulation_II.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_vs_Mx
-P_simulation.pdf>
+P_simulation_II.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/simulation/ME_vs_MxP_simulation.pdf used on input line 51.
-(pdftex.def)             Requested size: 288.01004pt x 148.95082pt.
+/simulation/ME_vs_MxP_simulation_II.pdf used on input line 51.
+(pdftex.def)             Requested size: 324.01454pt x 186.19894pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Beam_Kinemat
-ics_fitted.pdf, id=2785, 569.12625pt x 385.44pt>
+ics_fitted_II.pdf, id=2788, 516.66383pt x 376.69302pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Beam_Ki
-nematics_fitted.pdf Graphic file (type pdf)
+nematics_fitted_II.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Beam_Kin
-ematics_fitted.pdf>
+ematics_fitted_II.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/simulation/Beam_Kinematics_fitted.pdf used on input line 58.
-(pdftex.def)             Requested size: 324.01454pt x 223.42596pt.
+/simulation/Beam_Kinematics_fitted_II.pdf used on input line 58.
+(pdftex.def)             Requested size: 323.99416pt x 223.42526pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Proton_Kinem
-atics_fitted.pdf, id=2786, 569.12625pt x 385.44pt>
+atics_fitted.pdf, id=2789, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Proton_
 Kinematics_fitted.pdf Graphic file (type pdf)
 
@@ -2219,7 +2204,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Positron_Kin
-ematics_fitted.pdf, id=2787, 569.12625pt x 385.44pt>
+ematics_fitted.pdf, id=2790, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Positro
 n_Kinematics_fitted.pdf Graphic file (type pdf)
 
@@ -2234,7 +2219,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Electron_Kin
-ematics_fitted.pdf, id=2788, 569.12625pt x 385.44pt>
+ematics_fitted.pdf, id=2791, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Electro
 n_Kinematics_fitted.pdf Graphic file (type pdf)
 
@@ -2249,7 +2234,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/EpEm_Sources
-_fitted_combined.pdf, id=2789, 569.12625pt x 367.3725pt>
+_fitted_combined.pdf, id=2792, 569.12625pt x 367.3725pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/EpEm_So
 urces_fitted_combined.pdf Graphic file (type pdf)
 
@@ -2262,23 +2247,19 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[60 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_vs_Mx
-P.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WORK/GIT_HUB/THESIS/fi
-gures/print/simulation/ME_vs_MxP_simulation.pdf, page is rotated 90 degrees>]
-[61 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Beam_Kin
-ematics_fitted.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WORK/GIT_
-HUB/THESIS/figures/print/simulation/Proton_Kinematics_fitted.pdf, page is rotat
-ed 90 degrees>] [62 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/sim
-ulation/Positron_Kinematics_fitted.pdf, page is rotated 90 degrees> </Users/mic
-haelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Electron_Kinematics_fit
-ted.pdf, page is rotated 90 degrees>] [63 </Users/michaelkunkel/WORK/GIT_HUB/TH
-ESIS/figures/print/simulation/EpEm_Sources_fitted_combined.pdf, page is rotated
- 90 degrees>]) (./SIMULATION/acceptance.tex (./tables/simnumspecs.tex)
-
-LaTeX Warning: Reference `sec:analysis.data.reduction' on page 64 undefined on 
-input line 19.
-
-)) (./results.tex (./RESULTS/xsection.tex [64
+[60] [61 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_
+vs_MxP_II.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WORK/GIT_HUB/T
+HESIS/figures/print/simulation/ME_vs_MxP_simulation_II.pdf, page is rotated 90 
+degrees>] [62 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulatio
+n/Beam_Kinematics_fitted_II.pdf> </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figu
+res/print/simulation/Proton_Kinematics_fitted.pdf, page is rotated 90 degrees>]
+[63 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Positron
+_Kinematics_fitted.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WORK/
+GIT_HUB/THESIS/figures/print/simulation/Electron_Kinematics_fitted.pdf, page is
+ rotated 90 degrees>] [64 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/pri
+nt/simulation/EpEm_Sources_fitted_combined.pdf, page is rotated 90 degrees>])
+(./SIMULATION/acceptance.tex (./tables/simnumspecs.tex))) (./results.tex
+(./RESULTS/xsection.tex [65
 
 ]
 Overfull \hbox (2.26584pt too wide) in paragraph at lines 9--10
@@ -2292,34 +2273,26 @@ Overfull \hbox (1.14465pt too wide) detected at line 24
 [][] \OT1/cmr/m/n/10.95 = [][] [] []
  []
 
-[65] (./tables/targetspecs.tex
-
-LaTeX Warning: Citation `Christo' on page 66 undefined on input line 20.
-
-
-LaTeX Warning: Reference `fig:clas.targetblueprint' on page 66 undefined on inp
-ut line 20.
-
-
+[66] (./tables/targetspecs.tex
 Overfull \hbox (20.85506pt too wide) in paragraph at lines 7--27
  [] 
  []
 
-)) (./RESULTS/staterrors.tex [66] [67]
+)) (./RESULTS/staterrors.tex [67] [68]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/statistical_er
-rorII.pdf, id=3196, 260.17201pt x 184.33568pt>
+rorIII.pdf, id=3181, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/statistic
-al_errorII.pdf Graphic file (type pdf)
+al_errorIII.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/statistica
-l_errorII.pdf>
+l_errorIII.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/statistical_errorII.pdf used on input line 58.
-(pdftex.def)             Requested size: 324.01527pt x 148.95384pt.
-) (./RESULTS/systematics.tex [68 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figu
-res/print/analysis/statistical_errorII.pdf>]
+/analysis/statistical_errorIII.pdf used on input line 58.
+(pdftex.def)             Requested size: 323.99088pt x 223.42009pt.
+) (./RESULTS/systematics.tex [69 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figu
+res/print/analysis/statistical_errorIII.pdf>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING_RATI
-O/Converion_Probability_fix.pdf, id=3222, 1027.84pt x 770.88pt>
+O/Converion_Probability_fix.pdf, id=3226, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING
 _RATIO/Converion_Probability_fix.pdf Graphic file (type pdf)
 
@@ -2330,7 +2303,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 323.99088pt x 148.95064pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING_RATI
-O/Converion_Probability_II_fix.pdf, id=3223, 1027.84pt x 770.88pt>
+O/Converion_Probability_II_fix.pdf, id=3227, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING
 _RATIO/Converion_Probability_II_fix.pdf Graphic file (type pdf)
 
@@ -2344,7 +2317,14 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-(./tables/branchingratios.tex) [69] (./tables/systematics_cuts.tex
+(./tables/branchingratios.tex)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[70] [71 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANC
+HING_RATIO/Converion_Probability_fix.pdf> </Users/michaelkunkel/WORK/GIT_HUB/TH
+ESIS/figures/print/analysis/BRANCHING_RATIO/Converion_Probability_II_fix.pdf>]
+(./tables/systematics_cuts.tex
 Overfull \hbox (3.14986pt too wide) in paragraph at lines 10--10
 []\T1/cmr/m/n/10.95 Original| 
  []
@@ -2359,11 +2339,9 @@ Overfull \hbox (5.25577pt too wide) in paragraph at lines 15--15
 []\T1/cmr/m/n/10.95 100 MeV| 
  []
 
-) [70 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHIN
-G_RATIO/Converion_Probability_fix.pdf> </Users/michaelkunkel/WORK/GIT_HUB/THESI
-S/figures/print/analysis/BRANCHING_RATIO/Converion_Probability_II_fix.pdf>]
+)
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_Cut_System
-atic.pdf, id=3328, 569.12625pt x 552.0625pt>
+atic.pdf, id=3332, 569.12625pt x 552.0625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_Cut_S
 ystematic.pdf Graphic file (type pdf)
 
@@ -2377,10 +2355,13 @@ Overfull \hbox (28.81572pt too wide) in paragraph at lines 52--53
  [] 
  []
 
-[71 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_Cut_Sy
-stematic.pdf, page is rotated 90 degrees>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[72] [73 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_C
+ut_Systematic.pdf, page is rotated 90 degrees>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/Beam_systemati
-c_Error.pdf, id=3380, 569.12625pt x 552.0625pt>
+c_Error.pdf, id=3390, 569.12625pt x 552.0625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/Beam_syst
 ematic_Error.pdf Graphic file (type pdf)
 
@@ -2390,15 +2371,8 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/Beam_systematic_Error.pdf used on input line 97.
 (pdftex.def)             Requested size: 324.01454pt x 223.42403pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Citation `williams' on page 72 undefined on input line 100.
-
-
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/S_systematic_E
-rror.pdf, id=3382, 569.12625pt x 552.0625pt>
+rror.pdf, id=3393, 569.12625pt x 552.0625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/S_systema
 tic_Error.pdf Graphic file (type pdf)
 
@@ -2411,7 +2385,8 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[72]
+[74 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/Beam_syste
+matic_Error.pdf, page is rotated 90 degrees>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 107.
@@ -2420,17 +2395,15 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 107.
 
-[73 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/Beam_syste
-matic_Error.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WORK/GIT_HUB
-/THESIS/figures/print/analysis/S_systematic_Error.pdf, page is rotated 90 degre
-es>] (./tables/systematics.tex
-Overfull \hbox (4.05336pt too wide) in paragraph at lines 23--24
+[75 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/S_systemat
+ic_Error.pdf, page is rotated 90 degrees>] (./tables/systematics.tex
+Overfull \hbox (4.05336pt too wide) in paragraph at lines 24--25
 []$[]$| 
  []
 
 )
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_Systematic
-s.pdf, id=3487, 569.12625pt x 276.03125pt>
+s.pdf, id=3500, 569.12625pt x 276.03125pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_Syste
 matics.pdf Graphic file (type pdf)
 
@@ -2438,16 +2411,12 @@ matics.pdf Graphic file (type pdf)
 atics.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/All_Systematics.pdf used on input line 121.
-(pdftex.def)             Requested size: 356.41513pt x 297.93239pt.
+(pdftex.def)             Requested size: 356.41513pt x 283.03493pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[74]) (./RESULTS/comparision.tex
-
-LaTeX Warning: Reference `sec:intro.said' on page 75 undefined on input line 2.
-
-
+[76]) (./RESULTS/comparision.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 4.
@@ -2486,7 +2455,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk01a.pdf, id=
-3501, 687.56876pt x 519.9425pt>
+3513, 687.56876pt x 519.9425pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk01a.pdf
  Graphic file (type pdf)
 
@@ -2499,7 +2468,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk02a.pdf, id=
-3518, 519.9425pt x 687.56876pt>
+3530, 519.9425pt x 687.56876pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk02a.pdf
  Graphic file (type pdf)
 
@@ -2512,7 +2481,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk03a.pdf, id=
-3521, 522.95375pt x 689.57625pt>
+3533, 522.95375pt x 689.57625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk03a.pdf
  Graphic file (type pdf)
 
@@ -2525,7 +2494,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk04a.pdf, id=
-3524, 522.95375pt x 689.57625pt>
+3536, 522.95375pt x 689.57625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk04a.pdf
  Graphic file (type pdf)
 
@@ -2536,18 +2505,18 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[75 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_System
+[77 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_System
 atics.pdf, page is rotated 90 degrees>]
 
-LaTeX Warning: Text page 76 contains only floats.
+LaTeX Warning: Text page 78 contains only floats.
 
-[76 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk01a.pdf>
-] [77 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk02a.pd
-f>] [78 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk03a.
-pdf>] [79 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk04
+[78 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk01a.pdf>
+] [79 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk02a.pd
+f>] [80 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk03a.
+pdf>] [81 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk04
 a.pdf>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/mm01a-eps-
-converted-to.pdf, id=3619, 688.5725pt x 526.96875pt>
+converted-to.pdf, id=3631, 688.5725pt x 526.96875pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/mm01a
 -eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2558,7 +2527,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 323.99684pt x 297.9148pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/mm02a-eps-
-converted-to.pdf, id=3622, 688.5725pt x 505.89pt>
+converted-to.pdf, id=3634, 688.5725pt x 505.89pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/mm02a
 -eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2571,10 +2540,10 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[80
+[82
 
  </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/mm01a-eps
--converted-to.pdf>] [81 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
+-converted-to.pdf>] [83 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/DSG/mm02a-eps-converted-to.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -2586,7 +2555,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk01b-eps-
-converted-to.pdf, id=3657, 687.56876pt x 526.96875pt>
+converted-to.pdf, id=3669, 687.56876pt x 526.96875pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk01b
 -eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2597,7 +2566,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 323.99667pt x 297.9148pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk02b-eps-
-converted-to.pdf, id=3660, 526.96875pt x 687.56876pt>
+converted-to.pdf, id=3672, 526.96875pt x 687.56876pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk02b
 -eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2608,7 +2577,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 526.96745pt x 687.56708pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk03b-eps-
-converted-to.pdf, id=3663, 526.96875pt x 679.53876pt>
+converted-to.pdf, id=3675, 526.96875pt x 679.53876pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk03b
 -eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2619,7 +2588,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 526.96745pt x 679.53711pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk04b-eps-
-converted-to.pdf, id=3666, 687.56876pt x 529.98pt>
+converted-to.pdf, id=3678, 687.56876pt x 529.98pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk04b
 -eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2628,12 +2597,12 @@ eps-converted-to.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/DSG/kk04b-eps-converted-to.pdf used on input line 62.
 (pdftex.def)             Requested size: 323.99667pt x 297.90274pt.
- [82
+ [84
 
  </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk01b-eps
--converted-to.pdf>] [83 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/DSG/kk02b-eps-converted-to.pdf>] [84 </Users/michaelkunkel/WORK/GIT_H
-UB/THESIS/figures/print/analysis/DSG/kk03b-eps-converted-to.pdf>] [85 </Users/m
+-converted-to.pdf>] [85 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
+/analysis/DSG/kk02b-eps-converted-to.pdf>] [86 </Users/michaelkunkel/WORK/GIT_H
+UB/THESIS/figures/print/analysis/DSG/kk03b-eps-converted-to.pdf>] [87 </Users/m
 ichaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk04b-eps-converted
 -to.pdf>]
 
@@ -2654,7 +2623,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/dsg1a-eps-conv
-erted-to.pdf, id=3711, 608.2725pt x 470.75874pt>
+erted-to.pdf, id=3723, 608.2725pt x 470.75874pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/dsg1a-eps
 -converted-to.pdf Graphic file (type pdf)
 
@@ -2663,13 +2632,13 @@ converted-to.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/dsg1a-eps-converted-to.pdf used on input line 99.
 (pdftex.def)             Requested size: 324.00716pt x 297.90129pt.
- [86
+ [88
 
  </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/dsg1a-eps-con
-verted-to.pdf>])) [87] (./Analysis_note.bbl [88
+verted-to.pdf>])) [89] (./Analysis_note.bbl [90
 
-] [89])
-[90]
+] [91])
+[92]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 132.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 132.
  (./Analysis_note.aux)
@@ -2687,13 +2656,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 132.
  ) 
 Here is how much of TeX's memory you used:
- 22514 strings out of 493117
- 438717 string characters out of 6135433
- 503759 words of memory out of 5000000
- 25039 multiletter control sequences out of 15000+600000
- 32556 words of font info for 86 fonts, out of 8000000 for 9000
+ 22508 strings out of 493117
+ 438661 string characters out of 6135433
+ 503786 words of memory out of 5000000
+ 25032 multiletter control sequences out of 15000+600000
+ 31567 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,16n,87p,2188b,638s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,16n,87p,2183b,598s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
@@ -2707,35 +2676,33 @@ exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texl
 ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive
 /2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/20
 14/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2014/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist
-/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2014/texmf-
-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-di
-st/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist
-/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/f
-onts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fon
-ts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2014/texmf-dist/fonts
-/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/t
-ype1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
-/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/p
-ublic/cm-super/sfrm1728.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pub
-lic/cm-super/sftc0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publi
-c/cm-super/sftc0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/
-cm-super/sftc1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm
--super/sftc1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-s
-uper/sfti0600.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-sup
-er/sfti0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super
-/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/s
-fti1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sft
-t1095.pfb>
-Output written on Analysis_note.pdf (90 pages, 8481053 bytes).
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dis
+t/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2014/texmf-dist/fo
+nts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2014/texmf-dist/font
+s/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/
+type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
+1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
+public/cm-super/sftc0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pu
+blic/cm-super/sftc1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publ
+ic/cm-super/sftc1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
+/cm-super/sfti0600.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/c
+m-super/sfti0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-
+super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-su
+per/sfti1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-supe
+r/sftt1095.pfb>
+Output written on Analysis_note.pdf (92 pages, 8501166 bytes).
 PDF statistics:
- 3936 PDF objects out of 4296 (max. 8388607)
- 2371 compressed objects within 24 object streams
- 338 named destinations out of 1000 (max. 500000)
+ 3942 PDF objects out of 4296 (max. 8388607)
+ 2393 compressed objects within 24 object streams
+ 341 named destinations out of 1000 (max. 500000)
  781 words of extra memory for PDF output out of 10000 (max. 10000000)
 

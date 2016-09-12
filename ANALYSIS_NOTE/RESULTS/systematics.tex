@@ -2,7 +2,7 @@
 
 In this section, the calculations leading up to the systematic of the measurement will be discussed. Systematic errors are caused the controls of the experiment, such as flux, simulation, density and length of the $\ell H_2$ target and also systematic errors are caused by various analytical tools used, such as the kinematic fitter.
 \subsubsection{Branching Ratio Systematic Uncertainty}
-The branching ratios for the two topologies used to measure the cross-section were obtained from \abbr{PDG}\label{abbr:pdg}~\cite{pdg2014} and are listed again in Table~\ref{tab:brspecs} with their associated errors. Uncorrelated quantities that are summed as,
+The branching ratios for the two topologies used to measure the cross-section were obtained from \abbr{PDG}\label{abbr:pdg}~\cite{pdg2014} and are listed in Table~\ref{tab:brspecs} with their associated errors. Uncorrelated quantities that are summed as,
 \begin{align}
 f = \sum_{i = 1}^{M}a_iP_i  
 \end{align}
@@ -14,7 +14,7 @@ Therefore
 \begin{align}
  \frac{\Gamma}{\Gamma_{tot}} &  = \frac{\Gamma_{\pi^{0}\rightarrow e^{+}e^{-}\gamma}}{\Gamma_{tot}} + \frac{\Gamma_{\pi^{0}\rightarrow \gamma \gamma \to e^{+}e^{-}\gamma}}{\Gamma_{tot}}  \\ & = \frac{\Gamma_{\pi^{0}\rightarrow e^{+}e^{-}\gamma}}{\Gamma_{tot}} + \frac{\Gamma_{\pi^{0}\rightarrow \gamma \gamma}P(\gamma \to  e^{+}e^{-})}{\Gamma_{tot}} \ ,
 \end{align}
-where $P(\gamma \to  e^{+}e^{-})$ is the probability of photon conversion into $e^+e^-$. To measure $P(\gamma \to  e^{+}e^{-})$, the acceptance for conversion ($P(\gamma \to  e^{+}e^{-})\cdot\eta_{e^+e^-}$) is divided by the acceptance for Dalitz ($\eta_{e^+e^-}$). Fig.~\ref{fig:convprob_all} shows that the conversion probability depends on incident photon energy. A maximum probability of 8\%  per-photon was measured, shown in Fig~\ref{fig:convprob_II} top left plot. 
+where $P(\gamma \to  e^{+}e^{-})$ is the probability of photon conversion into $e^+e^-$. To measure $P(\gamma \to  e^{+}e^{-})$, the acceptance for conversion ($P(\gamma \to  e^{+}e^{-})\cdot\eta_{e^+e^-}$) is divided by the acceptance for Dalitz ($\eta_{e^+e^-}$). Fig.~\ref{fig:convprob_all} shows that the conversion probability depends on incident photon energy. A maximum probability of 8\%  per-photon was measured, shown in Fig~\ref{fig:convprob_II} bottom right plot. 
 \begin{figure}[h!]\begin{center}
 \subfloat[Probability of Photon Conversion vs. $\cos\theta$][]{ %Feynman diagram of \piz two photon decay
 \includegraphics[width=\figwidth,height=\qfigheight]{\figures/analysis/BRANCHING_RATIO/Converion_Probability_fix.pdf}\label{fig:convprob_I}
@@ -22,7 +22,7 @@ where $P(\gamma \to  e^{+}e^{-})$ is the probability of photon conversion into $
 \subfloat[Probability of Photon Conversion vs. $\cos\theta$][]{ %Feynman diagram of \piz Dalitz decay
 \includegraphics[width=\figwidth,height=\qfigheight]{\figures/analysis/BRANCHING_RATIO/Converion_Probability_II_fix.pdf}\label{fig:convprob_II}
 }
-\caption[Probability of Photon Conversion vs. $\cos\theta$ for various values of $E_\gamma$]{\label{fig:convprob_all}Probability of Photon Conversion vs. $\cos\theta$ for various values of $E_\gamma$. The maximum probability for this analysis was measured in the top left plot of b.}
+\caption[Probability of Photon Conversion vs. $\cos\theta$ for various values of $E_\gamma$]{\label{fig:convprob_all}Probability of Photon Conversion vs. $\cos\theta$ for various values of $E_\gamma$. The maximum probability for this analysis was measured in the bottom right plot of (b).}
 \end{center}\end{figure}
 Therefore
 \begin{align}
@@ -50,7 +50,7 @@ Some systematic uncertainty depended on the photon energy. All cut based systema
 
 \begin{figure}[h!]\begin{center}
 \includegraphics[width=1.2 \figwidth,height=\hfigheight]{\figures/analysis/All_Cut_Systematic.pdf}
-\caption[Plot showing the contribution of the data cut systematic error and the incoming beam dependence of the error]{\label{fig:sys_cut_error} Plot showing the contribution of the data cut systematic error and the incoming beam dependence of the error.}
+\caption[Plot showing the contribution of the data cut systematic error and the incoming beam dependence of the error]{\label{fig:sys_cut_error} Plot showing the contribution of the systematic error and the incoming beam dependence of the error for the various cuts used in the data (see plot legend).}
 \end{center}\end{figure}
 \FloatBarrier
 \subsubsection{Photon Flux Systematic Uncertainty}
@@ -100,25 +100,25 @@ This calculation was performed for various bins of incoming beam energy to deter
 The sector systematic uncertainty is consistent with the extracted sector systematic uncertainty from the g11 data set~\cite{williams}(seeFig.~\ref{fig:sys_sec_error.compare}).
 \begin{figure}[h!]\begin{center}
 \includegraphics[width= \figwidth,height=0.75\hfigheight]{\figures/analysis/S_systematic_Error.pdf}
-\caption[Comparison of sector systematic uncertainty to g11 measurement]{\label{fig:sys_sec_error.compare}Comparison of sector systematic uncertainty to g11 measurement.}
+\caption[Comparison of sector systematic uncertainty to g11 measurement]{\label{fig:sys_sec_error.compare}Comparison of sector systematic uncertainty to the g11 measurement.}
 \end{center}\end{figure}
 \FloatBarrier
 
 \subsubsection{$z$-vertex Cut Systematic Uncertainty}
-The systematic uncertainty of the $z$-vertex cut was analyzed by varying the initial vertex cut from $-110 \le z \le -70$ to $-109 \le z \le -71$ for both data and \abbr{MC}. Afterward the procedure for determining the systematic was identical to the method used to determine the ``Cut Based Systematic Uncertainty". The systematic uncertainty from varying the $z$ was 0.0041, shown in Fig.~\ref{fig:results.syserr}
+The systematic uncertainty of the $z$-vertex cut was analyzed by varying the initial vertex cut from $-110 \le z \le -70$ to $-109 \le z \le -71$ for both data and \abbr{MC}. The choice of $\pm 1$~cm was chosen based upon hte vertex resolution in \abbr{CLAS}. Afterward the procedure for determining the systematic was identical to the method used to determine the ``Cut Based Systematic Uncertainty". The systematic uncertainty from varying the $z$ was 0.0041, shown in Fig.~\ref{fig:results.syserr}
 
 \subsubsection{Target Systematic Uncertainty}
-Since the systematic on the density is 0.02\%,see Sec~\ref{sec:analysis.target_density}, the maximum systematic on the target is due to uncertainty in the length on the target which is 40~cm $\pm$ 0.2~cm. A total systematic on the target was assign to be 0.5\%. 
+Since the systematic uncertainty on the density is 0.02\%, see~\cite{g12note}, the maximum systematic on the target is due to uncertainty in the length on the target which is 40~cm $\pm$ 0.2~cm. A total systematic on the target was assign to be 0.5\%. 
 
 \subsubsection{Total Systematic Uncertainty}
-The total systematic uncertainty along with a list of the individual systematics is presented in this subsection. The calculation of the total systematic error is 
+The total systematic uncertainty along with a list of the individual sources of systematic error is presented in this subsection. The calculation of the total systematic error is 
 \begin{align}
 \sigma^{sys}_{tot} = \sqrt{\sum_{i=1}^{M}\sigma_i^2}
 \end{align}
 \input{tables/systematics.tex}
 Figure~\ref{fig:results.syserr} is a pictorial version of Table~\ref{tab:systematics}.
 \begin{figure}[h!]\begin{center}
-\includegraphics[width=1.1 \figwidth,height=\hfigheight]{\figures/analysis/All_Systematics.pdf}
+\includegraphics[width=1.1\figwidth,height=0.95\hfigheight]{\figures/analysis/All_Systematics.pdf}
 \caption[The contribution of all systematic uncertainties]{\label{fig:results.syserr}The contribution of all systematic uncertainties.}
 \end{center}\end{figure}
 \FloatBarrier

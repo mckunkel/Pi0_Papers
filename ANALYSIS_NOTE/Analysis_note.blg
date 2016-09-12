@@ -3,50 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Analysis_note.aux
 The style file: unsrt.bst
 Database file #1: PI0.bib
-Warning--I didn't find a database entry for "clas.g12.note"
 Warning--I didn't find a database entry for "clas.gflux"
-Warning--I didn't find a database entry for "durham"
-Warning--I didn't find a database entry for "Christo"
-Warning--I didn't find a database entry for "williams"
-You've used 31 entries,
+You've used 32 entries,
             1791 wiz_defined-function locations,
-            641 strings with 7569 characters,
-and the built_in function-call counts, 6168 in all, are:
-= -- 563
-> -- 239
+            638 strings with 7789 characters,
+and the built_in function-call counts, 6220 in all, are:
+= -- 566
+> -- 236
 < -- 0
 + -- 92
-- -- 61
-* -- 352
-:= -- 1022
-add.period$ -- 95
-call.type$ -- 31
-change.case$ -- 30
+- -- 60
+* -- 348
+:= -- 1032
+add.period$ -- 96
+call.type$ -- 32
+change.case$ -- 32
 chr.to.int$ -- 0
-cite$ -- 31
-duplicate$ -- 261
-empty$ -- 637
-format.name$ -- 61
-if$ -- 1369
+cite$ -- 32
+duplicate$ -- 263
+empty$ -- 647
+format.name$ -- 60
+if$ -- 1377
 int.to.chr$ -- 0
-int.to.str$ -- 31
-missing$ -- 29
-newline$ -- 159
-num.names$ -- 31
-pop$ -- 63
+int.to.str$ -- 32
+missing$ -- 27
+newline$ -- 163
+num.names$ -- 32
+pop$ -- 68
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 113
+skip$ -- 116
 stack$ -- 0
 substring$ -- 438
-swap$ -- 30
+swap$ -- 31
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 57
-width$ -- 33
-write$ -- 339
-(There were 5 warnings)
+while$ -- 58
+width$ -- 34
+write$ -- 347
+(There was 1 warning)

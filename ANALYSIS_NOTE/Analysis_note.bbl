@@ -103,11 +103,6 @@ R.~Bradford and R.A. Schumacher.
 \newblock Liquid hydrogen density in the g1c clas cryotarget.
 \newblock {\em CLAS-NOTE}, 2002-003.
 
-\bibitem{mccarty}
-R.D. McCarty, J.~Hord, and H.M. Roder.
-\newblock {\em Selected Properties of Hydrogen (engineering Design Data)}.
-\newblock NBS monograph. U.S. Government Printing Office, 1981.
-
 \bibitem{PLUTO}
 I.~Frohlich, I.~Froehlich, Lorenzo Cazon, T.~Galatyuk, V.~Hejny, et~al.
 \newblock {Pluto: A Monte Carlo Simulation Tool for Hadronic Physics}.
@@ -117,6 +112,10 @@ I.~Frohlich, I.~Froehlich, Lorenzo Cazon, T.~Galatyuk, V.~Hejny, et~al.
 V.~Crede et~al.
 \newblock {Photoproduction of Neutral Pions off Protons}.
 \newblock {\em Phys.Rev.}, C84:055203, 2011.
+
+\bibitem{durham}
+Durham~Reaction DataBase.
+\newblock Durham reaction database, 2014.
 
 \bibitem{SAID}
 {W.J.~Briscoe and others}.
@@ -129,6 +128,15 @@ V.~Crede et~al.
 Frank~A. Haight.
 \newblock {\em Handbook of the Poisson Distribution}.
 \newblock John Wiley \& Sons, 1967.
+
+\bibitem{williams}
+Williams M.
+\newblock {\em Measurement of \uppercase{D}iffrential \uppercase{C}ross
+  \uppercase{S}ections and \uppercase{S}pin \uppercase{D}ensity
+  \uppercase{M}atrix \uppercase{E}lements along with a \uppercase{P}artial
+  \uppercase{W}ave \uppercase{A}nalysis for $\gamma p \rightarrow p \omega$
+  using \abbr{CLAS} at \uppercase{J}efferson \uppercase{L}ab}.
+\newblock Doctoral, Carnegie Mellon University, May 2007.
 
 \bibitem{Dugger13}
 M.~Dugger et~al.

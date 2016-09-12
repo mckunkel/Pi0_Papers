@@ -30,23 +30,23 @@
 \contentsline {subsection}{\numberline {6.3}Simulating the Lepton Trigger}{57}{subsection.6.3}
 \contentsline {subsubsection}{\numberline {6.3.1}Validity of Trigger Simulation}{58}{subsubsection.6.3.1}
 \contentsline {subsection}{\numberline {6.4}Simulation Kinematic Variables Verification}{58}{subsection.6.4}
-\contentsline {subsection}{\numberline {6.5}Acceptance}{64}{subsection.6.5}
-\contentsline {section}{\numberline {7}Results}{65}{section.7}
-\contentsline {subsection}{\numberline {7.1}Cross-Section}{65}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Statistical Uncertainties}{66}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}Systematic Uncertainty}{68}{subsection.7.3}
-\contentsline {subsubsection}{\numberline {7.3.1}Branching Ratio Systematic Uncertainty}{68}{subsubsection.7.3.1}
-\contentsline {subsubsection}{\numberline {7.3.2}Cut Based Systematic Uncertainty}{70}{subsubsection.7.3.2}
-\contentsline {subsubsection}{\numberline {7.3.3}Photon Flux Systematic Uncertainty}{72}{subsubsection.7.3.3}
-\contentsline {subsubsection}{\numberline {7.3.4}Detector Efficiency Systematic Uncertainty}{72}{subsubsection.7.3.4}
-\contentsline {subsubsection}{\numberline {7.3.5}$z$-vertex Cut Systematic Uncertainty}{74}{subsubsection.7.3.5}
-\contentsline {subsubsection}{\numberline {7.3.6}Target Systematic Uncertainty}{74}{subsubsection.7.3.6}
-\contentsline {subsubsection}{\numberline {7.3.7}Total Systematic Uncertainty}{74}{subsubsection.7.3.7}
-\contentsline {subsection}{\numberline {7.4}Comparison to World Data and SAID Fits}{75}{subsection.7.4}
-\contentsline {subsubsection}{\numberline {7.4.1}Differential Cross-Sections $\frac {\lowercase {d}\sigma }{\lowercase {d}\Omega }$}{75}{subsubsection.7.4.1}
-\contentsline {subsubsection}{\numberline {7.4.2}Excitation Functions}{80}{subsubsection.7.4.2}
-\contentsline {subsubsection}{\numberline {7.4.3}$t$-Dependence}{82}{subsubsection.7.4.3}
-\contentsline {subsubsection}{\numberline {7.4.4}SAID $\chi ^2$ Improvements}{86}{subsubsection.7.4.4}
-\contentsline {subsubsection}{\numberline {7.4.5}Discussion of SAID Fits and Comaprision to World Data}{86}{subsubsection.7.4.5}
-\contentsline {section}{\numberline {8}Conclusions}{87}{section.8}
-\contentsline {section}{BIBLIOGRAPHY}{88}{section*.79}
+\contentsline {subsection}{\numberline {6.5}Acceptance}{65}{subsection.6.5}
+\contentsline {section}{\numberline {7}Results}{66}{section.7}
+\contentsline {subsection}{\numberline {7.1}Cross-Section}{66}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Statistical Uncertainties}{67}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Systematic Uncertainty}{69}{subsection.7.3}
+\contentsline {subsubsection}{\numberline {7.3.1}Branching Ratio Systematic Uncertainty}{70}{subsubsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.2}Cut Based Systematic Uncertainty}{71}{subsubsection.7.3.2}
+\contentsline {subsubsection}{\numberline {7.3.3}Photon Flux Systematic Uncertainty}{73}{subsubsection.7.3.3}
+\contentsline {subsubsection}{\numberline {7.3.4}Detector Efficiency Systematic Uncertainty}{73}{subsubsection.7.3.4}
+\contentsline {subsubsection}{\numberline {7.3.5}$z$-vertex Cut Systematic Uncertainty}{75}{subsubsection.7.3.5}
+\contentsline {subsubsection}{\numberline {7.3.6}Target Systematic Uncertainty}{75}{subsubsection.7.3.6}
+\contentsline {subsubsection}{\numberline {7.3.7}Total Systematic Uncertainty}{75}{subsubsection.7.3.7}
+\contentsline {subsection}{\numberline {7.4}Comparison to World Data and SAID Fits}{77}{subsection.7.4}
+\contentsline {subsubsection}{\numberline {7.4.1}Differential Cross-Sections $\frac {\lowercase {d}\sigma }{\lowercase {d}\Omega }$}{77}{subsubsection.7.4.1}
+\contentsline {subsubsection}{\numberline {7.4.2}Excitation Functions}{82}{subsubsection.7.4.2}
+\contentsline {subsubsection}{\numberline {7.4.3}$t$-Dependence}{84}{subsubsection.7.4.3}
+\contentsline {subsubsection}{\numberline {7.4.4}SAID $\chi ^2$ Improvements}{88}{subsubsection.7.4.4}
+\contentsline {subsubsection}{\numberline {7.4.5}Discussion of SAID Fits and Comaprision to World Data}{88}{subsubsection.7.4.5}
+\contentsline {section}{\numberline {8}Conclusions}{89}{section.8}
+\contentsline {section}{BIBLIOGRAPHY}{90}{section*.79}
