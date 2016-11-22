@@ -1,0 +1,12 @@
+\documentclass{article}
+
+\usepackage{catchfile}
+\newcommand{\getenv}[2][]{%
+  \CatchFileEdef{\temp}{"|kpsewhich --var-value #2"}{}%
+  \if\relax\detokenize{#1}\relax\temp\else\let#1\temp\fi}
+
+
+\begin{document}
+%\getenv[\HOME]{HOME}\show\HOME
+\getenv[\HOME]{HOME}
+\end{document}
