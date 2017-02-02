@@ -42,12 +42,13 @@
 \contentsline {subsubsection}{\numberline {8.3.4}Detector Efficiency Systematic Uncertainty}{76}{subsubsection.8.3.4}
 \contentsline {subsubsection}{\numberline {8.3.5}$z$-vertex Cut Systematic Uncertainty}{78}{subsubsection.8.3.5}
 \contentsline {subsubsection}{\numberline {8.3.6}Target Systematic Uncertainty}{78}{subsubsection.8.3.6}
-\contentsline {subsubsection}{\numberline {8.3.7}Total Systematic Uncertainty}{78}{subsubsection.8.3.7}
-\contentsline {subsection}{\numberline {8.4}Comparison to World Data and SAID Fits}{80}{subsection.8.4}
-\contentsline {subsubsection}{\numberline {8.4.1}Differential Cross-Sections $\frac {\lowercase {d}\sigma }{\lowercase {d}\Omega }$}{80}{subsubsection.8.4.1}
-\contentsline {subsubsection}{\numberline {8.4.2}Excitation Functions}{85}{subsubsection.8.4.2}
-\contentsline {subsubsection}{\numberline {8.4.3}$t$-Dependence}{87}{subsubsection.8.4.3}
-\contentsline {subsubsection}{\numberline {8.4.4}SAID $\chi ^2$ Improvements}{91}{subsubsection.8.4.4}
-\contentsline {subsubsection}{\numberline {8.4.5}Discussion of SAID Fits and Comaprision to World Data}{91}{subsubsection.8.4.5}
-\contentsline {section}{\numberline {9}Conclusions}{92}{section.9}
-\contentsline {section}{BIBLIOGRAPHY}{93}{section*.79}
+\contentsline {subsubsection}{\numberline {8.3.7}Track Efficiency Systematic Uncertainty}{78}{subsubsection.8.3.7}
+\contentsline {subsubsection}{\numberline {8.3.8}Total Systematic Uncertainty}{80}{subsubsection.8.3.8}
+\contentsline {subsection}{\numberline {8.4}Comparison to World Data and SAID Fits}{82}{subsection.8.4}
+\contentsline {subsubsection}{\numberline {8.4.1}Differential Cross-Sections $\frac {\lowercase {d}\sigma }{\lowercase {d}\Omega }$}{82}{subsubsection.8.4.1}
+\contentsline {subsubsection}{\numberline {8.4.2}Excitation Functions}{87}{subsubsection.8.4.2}
+\contentsline {subsubsection}{\numberline {8.4.3}$t$-Dependence}{89}{subsubsection.8.4.3}
+\contentsline {subsubsection}{\numberline {8.4.4}SAID $\chi ^2$ Improvements}{93}{subsubsection.8.4.4}
+\contentsline {subsubsection}{\numberline {8.4.5}Discussion of SAID Fits and Comaprision to World Data}{93}{subsubsection.8.4.5}
+\contentsline {section}{\numberline {9}Conclusions}{94}{section.9}
+\contentsline {section}{BIBLIOGRAPHY}{95}{section*.81}

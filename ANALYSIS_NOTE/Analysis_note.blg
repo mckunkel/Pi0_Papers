@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2014)
+This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Analysis_note.aux
 The style file: unsrt.bst
@@ -6,15 +6,15 @@ Database file #1: PI0.bib
 Warning--I didn't find a database entry for "clas.gflux"
 You've used 32 entries,
             1791 wiz_defined-function locations,
-            638 strings with 7789 characters,
-and the built_in function-call counts, 6220 in all, are:
-= -- 566
-> -- 236
+            638 strings with 7783 characters,
+and the built_in function-call counts, 6203 in all, are:
+= -- 565
+> -- 232
 < -- 0
-+ -- 92
-- -- 60
-* -- 348
-:= -- 1032
++ -- 91
+- -- 59
+* -- 347
+:= -- 1029
 add.period$ -- 96
 call.type$ -- 32
 change.case$ -- 32
@@ -22,8 +22,8 @@ chr.to.int$ -- 0
 cite$ -- 32
 duplicate$ -- 263
 empty$ -- 647
-format.name$ -- 60
-if$ -- 1377
+format.name$ -- 59
+if$ -- 1373
 int.to.chr$ -- 0
 int.to.str$ -- 32
 missing$ -- 27
@@ -33,7 +33,7 @@ pop$ -- 68
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 116
+skip$ -- 115
 stack$ -- 0
 substring$ -- 438
 swap$ -- 31

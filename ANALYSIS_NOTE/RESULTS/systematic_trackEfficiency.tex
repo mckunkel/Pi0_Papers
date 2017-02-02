@@ -1,0 +1,24 @@
+\subsubsection{Track Efficiency Systematic Uncertainty}
+ 
+	To calculate the track-efficiency systematic uncertainty, the calculation was redone as described in Sec.~\ref{sec:results.g12normalization} of the analysis note. The track-efficiency for the systematic study had a binning scheme of $\theta$, $\phi$, Fig.~\ref{fig:toteff_protnew}, instead of the $\theta \sin\phi$, $\theta \cos\phi$ binning seen in Fig.~\ref{fig:toteff_prot} in the analysis note.
+	
+	\begin{figure}[h!]\begin{center}
+			\includegraphics[width=1.1 \figwidth,height=\hfigheight]{/Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEffPlot.pdf}
+			\caption[$\phi$ vs. $\theta$ plot showing the over-efficiency of simulating the proton with z-vertex $-90\textless z\textless-85$~cm and momentum $0.75\textless p \textless 1$~GeV from a 2 charged track reaction]{\label{fig:toteff_protnew} $\phi$ vs. $\theta$ plot showing the over-efficiency of simulating the proton with z-vertex $-90\textless z\textless-85$~cm and momentum $0.75\textless p \textless 1$~GeV from a 2 charged track reaction.}
+		\end{center}\end{figure}
+		
+		Three-charged track-efficiency values from the initial procedure, described in Sec.~\ref{sec:results.g12normalization}, were compared to the values from this new binning. Since both techniques are not known quantities, the method for calculating the error between the is;
+		\begin{align}
+		\Delta = \frac{x_{previous} -x_{new} }{\frac{x_{previous} +x_{new}}{2}}
+		\end{align}	
+		where $x_{previous}$ is a value of a three-charged track-efficiency from the mapping of Sec.~\ref{sec:results.g12normalization} and $x_{new}$ is a three-charged track-efficiency from the mapping from the new set of figures derived for this systematic calculation.
+		
+		Since both values are corrections, it makes little statistical sense to promote one to a "known value", therefore the only appropriate method to measure the error between the values is to use the percent difference method. In this method the denominator is the average value between the two hypotheses, hence the factor of 2.
+		
+		This accumulative value is shown in Fig.~\ref{fig:toteff_error} fitted to a double-Gaussian distribution function along with a second order polynomial;
+		\begin{figure}[h!]\begin{center}
+				\includegraphics[width=1.1 \figwidth,height=\hfigheight]{/Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEffPlotSys.pdf}
+				\caption{Relative error calculated between the two sets of track efficiencies.}\label{fig:toteff_error}
+			\end{center}\end{figure}
+			in which the average error between the two methods can be deduced from the largest value of a Gaussian mean, 0.0098 or 0.98\%.		
+\FloatBarrier
