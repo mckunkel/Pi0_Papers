@@ -34,7 +34,7 @@ void MissingPlots(){
   
   mm2plmm2pepem_2->GetYaxis()->SetTitle("M_{x}^{2}(pe^{+}e^{-}) [GeV^{2}]");
   mm2plmm2pepem_2->GetYaxis()->SetTitleSize(0.095);
-  mm2plmm2pepem_2->GetYaxis()->SetTitleOffset(0.61);
+  mm2plmm2pepem_2->GetYaxis()->SetTitleOffset(0.63);
   mm2plmm2pepem_2->GetYaxis()->SetRangeUser(-0.005,0.025);
 
   mm2plmm2pepem_2->GetXaxis()->SetTitle("M_{x}^{2}(p) [GeV^{2}]");
@@ -47,9 +47,9 @@ void MissingPlots(){
   Double_t lowEdge = mm2plmm2pepem_2->GetYaxis()->GetBinLowEdge(0);
   
   TLine *l3 = new TLine(0.07792,-0.005,0.07792,0.025);
-  l3->SetLineWidth(5);
+  l3->SetLineWidth(7);
   l3->SetLineStyle(5);
-  l3->SetLineColor(kRed);
+  l3->SetLineColor(kOrange);
   l3->Draw("same");
 
   TLatex *tex = new TLatex(0.045,0.01,"#pi^{0}");
@@ -88,7 +88,7 @@ void MissingPlots(){
   
   mm2plmm2pepem_cut->GetYaxis()->SetTitle("M_{x}^{2}(pe^{+}e^{-}) [GeV^{2}]");
   mm2plmm2pepem_cut->GetYaxis()->SetTitleSize(0.095);
-  mm2plmm2pepem_cut->GetYaxis()->SetTitleOffset(0.61);
+  mm2plmm2pepem_cut->GetYaxis()->SetTitleOffset(0.65);
   mm2plmm2pepem_cut->GetYaxis()->SetRangeUser(-0.005,0.025);
 
   mm2plmm2pepem_cut->GetXaxis()->SetTitle("M_{x}^{2}(p) [GeV^{2}]");
@@ -123,15 +123,15 @@ void MissingPlots(){
   
   TLine *l4 = new TLine(0,0.075,0.2,0.075);
   
-  l4->SetLineWidth(5);
+  l4->SetLineWidth(7);
   l4->SetLineStyle(5);
-  l4->SetLineColor(kRed);
+  l4->SetLineColor(kOrange);
   l4->Draw("same");
   
   l3 = new TLine(0.07792,0.0,0.07792,1.0);
-  l3->SetLineWidth(5);
+  l3->SetLineWidth(7);
   l3->SetLineStyle(5);
-  l3->SetLineColor(kRed);
+  l3->SetLineColor(kOrange);
   l3->Draw("same");
   
   TLatex *tex = new TLatex(0.045,0.35,"#pi^{0}");
