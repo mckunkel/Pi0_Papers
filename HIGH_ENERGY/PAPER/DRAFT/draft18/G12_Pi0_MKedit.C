@@ -88,6 +88,8 @@ void Make_Plot(){
   hdata_pi0->GetXaxis()->SetTitle("M_{x}^{2}(p) [GeV^{2}]");
   hdata_pi0->GetXaxis()->SetTitleSize(0.05);
   hdata_pi0->GetXaxis()->SetTitleOffset(0.975);
+  hdata_pi0->GetXaxis()->SetRangeUser(0,0.08);
+
   hdata_pi0->GetXaxis()->CenterTitle(true);
   
   hdata_pi0->GetYaxis()->SetTitle("Entries / 0.002 [GeV^{2}]");
@@ -215,7 +217,8 @@ void Make_Plot(){
   hratio_pi0->GetXaxis()->SetTitleSize(0.18);
   hratio_pi0->GetXaxis()->SetTitleOffset(0.88);
   hratio_pi0->GetXaxis()->CenterTitle(true);
-  
+  hratio_pi0->GetXaxis()->SetRangeUser(0,0.08);
+
   hratio_pi0->GetYaxis()->SetTitle("#frac{Sig}{Sig+Bkgrnd}");// / 0.002 [GeV^{2}]
   hratio_pi0->GetYaxis()->SetTitleSize(0.135);
   hratio_pi0->GetYaxis()->SetTitleOffset(0.4);
@@ -279,7 +282,7 @@ void Make_Plot(){
   p2bck->SetBorderMode(0);
   p2bck->SetBorderSize(2);
   p2bck->SetTopMargin(0.035);
-  p2bck->SetBottomMargin(0.35);
+  p2bck->SetBottomMargin(0.42);
   //p2->SetLeftMargin(1.0);
   p2bck->SetFrameBorderMode(0);
   
@@ -287,15 +290,16 @@ void Make_Plot(){
   hBckratio_pi0->SetLabelSize(0.175, "X");
   hBckratio_pi0->SetLabelSize(0.175, "Y");
   hBckratio_pi0->GetXaxis()->SetTitle("M_{x}^{2}(p) [GeV^{2}]");
-  hBckratio_pi0->GetXaxis()->SetTitleSize(0.18);
-  hBckratio_pi0->GetXaxis()->SetTitleOffset(0.88);
+  hBckratio_pi0->GetXaxis()->SetTitleSize(0.22);
+  hBckratio_pi0->GetXaxis()->SetTitleOffset(0.86);
   hBckratio_pi0->GetXaxis()->CenterTitle(true);
-  
+  hBckratio_pi0->GetXaxis()->SetRangeUser(0,0.08);
+
   hBckratio_pi0->GetYaxis()->SetTitle("#frac{Bkgrnd}{Sig+Bkgrnd}");// / 0.002 [GeV^{2}]
   hBckratio_pi0->GetYaxis()->SetTitleSize(0.135);
   hBckratio_pi0->GetYaxis()->SetTitleOffset(0.4);
-  hBckratio_pi0->GetYaxis()->SetRangeUser(0.0,0.08);
-  hBckratio_pi0->GetYaxis()->SetNdivisions(6);
+  hBckratio_pi0->GetYaxis()->SetRangeUser(0.0,0.075);
+  hBckratio_pi0->GetYaxis()->SetNdivisions(4);
   
   hBckratio_pi0->GetYaxis()->CenterTitle(true);
   hBckratio_pi0->SetMarkerStyle(20);
@@ -305,7 +309,7 @@ void Make_Plot(){
   
   
   hBckratio_pi0->Draw("ep");
-  TArrow *arbck = new TArrow(1.78646e-02 - 2.5*4.90459e-03, 0.12, 1.78646e-02 + 3.5*4.90459e-03, 0.12, 0.015,"<|>");
+  TArrow *arbck = new TArrow(1.78646e-02 - 2.5*4.90459e-03, 0.06, 1.78646e-02 + 3.5*4.90459e-03, 0.06, 0.015,"<|>");
   arbck->SetLineWidth(4);
   arbck->SetLineColor(kRed);
   arbck->SetFillColor(kRed);
@@ -338,7 +342,7 @@ void Make_Plot(){
   myHisto2->GetXaxis()->SetLabelOffset(999);
   myHisto2->GetXaxis()->SetLabelSize(0);
   CBShape(myHisto2,0.0,0.1,0.018,0.005,-1.,4.,3.5,0);
-  
+
   cJim->cd();
   // ------------>Primitives in pad: p2
   p2Jim = new TPad("p2Jim", "p2Jim",0.0,0.0,1.0,0.225);
@@ -361,7 +365,7 @@ void Make_Plot(){
   hbackground_pi0->GetXaxis()->SetTitleSize(0.18);
   hbackground_pi0->GetXaxis()->SetTitleOffset(0.88);
   hbackground_pi0->GetXaxis()->CenterTitle(true);
-  
+  hbackground_pi0->GetXaxis()->SetRangeUser(0,0.08);
   //hbackground_pi0->GetYaxis()->SetTitle("Background Entries");
   hbackground_pi0->GetYaxis()->SetTitle("#splitline{Background}{   Entries}");
   hbackground_pi0->GetYaxis()->SetTitleSize(0.135);

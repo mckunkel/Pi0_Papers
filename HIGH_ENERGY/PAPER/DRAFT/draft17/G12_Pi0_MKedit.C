@@ -294,7 +294,7 @@ void Make_Plot(){
   hBckratio_pi0->GetYaxis()->SetTitle("#frac{Bkgrnd}{Sig+Bkgrnd}");// / 0.002 [GeV^{2}]
   hBckratio_pi0->GetYaxis()->SetTitleSize(0.135);
   hBckratio_pi0->GetYaxis()->SetTitleOffset(0.4);
-  hBckratio_pi0->GetYaxis()->SetRangeUser(0.0,0.08);
+  hBckratio_pi0->GetYaxis()->SetRangeUser(0.0,0.18);
   hBckratio_pi0->GetYaxis()->SetNdivisions(6);
   
   hBckratio_pi0->GetYaxis()->CenterTitle(true);
