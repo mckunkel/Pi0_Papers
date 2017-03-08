@@ -1,0 +1,44 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{placeins}
+\author{Michael C. Kunkel}
+\begin{document}
+Preamble: This document is to better explain to the committee members the purpose of using the method and result for the track-efficiency (TE) systematic error previously reported.
+
+The TE is a map of many ``ratio of ratios'', meaning it is derived from the ratio of detected and reconstructed particles seen in either CLAS data or Monte-Carlo (MC). Then both ratios, one from the data and the other from the MC are then divided to quantify the over/under efficiency of either the data or MC. The hope in any experment would be that this ratio is 1, showing perfect agreement between what is detected and what it simulated. Details of this method can be found in the analysis note previously provided.
+
+There are several aspects of the TE that should be emphasized.
+\begin{itemize}
+\item The TE is a event-by-event correction
+
+\item Note all values of the map are used in every analysis
+\begin{itemize}
+\item This depends on the kinematics of the reaction channel. The TE itself is physics dependent on nonresonsant $\gamma p  \to p \pi^{+} \pi^{-}$ reactions and any  $\gamma p  \to p X$, where $X \to \pi^{+} \pi^{-}$ exclusively.
+\end{itemize}
+\item Each correction can be treated indepentantly from each other
+\end{itemize}
+Now the question arises, how to calculate an error of such measurement. In this case, it was decided to recalculate the TE using a different binning scheme and compare the values from the ``old'' binning compared to the ``new'' binning. However, since both quantities are not ``known'' values, it would be misleading to apply conventional error estimation methods. Imagine the following story.
+
+All the best bases for pies are banannas, or... all the best $\pi^{0}$ are from banannas. To get a bananna you would have to travel to one of many islands. Each island has its own dimension of longnitude and latitude and also each island has its own unique set of bananna trees. Moreover, each bananna tree has its own unique characteristics of height and root arrangement. As you can guess, these four dimensions are euphamesisms for the ones of the TE. 
+
+You walk to one bananna tree, pull off a bannana and measure it with one instrument, it measures 1.01~cm, you use another instrument to measure the \emph{same} bananna and it measures 1.02~cm. You are not sure which instrument is right or wrong, therefore you cannot judge which measurement is more precise than the other. What to do?
+
+Well first you must decide on which value of the measurement to use. It would have to be the average these two measurements, 1.015. The error then would have to utilize the fact that the average value was used, which leads to using the method of ``percent error''
+\begin{align}
+\delta = \frac{\mathrm{Difference}}{\mathrm{Average}} \label{eq:proof}
+\end{align}
+and for this one banana we chose, this error would be
+0.00985 or 0.98\%. 
+
+Now that example was for one best based pies, ($\pi^{0}$), we now want to make another, and another, so we jump around from island to island measuring our banannas, getting our errors and making our best based pies. Table~\ref{tab:bananna} is a sample of such bananna measurements. At some point you made ~500K best based pies and want to know what is the error of the measurements? Certainly it should not be any one value calculated, but instead the mean of all error measurements. The spread or RMS of such a measurement just indicates the spread of the error, or ``the error-on-the-error'', IFF this error was had a Gaussian nature to it. 
+
+You see this value that is quoted for the TE systematic error is just the mean of all error calcuations. if you measured only one value you would quote the error according to Eqn.~\ref{eq:proof}. many values would be the mean of all values obtained. It is not scientific to quote any other number. 
+
+I described the technique as a story because some members of the committee seem to have pleasure in arguing with me. I wrote the story in hopes said people would get more pleasure from the story than arguing.
+\FloatBarrier
+\input{BanannaTable}
+\end{document}

@@ -1,0 +1,5 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'Supplimental.blg'
+[47] biber-darwin:290> INFO - === Thu Feb 16, 2017, 11:44:13
+[156] Utils.pm:165> ERROR - Cannot find control file 'Supplimental.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[156] Biber.pm:112> INFO - ERRORS: 1
