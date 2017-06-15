@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.24)  2 FEB 2017 21:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.24)  2 MAY 2017 18:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -132,39 +132,125 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-\figwidth=\skip46
-\qfigheight=\skip47
-\hfigheight=\skip48
+(/usr/local/texlive/2016/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen114
+\captionmargin@=\dimen115
+\captionwidth=\dimen116
+\caption@tempdima=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+)
+\c@ContinuedFloat=\count101
+)
+\c@KVtest=\count102
+\sf@farskip=\skip46
+\sf@captopadj=\dimen121
+\sf@capskip=\skip47
+\sf@nearskip=\skip48
+\c@subfigure=\count103
+\c@subfigure@save=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@subtable@save=\count107
+\c@lotdepth=\count108
+\sf@top=\skip49
+\sf@bottom=\skip50
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+)
+\XKV@depth=\count109
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box28
+)
+\tc@llx=\dimen122
+\tc@lly=\dimen123
+\tc@urx=\dimen124
+\tc@ury=\dimen125
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen126
+\adjbox@Height=\dimen127
+\adjbox@Depth=\dimen128
+\adjbox@Totalheight=\dimen129
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count110
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box29
+\sift@deathcycles=\count111
+\@vwid@loff=\dimen130
+\@vwid@roff=\dimen131
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+\figwidth=\skip51
+\qfigheight=\skip52
+\hfigheight=\skip53
 
 (./Track_sys.aux)
 \openout1 = `Track_sys.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count101
-\scratchdimen=\dimen114
-\scratchbox=\box28
-\nofMPsegments=\count102
-\nofMParguments=\count103
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count104
-\MPscratchDim=\dimen115
-\MPnumerator=\count105
-\makeMPintoPDFobject=\count106
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count112
+\scratchdimen=\dimen132
+\scratchbox=\box30
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen133
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks25
 ) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -212,12 +298,15 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 20.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+LaTeX Font Info:    Try loading font information for U+msb on input line 20.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -230,117 +319,363 @@ Plot.pdf Graphic file (type pdf)
 <use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEffP
 lot.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
-NOTE/RESULTS/NewEffPlot.pdf used on input line 20.
+NOTE/RESULTS/NewEffPlot.pdf used on input line 23.
 (pdftex.def)             Requested size: 341.56523pt x 298.9958pt.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 21.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 24.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 21.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 21.
+LaTeX Warning: Command \textless invalid in math mode on input line 24.
 
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/
 michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEffPlot.pdf, pag
 e is rotated 90 degrees>]
-</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEffPlotS
-ys.pdf, id=56, 569.12625pt x 368.37625pt>
-File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEff
-PlotSys.pdf Graphic file (type pdf)
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_I.pdf, id=56, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_I.pdf Graphic file (type pdf)
 
-<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEffP
-lotSys.pdf>
-Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
-NOTE/RESULTS/NewEffPlotSys.pdf used on input line 35.
-(pdftex.def)             Requested size: 341.56523pt x 298.9958pt.
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_I.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_I.pdf used on input line 38.
+(pdftex.def)             Requested size: 426.8089pt x 239.2041pt.
 
-</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/All_Systema
-ticsDiff.pdf, id=57, 569.12625pt x 276.03125pt>
-File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/All_Sy
-stematicsDiff.pdf Graphic file (type pdf)
+Overfull \hbox (85.14223pt too wide) in paragraph at lines 38--39
+ [][] 
+ []
 
-<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/All_Sys
-tematicsDiff.pdf>
-Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
-NOTE/RESULTS/All_SystematicsDiff.pdf used on input line 41.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_II.pdf, id=57, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_II.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_II.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_II.pdf used on input line 40.
+(pdftex.def)             Requested size: 426.8089pt x 239.2041pt.
+
+Overfull \hbox (85.14223pt too wide) in paragraph at lines 40--41
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_III.pdf, id=58, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_III.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_III.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_III.pdf used on input line 47.
+(pdftex.def)             Requested size: 426.8089pt x 239.2041pt.
+
+Overfull \hbox (85.14223pt too wide) in paragraph at lines 47--48
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_IV.pdf, id=59, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_IV.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_IV.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_IV.pdf used on input line 49.
+(pdftex.def)             Requested size: 426.8089pt x 239.2041pt.
+
+Overfull \hbox (85.14223pt too wide) in paragraph at lines 49--50
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_V.pdf, id=60, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_V.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_V.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_V.pdf used on input line 55.
+(pdftex.def)             Requested size: 426.8089pt x 239.2041pt.
+
+Overfull \hbox (85.14223pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_VI.pdf, id=61, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_VI.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_VI.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_VI.pdf used on input line 57.
+(pdftex.def)             Requested size: 426.8089pt x 239.2041pt.
+
+Overfull \hbox (85.14223pt too wide) in paragraph at lines 57--58
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_VII.pdf, id=62, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_VII.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_VII.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_VII.pdf used on input line 63.
+(pdftex.def)             Requested size: 369.90163pt x 299.02194pt.
+
+Overfull \hbox (28.23495pt too wide) in paragraph at lines 63--64
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_VIII.pdf, id=63, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_VIII.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_VIII.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_VIII.pdf used on input line 65.
+(pdftex.def)             Requested size: 369.90163pt x 299.02194pt.
+
+Overfull \hbox (28.23495pt too wide) in paragraph at lines 65--66
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 72.04385pt on input line 68.
+
+[2] [3 </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosP
+rofiledHistMeanPartial_I.pdf, page is rotated 90 degrees> </Users/michaelkunkel
+/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiledHistMeanPartial_II.pd
+f, page is rotated 90 degrees>] [4 </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/
+SVN/clas/PI0/EFFICIENCY/CosProfiledHistMeanPartial_III.pdf, page is rotated 90 
+degrees> </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Co
+sProfiledHistMeanPartial_IV.pdf, page is rotated 90 degrees>] [5 </Users/michae
+lkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiledHistMeanPartia
+l_V.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WORK/CLAS/CLAS6/CODE
+S/SVN/clas/PI0/EFFICIENCY/CosProfiledHistMeanPartial_VI.pdf, page is rotated 90
+ degrees>] [6 </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIEN
+CY/CosProfiledHistMeanPartial_VII.pdf, page is rotated 90 degrees> </Users/mich
+aelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiledHistMeanPart
+ial_VIII.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/LepTrigRang
+eThesisBinningHistMean.pdf, id=428, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/LepTri
+gRangeThesisBinningHistMean.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/LepTrig
+RangeThesisBinningHistMean.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/LepTrigRangeThesisBinningHistMean.pdf used on input line 76.
+(pdftex.def)             Requested size: 341.56523pt x 299.02194pt.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/MorTrigRang
+eThesisBinningHistMean.pdf, id=429, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/MorTri
+gRangeThesisBinningHistMean.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/MorTrig
+RangeThesisBinningHistMean.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/MorTrigRangeThesisBinningHistMean.pdf used on input line 81.
+(pdftex.def)             Requested size: 341.56523pt x 299.02194pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/LepTrigR
+angeThesisBinningHistMean.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_1_325.p
+df, id=478, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_1_
+325.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_1_3
+25.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/Trk_1_325.pdf used on input line 92.
+(pdftex.def)             Requested size: 166.22342pt x 180.67555pt.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_2_375.p
+df, id=479, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_2_
+375.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_2_3
+75.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/Trk_2_375.pdf used on input line 93.
+(pdftex.def)             Requested size: 166.22342pt x 180.67555pt.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_3_775.p
+df, id=480, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_3_
+775.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_3_7
+75.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/Trk_3_775.pdf used on input line 94.
+(pdftex.def)             Requested size: 166.22342pt x 180.67555pt.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_4_875.p
+df, id=481, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_4_
+875.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_4_8
+75.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/Trk_4_875.pdf used on input line 95.
+(pdftex.def)             Requested size: 166.22342pt x 180.67555pt.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/TrkUncertia
+ntyVSBeamEnergyReBin.pdf, id=482, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/TrkUnc
+ertiantyVSBeamEnergyReBin.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/TrkUnce
+rtiantyVSBeamEnergyReBin.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/TrkUncertiantyVSBeamEnergyReBin.pdf used on input line 105.
+(pdftex.def)             Requested size: 341.56523pt x 299.02194pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8 </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/MorTrigR
+angeThesisBinningHistMean.pdf, page is rotated 90 degrees>] [9 </Users/michaelk
+unkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_1_325.pdf, page is rota
+ted 90 degrees> </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICI
+ENCY/Trk_2_375.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WORK/CLAS
+/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_3_775.pdf, page is rotated 90 degrees>
+ </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_4_875.
+pdf, page is rotated 90 degrees>] [10 </Users/michaelkunkel/WORK/CLAS/CLAS6/COD
+ES/SVN/clas/PI0/EFFICIENCY/TrkUncertiantyVSBeamEnergyReBin.pdf, page is rotated
+ 90 degrees>]
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/SYSTEMATIC/TOTAL_SYSTE
+MATICS/All_Systematics.pdf, id=752, 569.12625pt x 276.03125pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/SYSTEMATIC/TOTAL_
+SYSTEMATICS/All_Systematics.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/SYSTEMATIC/TOTAL_S
+YSTEMATICS/All_Systematics.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/SYSTEMATIC/TOTAL_SYSTEMATICS/All_Systematics.pdf used on input line 113.
+(pdftex.def)             Requested size: 310.51068pt x 269.12726pt.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/SYSTEMATIC/TOTAL_SYSTE
+MATICS/All_SystematicsDiff.pdf, id=753, 569.12625pt x 276.03125pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/SYSTEMATIC/TOTAL_
+SYSTEMATICS/All_SystematicsDiff.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/SYSTEMATIC/TOTAL_S
+YSTEMATICS/All_SystematicsDiff.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/SYSTEMATIC/TOTAL_SYSTEMATICS/All_SystematicsDiff.pdf used on input line 119.
 (pdftex.def)             Requested size: 310.51068pt x 269.12726pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEffPl
-otSys.pdf, page is rotated 90 degrees>] [3 </Users/michaelkunkel/WORK/GIT_HUB/P
-i0_Papers/ANALYSIS_NOTE/RESULTS/All_SystematicsDiff.pdf, page is rotated 90 deg
-rees>] (./Track_sys.aux) ) 
+[11
+
+ </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/SYSTEMATIC/TOTAL_SYST
+EMATICS/All_Systematics.pdf, page is rotated 90 degrees>] [12 </Users/michaelku
+nkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/SYSTEMATIC/TOTAL_SYSTEMATICS/All_System
+aticsDiff.pdf, page is rotated 90 degrees>] (./Track_sys.aux) ) 
 Here is how much of TeX's memory you used:
- 2449 strings out of 493014
- 33800 string characters out of 6133350
- 92938 words of memory out of 5000000
- 5964 multiletter control sequences out of 15000+600000
- 5339 words of font info for 22 fonts, out of 8000000 for 9000
+ 4529 strings out of 493014
+ 74861 string characters out of 6133350
+ 133999 words of memory out of 5000000
+ 7968 multiletter control sequences out of 15000+600000
+ 10291 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,10n,24p,535b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb>
-Output written on Track_sys.pdf (3 pages, 110093 bytes).
+ 44i,11n,87p,693b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Track_sys.pdf (12 pages, 509013 bytes).
 PDF statistics:
- 170 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
+ 882 PDF objects out of 1000 (max. 8388607)
+ 385 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

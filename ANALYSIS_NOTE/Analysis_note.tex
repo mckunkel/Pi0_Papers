@@ -19,8 +19,8 @@
 \usepackage{multirow}
 \usepackage{longtable}
 \usepackage[final]{pdfpages}
-
-
+\usepackage[export]{adjustbox}
+\usepackage[final]{pdfpages}
 \hypersetup{
 	colorlinks,
 	citecolor=purple,
@@ -130,5 +130,20 @@
 %	\begin{appendices} 
 %		%\input{Appendix}
 %	\end{appendices}
-
+\section{Appendix I}
+\subsection{Acceptance plots} \label{sec:Appen}
+\includepdf[pages=-]{/Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/AcceptanceAll.pdf}
+\subsection{Acceptance plots} \label{sec:AppenII}
+\begin{figure}[h!]\begin{center}
+		\includegraphics[width=1.1\figwidth,height=1.5\hfigheight]{/Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EGammaVsMomemtumPlots_new.pdf}
+		\caption[Mometum depdence on Egamma]{\label{fig:syserrLorentzI}Momentum vs. E$_\gamma$ for proton (top), $e^+$ (middle), and $e^-$ (bottom).}
+\end{center}\end{figure}
+\begin{figure}[h!]\begin{center}
+		\includegraphics[width=1.1\figwidth,height=1.5\hfigheight]{/Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EGammaVsThetaPlots.pdf}
+		\caption[Mometum depdence on Egamma]{\label{fig:syserrLorentzII}$\theta_{lab}$ vs. E$_\gamma$ for proton (top), $e^+$ (middle), and $e^-$ (bottom).}
+\end{center}\end{figure}
+\begin{figure}[h!]\begin{center}
+		\includegraphics[width=1.1\figwidth,height=1.5\hfigheight]{/Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/ThetaVsMomemtumPlots.pdf}
+		\caption[Mometum depdence on Egamma]{\label{fig:syserrLorentzIII}$\theta_{lab}$ vs. Momentum for proton (top), $e^+$ (middle), and $e^-$ (bottom).}
+\end{center}\end{figure}
 \end{document}

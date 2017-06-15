@@ -3,10 +3,15 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Analysis_note.aux
 The style file: unsrt.bst
 Database file #1: PI0.bib
+I was expecting a `,' or a `}'---line 130 of file PI0.bib
+ :  
+ :  url={https://misportal.jlab.org/ul/Physics/Hall-B/clas/viewFile.cfm/2017-002.pdf?documentId=756},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "clas.gflux"
 You've used 32 entries,
             1791 wiz_defined-function locations,
-            638 strings with 7783 characters,
+            639 strings with 7787 characters,
 and the built_in function-call counts, 6203 in all, are:
 = -- 565
 > -- 232
@@ -45,4 +50,4 @@ warning$ -- 0
 while$ -- 58
 width$ -- 34
 write$ -- 347
-(There was 1 warning)
+(There was 1 error message)

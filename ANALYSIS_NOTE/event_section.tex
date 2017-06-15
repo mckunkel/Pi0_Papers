@@ -18,8 +18,21 @@
 	light meson decay, i.e $\gamma p \to p \omega \to p \pi^{+} \pi^{-} \pi^{0}$. 
 		
 	\input{tables/skim_requirements}
+	\textcolor{blue}{The probability that there is a $2^{nd}$ in-time photon detected is 18\% at $E_\gamma$ = 1.1~GeV and $\sim$4\% at $E_\gamma$ = 4.4~GeV and $\sim$2\% at 5.5~GeV. Therefore the chance we choose the incorrect photon is half of these value, i.e. 9\% at $E_\gamma$ = 1.1~GeV and $\sim$2\% at $E_\gamma$ = 4.4~GeV and $\sim$1\% at 5.5~GeV. The track-efficiency corrections (Sec.~\ref{sec:results.normalization}) derived with $p\pi^+\pi^-$ also were affected by this phenomena (i.e. skimmed with only one photon) and corrected this normalization. A study was performed using all in-time photons in which the track efficiency was also calculated with all in-time photons, the difference on the reported results was negligible}
 	\FloatBarrier
 \subsection{Lepton Identification}
-	Lepton identification was based on conservation of energy-momentum. Once the data is skimmed according to Table~\ref{tab:skim.requirements}, all particles that were $\pi^+$, $\pi^-$, unknown with $q^+$ or unknown with $q^-$ were tentatively assigned to be electrons or positrons based on their charge. This meant that the mass term of the particle's 4-vector was set to be the mass of an electron instead of that of a pion. This technique works because the mass of the \pizT (0.135~GeV) is less than the mass of $\pi^+$ or $\pi^-$ (0.139~GeV) and by laws of conservation of energy-momentum.
+  \textcolor{blue}{Typically, electron and positron identification in the CLAS is done by using selection cuts on the energy deposited in the EC and on the minimum number 
+  of photoelectrons in the CC. For electron runs, this allows to separate the scattered electron from negatively-charged pions. Since we are interested in a 
+  lepton pair produced in the pi0 decay for the two-body reaction $\gamma p\rightarrow p \pi^0 \rightarrow pe^+e^- (\gamma)$gammap->p0p->pe+e- gamma, we follow a different approach based in kinematics. 
+  Once the data is skimmed according to Table~\ref{tab:skim.requirements}, all tracks that were identified in the PART bank as  $\pi^+$, $\pi^-$, unknown with q$^+$, or unknown with q$^-$ 
+  tracks, were assigned the electron mass for the 1-C and the 2-C kinematic fitting of the $\gamma p\rightarrow pe^+e^- (\gamma)$ final state, and the pion mass for the 4-C 
+  kinematic fitting of the $\gamma p\rightarrow p\pi^+\pi^- (\gamma)$ final state, as described in Sec.~\ref{sec:analysis.fitting.topology}. The 4-C fitting was used to select and remove true $p\pi^+\pi^-$ events while 
+  the 1-C and the 2-C fits were used to select only true $\gamma p\rightarrow pe^+e^- (\gamma)$ and $p\pi^0$ final states, respectively. Thus, true pion tracks who are consistent with the 
+  two-pion final state were removed kinematically from our sample, while all the other tracks that were assigned the electron mass but were not true 
+  electron or positron tracks were also kinematically removed from the sample by the 1-C and the 2-C fits. This approach eliminated the need to apply 
+  dedicated electron/positron identification selection cuts.}
+   
+   
+%	Lepton identification was based on conservation of energy-momentum. Once the data is skimmed according to Table~\ref{tab:skim.requirements}, all particles that were $\pi^+$, $\pi^-$, unknown with $q^+$ or unknown with $q^-$ were tentatively assigned to be electrons or positrons based on their charge. This meant that the mass term of the particle's 4-vector was set to be the mass of an electron instead of that of a pion. This technique works because the mass of the \pizT (0.135~GeV) is less than the mass of $\pi^+$ or $\pi^-$ (0.139~GeV) and by laws of conservation of energy-momentum.
 \input{DATA/lepton_triggering}	
 \input{DATA/kinematic_fitting}

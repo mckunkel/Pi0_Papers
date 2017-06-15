@@ -1,0 +1,119 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{titling}
+\usepackage{color}
+\usepackage{placeins}
+\usepackage[final]{pdfpages}
+\newcommand{\abbr}[1]{\textsc{\texttt{#1}}}
+\newcommand{\abbrlc}[2]{\textsc{\texttt{#1}}\texttt{#2}}
+\newlength{\figwidth}
+\setlength{\figwidth}{0.9\columnwidth}
+
+\newlength{\qfigheight}
+\setlength{\qfigheight}{0.25\textheight}
+
+\newlength{\hfigheight}
+\setlength{\hfigheight}{0.5\textheight}
+\author{Michael C. Kunkel}
+\date{}
+\title{Comment to Reviewers on "Measurement of Cross-Sections of exclusive $\pi^{0}$ Photo-production on Hydrogen from 1.1 GeV - 5.45 GeV using $\lowercase{e}^{+}\lowercase{e}^{-}\gamma$ decay from the CLAS/g12 Data"}
+\begin{document}
+\maketitle
+\section{First remarks}
+As the authors appreciate the time spent by the committee, it should be noted that this analysis was performed and finished approximately 2 years ago.  The main author has moved to other projects and is severely limited in time. If the author defers, it is not to be taken in any other manner but there is no time and no substantial evidence provided to make such in-depths inquiries.
+
+Additions have been made to the note in the \textcolor{blue}{color blue}.
+
+Notation of feedback to the committee is identical to the previous response by the committee, i.e. round2comments.pdf supplied by Carlos Salgado.
+\section{General Comments}
+\begin{itemize}
+	\item \underline{GC1}: The note has been updated to reflect that bin-by-bin \textbf{derivation} of certain systematics, but the quotation of the upper limit. The table title has been update to reflect upper limit, but the individual contributions are not updated as all contributions are quoted as an upper limit. Page 86.
+	\item \underline{GC4a}: Page 46.
+	\item \underline{GC5}: Documentation in note. Added more the the documentation to express fully the procedure, see pages 78-79.
+\end{itemize}
+As stated on page 6 of "Track\_sys.pdf", Figure 7 is to illustrate why the results reported are not changed, i.e. the exact wording is " The results to be reported are not changed, in systematics, because the difference of the overall systematic are negligible between the previous reported uncertainty and this reported uncertainty when added in quadrature."  The figure only depicts the \textbf{difference} in \textbf{total} systematic uncertainty when a track-efficiency systematic was calculated to be 0.5\% and the the new value f($E_{\gamma}$), i.e.
+\begin{align}
+\left| F_{total}( \subseteq f(track) = 0.5\%) - F_{total}( \subseteq f(track) = f(E_{\gamma})) \nonumber \right |
+\end{align}
+Authors make no conjecture on the cause of the beam energy dependence for some of the systematics. Years ago, the authors and the g12 group discussed the possibility of the cause. I believe it was Lei Gou or John Price who stated "Sometimes, it is what it is, lets move on". We laughed, he laughed, the toaster laughed, things went on.
+
+Here are some angular dependence plots that depict just 3 values of $E_{\gamma}$ for each trigger range.
+\begin{figure}[h!]\begin{center}
+		\includegraphics[width=1.1 \figwidth,height=\hfigheight]{/Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/LepTrigRangeNewBinningHistMeanPartial.pdf}
+		\caption{Mean relative uncertainty vs. $\cos \theta$ calculated between the two sets of track efficiencies for selected incident beam energy between 1.2--3.6~GeV. Multiple points in $\cos \theta$ are bins of incident beam energy. }\label{fig:leptrigcostheta}
+	\end{center}\end{figure}
+	
+	\begin{figure}[h!]\begin{center}
+			\includegraphics[width=1.1 \figwidth,height=\hfigheight]{/Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/MorTrigRangeNewBinningHistMeanPartial.pdf}
+			\caption{Mean relative uncertainty vs. $\cos \theta$ calculated between the two sets of track efficiencies for selected incident beam energy between 3.6--5.5~GeV. Multiple points in $\cos \theta$ are bins of incident beam energy.}\label{fig:mortrigcostheta}
+		\end{center}\end{figure}
+		\FloatBarrier
+\section{More Specific Comments} 
+\begin{itemize}
+	\item \underline{MSC2}: Done. page 8.
+	\item \underline{MSC4}: Done: page 7.
+    \item \underline{MSC5}: 
+    \begin{itemize}
+    	\item a. The number of Cherenkov photoelectrons propagate to the PMT, which outputs the voltage. In order for the trigger to capture this, a voltage above preset values needed to be achieved, i.e. number of photoelectrons had to be above a certain quantity. 
+    	\item b. As \textbf{clearly} stated in the note, "hit quantities".
+    	\item c. It is a cut, not a logical operation. Text \textbf{clearly} states cut.
+    	\item d. Author understands that English is not native to committee, however, author is native to English and cannot express more clearly as the words \textbf{clearly} state the answers to the objections raised in this section. If these answers are not sufficient, you, the committee must \textbf{clearly} state what is is looking for. 
+    \end{itemize}
+	\item \underline{MSC6}: Done.
+    \item \underline{MSC11}: The note is correct. The effect of having events in the endcap was studied as a systematic uncertainty. The analysis itself (Data and MC) used the cut described in Sec. 2.5. 
+    \item \underline{MSC12}: Added some documentation. page 41.
+    \item \underline{MSC14}: The ``coil'' areas seen in the said plots are populated, but no event ever enters the coil area because fiducial cuts that are placed on the MC, and data. This population is WHY we have fiducial cuts. 
+    \item \underline{MSC15}: Author feels the answer to this question should remain internal as anything relating to kaon topologies is not within the scope of the pi0 analysis.
+    \item \underline{MSC16}: Plot given in note does not show any evidence of fluctuations.
+    \item \underline{MSC17}: The g11 normalization was only used to justify the g12 normalization results. Therefore it does not justify to put onto the note.
+    \item \underline{MSC19}: Again, Author must stress again, this section was only to describe to process of creating the calibration run index for g12 when processing leptons. Basically it describes trying to use the data information as MC to see if we can get a 1:1 (one in one out). No more information can be inferred from this section.
+    \item \underline{MSC20}: 
+    \begin{itemize}
+    	\item a. Each lepton (i.e. $e^+$ and $e^{-}$) has a value (0 or 1...pass or fail) corresponding to whether it passed steps 1-4 in Sec. 7.3 of the note. Since each simulated lepton has only one track , there is only one value per lepton track.
+    	\item b. Here are some parameters of the code. Basically the code has a conversion:
+    	\begin{itemize}
+    		\item  float EC$_thresh $     = 80.0;
+    		\item float CC$_thresh $     = 20.0;
+    		\item float ECInner$_thresh$ = 60.0; 
+    		\item define CC$_CHANNELS$      216
+    		\item define MV$_2ADCEC $     23.0    Threshold in adc is 23 channels per mV discriminator
+    		\item define EC$_SAMPLINGFRAC$ 0.275   Sampling fraction for Calorimeters
+    		\item define MV$_2ADCCC$      2      // Threshold in adc is 2 channels per mV discriminator
+    		\item define MIN$_CCTRIGBIT $ 0      // don't consider trigger bits less than this (should be zero)
+    		\item define N$_CCTRIGBITS$   8      // there are this many cc trigger bits
+    		\item EC$_thresh$      = EC$_thresh $     * MV$_2ADCEC$;
+    		\item EC$_thresh$      = EC$_thresh $     * EC$_SAMPLINGFRAC$;
+    		\item ECInner$_thresh$ = ECInner$_thresh$ * MV$_2ADCEC$;
+    		\item ECInner$_thresh$ = ECInner$_thresh$ * EC$_SAMPLINGFRAC$;
+    		\item CC$_thresh$      = CC$_thresh$     * MV$_2ADCCC$;
+    	\end{itemize}
+
+    \end{itemize}
+    \item \underline{MSC21}: Using phasespace will change the percentage because it would populate areas of the detector that actual physics would not. However, again author must stress again that this section was just to provide the verification of the simulation output. The 1.1\% difference could be due to many factors, VMD input, cross-section input, 1\% deviation on the needed number of initial entries to generate, the list can go on.
+    \item \underline{MSC24}: 
+    \begin{itemize}
+    	\item a. Done
+    	\item b. The analysis employs a cut of 10\% the maximum acceptance value. Meaning is for that bin of incident beam energy, the maximum acceptance was 0.005, then the lowest value to be take was 0.0005. This was a last minute procedure as per Eugene Pasyuk request. This has been added to the note. Page 69
+    \end{itemize}
+    \item \underline{MSC25}: Thanks for the clarification. While it is true we use 3 final state particles, the invariance of the system should not matter on the shape of generation.
+    \item \underline{MSC26}: As the note states, Poisson statistics were used. The was done because author knew aprioi that N$_G$ >> N$_R$. If this was not the case, author agrees that binomial propagation should be applies, but for his analysis, binomial propagation does not need to be applied.
+    \item \underline{MSC27}: Thank you for the suggestion, but this is deferred due to resources.
+    \item \underline{MSC28}: Yield for channel. Edited in note as prescribed. Page 77.
+    \item \underline{MSC29}: In the paper to be submitted the main authors were diligent enough to stick  to the convention of ``uncertainty''. The exchange of the words in the analysis note will remain.
+    \item \underline{MSC30}: The original question was about the uncertainties of a figure. The paper draft adds statistical and systematic in quadrature, and the list to be reported to the CLAS DB and Durham data base already had three columns as committee prescribed.
+    \item \underline{MSC32}: Pull distribution plot of g1c to g12 has been added to note. A point-to-point comparison is deferred due to available resources.
+\end{itemize}
+\begin{itemize}
+	\item 24. There is a script that the input is z, p , theta, phi, for each particle. The output is the total efficiency. This is done event-by-event. After the event efficiency is calculated, the event is weighted by the value as described is Eq. 26.
+	\item 25. Formula has already been given in Eq.29.
+	
+	\item 26. The plots in the note were made by another contributor. Due to time constraints, it is not feasible to ask collaborator to redo these plots with requested add-on.
+	
+	\item 27. Again, no systematic uncertainty was reported as bin-by-bin. Calculation was bin-by-bin, but error was always reported as upper limit.
+	
+\end{itemize}
+\end{document}

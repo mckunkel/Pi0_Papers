@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.24)  2 FEB 2017 21:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.24)  9 MAY 2017 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1057,6 +1057,45 @@ File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count161
 \AM@templatesizebox=\box47
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box48
+)
+\tc@llx=\dimen183
+\tc@lly=\dimen184
+\tc@urx=\dimen185
+\tc@ury=\dimen186
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen187
+\adjbox@Height=\dimen188
+\adjbox@Depth=\dimen189
+\adjbox@Totalheight=\dimen190
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count162
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box49
+\sift@deathcycles=\count163
+\@vwid@loff=\dimen191
+\@vwid@roff=\dimen192
+))
 Package hyperref Info: Option `colorlinks' set `true' on input line 30.
 \figwidth=\skip84
 \qfigheight=\skip85
@@ -1100,22 +1139,22 @@ Package: fr-subfig 2007/12/24 v0.1g (beta) floatrow: additions for subfig
 (/usr/local/texlive/2016/texmf-dist/tex/latex/floatrow/fr-longtable.sty
 Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 
-\flrow@LT@lasthead=\box48
-\flrow@LT@prelastfoot=\box49
-\c@FBLTpage=\count162
+\flrow@LT@lasthead=\box50
+\flrow@LT@prelastfoot=\box51
+\c@FBLTpage=\count164
 )
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count163
-\scratchdimen=\dimen183
-\scratchbox=\box50
-\nofMPsegments=\count164
-\nofMParguments=\count165
+\scratchcounter=\count165
+\scratchdimen=\dimen193
+\scratchbox=\box52
+\nofMPsegments=\count166
+\nofMParguments=\count167
 \everyMPshowfont=\toks42
-\MPscratchCnt=\count166
-\MPscratchDim=\dimen184
-\MPnumerator=\count167
-\makeMPintoPDFobject=\count168
+\MPscratchCnt=\count168
+\MPscratchDim=\dimen194
+\MPnumerator=\count169
+\makeMPintoPDFobject=\count170
 \everyMPtoPDFconversion=\toks43
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1133,7 +1172,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box51
+\AtBeginShipoutBox=\box53
 Package hyperref Info: Link coloring ON on input line 94.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1142,7 +1181,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count169
+\c@section@level=\count171
 )
 LaTeX Info: Redefining \ref on input line 94.
 LaTeX Info: Redefining \pageref on input line 94.
@@ -1199,12 +1238,12 @@ D parametriza-
 \openout5 = `Analysis_note.toc'.
 
  [5] (./intro.tex) (./event_section.tex
-(./tables/pi0_decay.tex) [6] (./tables/skim_requirements.tex)
-(./DATA/lepton_triggering.tex [7] [8] (./tables/trigger_config_2.tex) [9]
+(./tables/pi0_decay.tex) [6] (./tables/skim_requirements.tex) [7]
+(./DATA/lepton_triggering.tex [8] (./tables/trigger_config_2.tex) [9]
 (./tables/trigger_ec_cc.tex) [10]) (./DATA/kinematic_fitting.tex
 (./tables/Lep_Pull_vals.tex) (./tables/Pi_Pull_vals.tex)
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/Lep
-_Pulls_fixII.pdf, id=419, 1027.84pt x 770.88pt>
+_Pulls_fixII.pdf, id=436, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/Lep_Pulls_fixII.pdf Graphic file (type pdf)
 
@@ -1220,7 +1259,7 @@ Overfull \hbox (28.79533pt too wide) in paragraph at lines 41--42
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/Lep
-_Pulls_MCII.pdf, id=420, 1027.84pt x 770.88pt>
+_Pulls_MCII.pdf, id=437, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/Lep_Pulls_MCII.pdf Graphic file (type pdf)
 
@@ -1236,7 +1275,7 @@ Overfull \hbox (28.79533pt too wide) in paragraph at lines 47--48
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/GP_
-PEpEm_PullProbThesisII.pdf, id=421, 1027.84pt x 770.88pt>
+PEpEm_PullProbThesisII.pdf, id=438, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/GP_PEpEm_PullProbThesisII.pdf Graphic file (type pdf)
 
@@ -1247,7 +1286,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 323.99088pt x 297.90129pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/GP_
-PPipPim_PullsThesisII.pdf, id=422, 1027.84pt x 770.88pt>
+PPipPim_PullsThesisII.pdf, id=439, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/GP_PPipPim_PullsThesisII.pdf Graphic file (type pdf)
 
@@ -1263,7 +1302,7 @@ Overfull \hbox (28.79533pt too wide) in paragraph at lines 58--59
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/GP_
-PPipPim_PullsThesis_MCII.pdf, id=423, 1027.84pt x 770.88pt>
+PPipPim_PullsThesis_MCII.pdf, id=440, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/GP_PPipPim_PullsThesis_MCII.pdf Graphic file (type pdf)
 
@@ -1279,7 +1318,7 @@ Overfull \hbox (28.79533pt too wide) in paragraph at lines 64--65
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/GP_
-PPipPim_PullProbThesisII.pdf, id=424, 1027.84pt x 770.88pt>
+PPipPim_PullProbThesisII.pdf, id=441, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/GP_PPipPim_PullProbThesisII.pdf Graphic file (type pdf)
 
@@ -1319,7 +1358,7 @@ IS/figures/print/analysis/KineFitter/GP_PPipPim_PullsThesis_MCII.pdf>] [18 </Us
 ers/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/GP_PPip
 Pim_PullProbThesisII.pdf>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/LEP
-_FIT/All_Pulls_uncutII.pdf, id=641, 1027.84pt x 770.88pt>
+_FIT/All_Pulls_uncutII.pdf, id=658, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/LEP_FIT/All_Pulls_uncutII.pdf Graphic file (type pdf)
 
@@ -1334,7 +1373,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/LEP
-_FIT/MC/All_Pulls_uncutII.pdf, id=648, 1027.84pt x 770.88pt>
+_FIT/MC/All_Pulls_uncutII.pdf, id=665, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/LEP_FIT/MC/All_Pulls_uncutII.pdf Graphic file (type pdf)
 
@@ -1353,7 +1392,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 er/LEP_FIT/All_Pulls_uncutII.pdf> </Users/michaelkunkel/WORK/GIT_HUB/THESIS/fig
 ures/print/analysis/KineFitter/LEP_FIT/MC/All_Pulls_uncutII.pdf>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
-A/mm2P_compare_leptrig.pdf, id=713, 569.12625pt x 367.3725pt>
+A/mm2P_compare_leptrig.pdf, id=730, 569.12625pt x 367.3725pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/DATA/mm2P_compare_leptrig.pdf Graphic file (type pdf)
 
@@ -1368,7 +1407,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
-A/mm2P_compare_mortrig.pdf, id=714, 569.12625pt x 368.37625pt>
+A/mm2P_compare_mortrig.pdf, id=731, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/DATA/mm2P_compare_mortrig.pdf Graphic file (type pdf)
 
@@ -1383,7 +1422,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/MC/
-mm2P_compare_leptrig.pdf, id=715, 569.12625pt x 346.29375pt>
+mm2P_compare_leptrig.pdf, id=732, 569.12625pt x 346.29375pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/MC/mm2P_compare_leptrig.pdf Graphic file (type pdf)
 
@@ -1398,7 +1437,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/MC/
-mm2P_compare_mortrig.pdf, id=716, 569.12625pt x 346.29375pt>
+mm2P_compare_mortrig.pdf, id=733, 569.12625pt x 346.29375pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/MC/mm2P_compare_mortrig.pdf Graphic file (type pdf)
 
@@ -1422,7 +1461,7 @@ _HUB/THESIS/figures/print/analysis/KineFitter/MC/mm2P_compare_leptrig.pdf, page
 print/analysis/KineFitter/MC/mm2P_compare_mortrig.pdf, page is rotated 90 degre
 es>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
-A/All_Pulls_picut_noDraw2C.pdf, id=919, 569.12625pt x 368.37625pt>
+A/All_Pulls_picut_noDraw2C.pdf, id=936, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/DATA/All_Pulls_picut_noDraw2C.pdf Graphic file (type pdf)
 
@@ -1433,7 +1472,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 288.01004pt x 148.94986pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/MC/
-All_Pulls_picut_noDraw2C.pdf, id=920, 569.12625pt x 368.37625pt>
+All_Pulls_picut_noDraw2C.pdf, id=937, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/MC/All_Pulls_picut_noDraw2C.pdf Graphic file (type pdf)
 
@@ -1448,7 +1487,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
-A/mm2P_w_Pull_cuts.pdf, id=925, 569.12625pt x 367.3725pt>
+A/mm2P_w_Pull_cuts.pdf, id=942, 569.12625pt x 367.3725pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/DATA/mm2P_w_Pull_cuts.pdf Graphic file (type pdf)
 
@@ -1459,7 +1498,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 288.01004pt x 148.9532pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/MC/
-mm2P_w_Pull_cuts.pdf, id=926, 569.12625pt x 367.3725pt>
+mm2P_w_Pull_cuts.pdf, id=943, 569.12625pt x 367.3725pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/MC/mm2P_w_Pull_cuts.pdf Graphic file (type pdf)
 
@@ -1482,7 +1521,7 @@ T_HUB/THESIS/figures/print/analysis/KineFitter/DATA/mm2P_w_Pull_cuts.pdf, page
 is rotated 90 degrees> </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/
 analysis/KineFitter/MC/mm2P_w_Pull_cuts.pdf, page is rotated 90 degrees>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
-A/mm2P_vs_mEPEpEm.pdf, id=1130, 569.12625pt x 368.37625pt>
+A/mm2P_vs_mEPEpEm.pdf, id=1147, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/DATA/mm2P_vs_mEPEpEm.pdf Graphic file (type pdf)
 
@@ -1493,7 +1532,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 288.01004pt x 223.42197pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/MC/
-mm2P_vs_mEPEpEm.pdf, id=1131, 569.12625pt x 346.29375pt>
+mm2P_vs_mEPEpEm.pdf, id=1148, 569.12625pt x 346.29375pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/MC/mm2P_vs_mEPEpEm.pdf Graphic file (type pdf)
 
@@ -1504,7 +1543,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 288.01004pt x 223.42908pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
-A/hdataLEP_MOR_pi0_Combine.pdf, id=1136, 569.12625pt x 368.37625pt>
+A/hdataLEP_MOR_pi0_Combine.pdf, id=1153, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/DATA/hdataLEP_MOR_pi0_Combine.pdf Graphic file (type pdf)
 
@@ -1515,7 +1554,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 288.01004pt x 223.42197pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/MC/
-hdataLEP_MOR_pi0_Combine_MC.pdf, id=1137, 569.12625pt x 368.37625pt>
+hdataLEP_MOR_pi0_Combine_MC.pdf, id=1154, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/MC/hdataLEP_MOR_pi0_Combine_MC.pdf Graphic file (type pdf)
 
@@ -1549,7 +1588,7 @@ e is rotated 90 degrees>] [31 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures
 0 degrees> </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/Kin
 eFitter/MC/hdataLEP_MOR_pi0_Combine_MC.pdf, page is rotated 90 degrees>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
-A/2C_picut.pdf, id=1342, 569.12625pt x 368.37625pt>
+A/2C_picut.pdf, id=1359, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/DATA/2C_picut.pdf Graphic file (type pdf)
 
@@ -1560,7 +1599,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 288.01004pt x 148.94986pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/MC/
-2C_picut.pdf, id=1343, 569.12625pt x 368.37625pt>
+2C_picut.pdf, id=1360, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/MC/2C_picut.pdf Graphic file (type pdf)
 
@@ -1575,7 +1614,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
-A/hdataLEP_pi0_Combine.pdf, id=1348, 569.12625pt x 368.37625pt>
+A/hdataLEP_pi0_Combine.pdf, id=1365, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/DATA/hdataLEP_pi0_Combine.pdf Graphic file (type pdf)
 
@@ -1586,7 +1625,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 288.01004pt x 217.46375pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
-A/hdataMOR_pi0_Combine.pdf, id=1349, 569.12625pt x 368.37625pt>
+A/hdataMOR_pi0_Combine.pdf, id=1366, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/DATA/hdataMOR_pi0_Combine.pdf Graphic file (type pdf)
 
@@ -1604,7 +1643,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/MC/
-hdataLEP_pi0_Combine_MC.pdf, id=1354, 569.12625pt x 368.37625pt>
+hdataLEP_pi0_Combine_MC.pdf, id=1371, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/MC/hdataLEP_pi0_Combine_MC.pdf Graphic file (type pdf)
 
@@ -1615,7 +1654,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 288.01004pt x 223.42197pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/MC/
-hdataMOR_pi0_Combine_MC.pdf, id=1355, 569.12625pt x 368.37625pt>
+hdataMOR_pi0_Combine_MC.pdf, id=1372, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/MC/hdataMOR_pi0_Combine_MC.pdf Graphic file (type pdf)
 
@@ -1642,7 +1681,7 @@ ORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/MC/hdataLEP_pi0_Combine_MC
 ures/print/analysis/KineFitter/MC/hdataMOR_pi0_Combine_MC.pdf, page is rotated 
 90 degrees>])) (./ANALYSIS/timing.tex
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/TIMING/Timing_
-Plots.pdf, id=1649, 569.12625pt x 396.48125pt>
+Plots.pdf, id=1666, 569.12625pt x 396.48125pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/TIMING/Ti
 ming_Plots.pdf Graphic file (type pdf)
 
@@ -1668,7 +1707,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/TARGET_DENSITY
-/z-vertex.pdf, id=1659, 569.12625pt x 385.44pt>
+/z-vertex.pdf, id=1676, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/TARGET_DE
 NSITY/z-vertex.pdf Graphic file (type pdf)
 
@@ -1683,7 +1722,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/TARGET_DENSITY
-/PTheta_vs_z.pdf, id=1661, 569.12625pt x 385.44pt>
+/PTheta_vs_z.pdf, id=1678, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/TARGET_DE
 NSITY/PTheta_vs_z.pdf Graphic file (type pdf)
 
@@ -1713,7 +1752,7 @@ on used for mea-sur-ing of physics vari-ables from $\OML/cmm/m/it/10.95 ^^Y[] $
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/MC/
-hdataLEP_MOR_pi0_FINAL_PLOTS_MC.pdf, id=1712, 569.12625pt x 368.37625pt>
+hdataLEP_MOR_pi0_FINAL_PLOTS_MC.pdf, id=1729, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/MC/hdataLEP_MOR_pi0_FINAL_PLOTS_MC.pdf Graphic file (type pdf)
 
@@ -1736,7 +1775,7 @@ ari-ables from $\OML/cmm/m/it/10.95 ^^Y[] $\T1/cmr/m/n/10.95 production
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter/DAT
-A/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf, id=1856, 569.12625pt x 368.37625pt>
+A/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf, id=1873, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitte
 r/DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf Graphic file (type pdf)
 
@@ -1771,23 +1810,24 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [40 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/KineFitter
 /DATA/hdataLEP_MOR_pi0_FINAL_PLOTS.pdf, page is rotated 90 degrees>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/run57130_Twole
-p_normalizedIII.pdf, id=1909, 1027.84pt x 770.88pt>
+p_normalizedIII.pdf, id=1928, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/run57130_
 Twolep_normalizedIII.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/run57130_T
 wolep_normalizedIII.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/run57130_Twolep_normalizedIII.pdf used on input line 5.
+/analysis/run57130_Twolep_normalizedIII.pdf used on input line 8.
 (pdftex.def)             Requested size: 323.99088pt x 223.42009pt.
-)) (./ANALYSIS/target_density.tex) (./ANALYSIS/flux.tex
+)) (./ANALYSIS/target_density.tex) (./ANALYSIS/flux.tex [41 </Users/michaelkunk
+el/WORK/GIT_HUB/THESIS/figures/print/analysis/run57130_Twolep_normalizedIII.pdf
+>]
 
-LaTeX Warning: Citation `clas.gflux' on page 41 undefined on input line 2.
+LaTeX Warning: Citation `clas.gflux' on page 42 undefined on input line 2.
 
-[41 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/run57130_T
-wolep_normalizedIII.pdf>]
+
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/GFLUX/Analysis
-_GFlux_II.pdf, id=1945, 569.12625pt x 324.21124pt>
+_GFlux_II.pdf, id=1963, 569.12625pt x 324.21124pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/GFLUX/Ana
 lysis_GFlux_II.pdf Graphic file (type pdf)
 
@@ -1805,7 +1845,7 @@ Overfull \hbox (27.34753pt too wide) in paragraph at lines 8--18
 
 )
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/All
-_Pull_Eff_Plot.pdf, id=2002, 569.12625pt x 385.44pt>
+_Pull_Eff_Plot.pdf, id=2022, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/All_Pull_Eff_Plot.pdf Graphic file (type pdf)
 
@@ -1816,7 +1856,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 356.41513pt x 297.90129pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/All
-_Pull_Eff_PlotMC.pdf, id=2003, 569.12625pt x 385.44pt>
+_Pull_Eff_PlotMC.pdf, id=2023, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/All_Pull_Eff_PlotMC.pdf Graphic file (type pdf)
 
@@ -1825,14 +1865,11 @@ Y/All_Pull_Eff_PlotMC.pdf Graphic file (type pdf)
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/EFFICIENCY/All_Pull_Eff_PlotMC.pdf used on input line 23.
 (pdftex.def)             Requested size: 356.41513pt x 297.90129pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+ [43]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-(./tables/eff_binning.tex [43]
+(./tables/eff_binning.tex
 
 LaTeX Warning: Command \textless invalid in math mode on input line 96.
 
@@ -1843,333 +1880,331 @@ LaTeX Warning: Command \textless invalid in math mode on input line 96.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ) [44 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIEN
-CY/All_Pull_Eff_Plot.pdf, page is rotated 90 degrees>]
-Overfull \vbox (4.324pt too high) has occurred while \output is active []
-
- [45 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
-Y/All_Pull_Eff_PlotMC.pdf, page is rotated 90 degrees>]
+CY/All_Pull_Eff_Plot.pdf, page is rotated 90 degrees>] [45 </Users/michaelkunke
+l/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/All_Pull_Eff_PlotMC.pdf
+, page is rotated 90 degrees>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/Pro
-t_Thesis_EffData_Plot.pdf, id=2138, 569.12625pt x 385.44pt>
+t_Thesis_EffData_Plot.pdf, id=2152, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/Prot_Thesis_EffData_Plot.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY
 /Prot_Thesis_EffData_Plot.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/EFFICIENCY/Prot_Thesis_EffData_Plot.pdf used on input line 54.
+/analysis/EFFICIENCY/Prot_Thesis_EffData_Plot.pdf used on input line 55.
 (pdftex.def)             Requested size: 356.41513pt x 297.90129pt.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 55.
+LaTeX Warning: Command \textless invalid in math mode on input line 56.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 55.
+LaTeX Warning: Command \textless invalid in math mode on input line 56.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 55.
+LaTeX Warning: Command \textless invalid in math mode on input line 56.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 55.
+LaTeX Warning: Command \textless invalid in math mode on input line 56.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 55.
+LaTeX Warning: Command \textless invalid in math mode on input line 56.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 55.
+LaTeX Warning: Command \textless invalid in math mode on input line 56.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 55.
+LaTeX Warning: Command \textless invalid in math mode on input line 56.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 55.
+LaTeX Warning: Command \textless invalid in math mode on input line 56.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/Pro
-t_Thesis_EffMC_Plot.pdf, id=2139, 569.12625pt x 385.44pt>
+t_Thesis_EffMC_Plot.pdf, id=2153, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/Prot_Thesis_EffMC_Plot.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY
 /Prot_Thesis_EffMC_Plot.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/EFFICIENCY/Prot_Thesis_EffMC_Plot.pdf used on input line 59.
+/analysis/EFFICIENCY/Prot_Thesis_EffMC_Plot.pdf used on input line 60.
 (pdftex.def)             Requested size: 356.41513pt x 297.90129pt.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 60.
+LaTeX Warning: Command \textless invalid in math mode on input line 61.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 60.
+LaTeX Warning: Command \textless invalid in math mode on input line 61.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 60.
+LaTeX Warning: Command \textless invalid in math mode on input line 61.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 60.
+LaTeX Warning: Command \textless invalid in math mode on input line 61.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 60.
+LaTeX Warning: Command \textless invalid in math mode on input line 61.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 60.
+LaTeX Warning: Command \textless invalid in math mode on input line 61.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 60.
+LaTeX Warning: Command \textless invalid in math mode on input line 61.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 60.
+LaTeX Warning: Command \textless invalid in math mode on input line 61.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/Pro
-t_Thesis_TotEff_Plot.pdf, id=2140, 569.12625pt x 385.44pt>
+t_Thesis_TotEff_Plot.pdf, id=2154, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/Prot_Thesis_TotEff_Plot.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY
 /Prot_Thesis_TotEff_Plot.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/EFFICIENCY/Prot_Thesis_TotEff_Plot.pdf used on input line 64.
+/analysis/EFFICIENCY/Prot_Thesis_TotEff_Plot.pdf used on input line 65.
 (pdftex.def)             Requested size: 356.41513pt x 297.90129pt.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 65.
+LaTeX Warning: Command \textless invalid in math mode on input line 66.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 65.
+LaTeX Warning: Command \textless invalid in math mode on input line 66.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 65.
+LaTeX Warning: Command \textless invalid in math mode on input line 66.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 65.
+LaTeX Warning: Command \textless invalid in math mode on input line 66.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 65.
+LaTeX Warning: Command \textless invalid in math mode on input line 66.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 65.
+LaTeX Warning: Command \textless invalid in math mode on input line 66.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 65.
+LaTeX Warning: Command \textless invalid in math mode on input line 66.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 65.
+LaTeX Warning: Command \textless invalid in math mode on input line 66.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/Pip
-_Thesis_EffData_Plot.pdf, id=2141, 569.12625pt x 385.44pt>
+_Thesis_EffData_Plot.pdf, id=2155, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/Pip_Thesis_EffData_Plot.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY
 /Pip_Thesis_EffData_Plot.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/EFFICIENCY/Pip_Thesis_EffData_Plot.pdf used on input line 69.
+/analysis/EFFICIENCY/Pip_Thesis_EffData_Plot.pdf used on input line 70.
 (pdftex.def)             Requested size: 356.41513pt x 297.90129pt.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 70.
+LaTeX Warning: Command \textless invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 70.
+LaTeX Warning: Command \textless invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 70.
+LaTeX Warning: Command \textless invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 70.
+LaTeX Warning: Command \textless invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 70.
+LaTeX Warning: Command \textless invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 70.
+LaTeX Warning: Command \textless invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 70.
+LaTeX Warning: Command \textless invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 70.
+LaTeX Warning: Command \textless invalid in math mode on input line 71.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/Pip
-_Thesis_EffMC_Plot.pdf, id=2142, 569.12625pt x 385.44pt>
+_Thesis_EffMC_Plot.pdf, id=2156, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/Pip_Thesis_EffMC_Plot.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY
 /Pip_Thesis_EffMC_Plot.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/EFFICIENCY/Pip_Thesis_EffMC_Plot.pdf used on input line 74.
+/analysis/EFFICIENCY/Pip_Thesis_EffMC_Plot.pdf used on input line 75.
 (pdftex.def)             Requested size: 356.41513pt x 297.90129pt.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 75.
+LaTeX Warning: Command \textless invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 75.
+LaTeX Warning: Command \textless invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 75.
+LaTeX Warning: Command \textless invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 75.
+LaTeX Warning: Command \textless invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 75.
+LaTeX Warning: Command \textless invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 75.
+LaTeX Warning: Command \textless invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 75.
+LaTeX Warning: Command \textless invalid in math mode on input line 76.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 75.
+LaTeX Warning: Command \textless invalid in math mode on input line 76.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/Pip
-_Thesis_TotEff_Plot.pdf, id=2143, 569.12625pt x 385.44pt>
+_Thesis_TotEff_Plot.pdf, id=2157, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/Pip_Thesis_TotEff_Plot.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY
 /Pip_Thesis_TotEff_Plot.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/EFFICIENCY/Pip_Thesis_TotEff_Plot.pdf used on input line 79.
+/analysis/EFFICIENCY/Pip_Thesis_TotEff_Plot.pdf used on input line 80.
 (pdftex.def)             Requested size: 356.41513pt x 297.90129pt.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 80.
+LaTeX Warning: Command \textless invalid in math mode on input line 81.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 80.
+LaTeX Warning: Command \textless invalid in math mode on input line 81.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 80.
+LaTeX Warning: Command \textless invalid in math mode on input line 81.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 80.
+LaTeX Warning: Command \textless invalid in math mode on input line 81.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 80.
+LaTeX Warning: Command \textless invalid in math mode on input line 81.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 80.
+LaTeX Warning: Command \textless invalid in math mode on input line 81.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 80.
+LaTeX Warning: Command \textless invalid in math mode on input line 81.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 80.
+LaTeX Warning: Command \textless invalid in math mode on input line 81.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/Pim
-_Thesis_EffData_Plot.pdf, id=2144, 569.12625pt x 385.44pt>
+_Thesis_EffData_Plot.pdf, id=2158, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/Pim_Thesis_EffData_Plot.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY
 /Pim_Thesis_EffData_Plot.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/EFFICIENCY/Pim_Thesis_EffData_Plot.pdf used on input line 84.
+/analysis/EFFICIENCY/Pim_Thesis_EffData_Plot.pdf used on input line 85.
 (pdftex.def)             Requested size: 356.41513pt x 297.90129pt.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 85.
+LaTeX Warning: Command \textless invalid in math mode on input line 86.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 85.
+LaTeX Warning: Command \textless invalid in math mode on input line 86.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 85.
+LaTeX Warning: Command \textless invalid in math mode on input line 86.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 85.
+LaTeX Warning: Command \textless invalid in math mode on input line 86.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 85.
+LaTeX Warning: Command \textless invalid in math mode on input line 86.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 85.
+LaTeX Warning: Command \textless invalid in math mode on input line 86.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 85.
+LaTeX Warning: Command \textless invalid in math mode on input line 86.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 85.
+LaTeX Warning: Command \textless invalid in math mode on input line 86.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/Pim
-_Thesis_EffMC_Plot.pdf, id=2145, 569.12625pt x 385.44pt>
+_Thesis_EffMC_Plot.pdf, id=2159, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/Pim_Thesis_EffMC_Plot.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY
 /Pim_Thesis_EffMC_Plot.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/EFFICIENCY/Pim_Thesis_EffMC_Plot.pdf used on input line 89.
+/analysis/EFFICIENCY/Pim_Thesis_EffMC_Plot.pdf used on input line 90.
 (pdftex.def)             Requested size: 356.41513pt x 297.90129pt.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 90.
+LaTeX Warning: Command \textless invalid in math mode on input line 91.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 90.
+LaTeX Warning: Command \textless invalid in math mode on input line 91.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 90.
+LaTeX Warning: Command \textless invalid in math mode on input line 91.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 90.
+LaTeX Warning: Command \textless invalid in math mode on input line 91.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 90.
+LaTeX Warning: Command \textless invalid in math mode on input line 91.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 90.
+LaTeX Warning: Command \textless invalid in math mode on input line 91.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 90.
+LaTeX Warning: Command \textless invalid in math mode on input line 91.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 90.
+LaTeX Warning: Command \textless invalid in math mode on input line 91.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/Pim
-_Thesis_TotEff_Plot.pdf, id=2146, 569.12625pt x 385.44pt>
+_Thesis_TotEff_Plot.pdf, id=2160, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/Pim_Thesis_TotEff_Plot.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY
 /Pim_Thesis_TotEff_Plot.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/EFFICIENCY/Pim_Thesis_TotEff_Plot.pdf used on input line 94.
+/analysis/EFFICIENCY/Pim_Thesis_TotEff_Plot.pdf used on input line 95.
 (pdftex.def)             Requested size: 356.41513pt x 297.90129pt.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 95.
+LaTeX Warning: Command \textless invalid in math mode on input line 96.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 95.
+LaTeX Warning: Command \textless invalid in math mode on input line 96.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 95.
+LaTeX Warning: Command \textless invalid in math mode on input line 96.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 95.
+LaTeX Warning: Command \textless invalid in math mode on input line 96.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 95.
+LaTeX Warning: Command \textless invalid in math mode on input line 96.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 95.
+LaTeX Warning: Command \textless invalid in math mode on input line 96.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 95.
+LaTeX Warning: Command \textless invalid in math mode on input line 96.
 
 
-LaTeX Warning: Command \textless invalid in math mode on input line 95.
+LaTeX Warning: Command \textless invalid in math mode on input line 96.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2215,7 +2250,7 @@ otated 90 degrees>] [54 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 [55 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY
 /Pim_Thesis_TotEff_Plot.pdf, page is rotated 90 degrees>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/G12
-_XSection_Normaization_Compare_thesisI.pdf, id=2591, 569.12625pt x 367.3725pt>
+_XSection_Normaization_Compare_thesisI.pdf, id=2610, 569.12625pt x 367.3725pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/G12_XSection_Normaization_Compare_thesisI.pdf Graphic file (type pdf)
 
@@ -2223,11 +2258,11 @@ Y/G12_XSection_Normaization_Compare_thesisI.pdf Graphic file (type pdf)
 /G12_XSection_Normaization_Compare_thesisI.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/EFFICIENCY/G12_XSection_Normaization_Compare_thesisI.pdf used on inpu
-t line 103.
+t line 104.
 (pdftex.def)             Requested size: 356.41513pt x 297.91763pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENCY/G12
-_XSection_Normaization_Compare_thesisII.pdf, id=2592, 569.12625pt x 367.3725pt>
+_XSection_Normaization_Compare_thesisII.pdf, id=2611, 569.12625pt x 367.3725pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/EFFICIENC
 Y/G12_XSection_Normaization_Compare_thesisII.pdf Graphic file (type pdf)
 
@@ -2235,7 +2270,7 @@ Y/G12_XSection_Normaization_Compare_thesisII.pdf Graphic file (type pdf)
 /G12_XSection_Normaization_Compare_thesisII.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/EFFICIENCY/G12_XSection_Normaization_Compare_thesisII.pdf used on inp
-ut line 108.
+ut line 109.
 (pdftex.def)             Requested size: 356.41513pt x 297.91763pt.
 
 
@@ -2253,7 +2288,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
  [59]) (./SIMULATION/sim_leptrig.tex [60] [61]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/N_events.pdf
-, id=2739, 569.12625pt x 365.365pt>
+, id=2759, 569.12625pt x 365.365pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/N_event
 s.pdf Graphic file (type pdf)
 
@@ -2265,7 +2300,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
  [62 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/N_event
 s.pdf, page is rotated 90 degrees>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_vs_MxP_II
-.pdf, id=2803, 569.12625pt x 204.765pt>
+.pdf, id=2823, 569.12625pt x 204.765pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_vs_M
 xP_II.pdf Graphic file (type pdf)
 
@@ -2276,7 +2311,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 324.01454pt x 186.19894pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_vs_MxP_si
-mulation_II.pdf, id=2804, 569.12625pt x 204.765pt>
+mulation_II.pdf, id=2824, 569.12625pt x 204.765pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/ME_vs_M
 xP_simulation_II.pdf Graphic file (type pdf)
 
@@ -2291,7 +2326,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Beam_Kinemat
-ics_fitted_II.pdf, id=2805, 516.66383pt x 376.69302pt>
+ics_fitted_II.pdf, id=2825, 516.66383pt x 376.69302pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Beam_Ki
 nematics_fitted_II.pdf Graphic file (type pdf)
 
@@ -2306,7 +2341,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Proton_Kinem
-atics_fitted.pdf, id=2806, 569.12625pt x 385.44pt>
+atics_fitted.pdf, id=2826, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Proton_
 Kinematics_fitted.pdf Graphic file (type pdf)
 
@@ -2321,7 +2356,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Positron_Kin
-ematics_fitted.pdf, id=2807, 569.12625pt x 385.44pt>
+ematics_fitted.pdf, id=2827, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Positro
 n_Kinematics_fitted.pdf Graphic file (type pdf)
 
@@ -2336,7 +2371,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Electron_Kin
-ematics_fitted.pdf, id=2808, 569.12625pt x 385.44pt>
+ematics_fitted.pdf, id=2828, 569.12625pt x 385.44pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/Electro
 n_Kinematics_fitted.pdf Graphic file (type pdf)
 
@@ -2351,7 +2386,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/EpEm_Sources
-_fitted_combined.pdf, id=2809, 569.12625pt x 367.3725pt>
+_fitted_combined.pdf, id=2829, 569.12625pt x 367.3725pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/simulation/EpEm_So
 urces_fitted_combined.pdf Graphic file (type pdf)
 
@@ -2375,29 +2410,29 @@ _Kinematics_fitted.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WORK/
 GIT_HUB/THESIS/figures/print/simulation/Electron_Kinematics_fitted.pdf, page is
  rotated 90 degrees>] [67 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/pri
 nt/simulation/EpEm_Sources_fitted_combined.pdf, page is rotated 90 degrees>])
-(./SIMULATION/acceptance.tex (./tables/simnumspecs.tex))) (./results.tex
-(./RESULTS/xsection.tex [68
+(./SIMULATION/acceptance.tex (./tables/simnumspecs.tex) [68
 
-]
+])) (./results.tex
+(./RESULTS/xsection.tex
 Overfull \hbox (2.26584pt too wide) in paragraph at lines 9--10
 []\T1/cmr/m/n/10.95 If the par-ti-cle of in-ter-est de-cays into daugh-ters, i.
 e. $\OML/cmm/m/it/10.95 P[] \OMS/cmsy/m/n/10.95 ! \OML/cmm/m/it/10.95 P[] \OT1/
 cmr/m/n/10.95 +
  []
 
-
+[69]
 Overfull \hbox (1.14465pt too wide) detected at line 24
 [][] \OT1/cmr/m/n/10.95 = [][] [] []
  []
 
-[69] (./tables/targetspecs.tex
+(./tables/targetspecs.tex
 Overfull \hbox (20.85506pt too wide) in paragraph at lines 7--27
  [] 
  []
 
 )) (./RESULTS/staterrors.tex [70] [71]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/statistical_er
-rorIII.pdf, id=3197, 1027.84pt x 770.88pt>
+rorIII.pdf, id=3216, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/statistic
 al_errorIII.pdf Graphic file (type pdf)
 
@@ -2406,10 +2441,14 @@ l_errorIII.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/statistical_errorIII.pdf used on input line 58.
 (pdftex.def)             Requested size: 323.99088pt x 223.42009pt.
-) (./RESULTS/systematics.tex [72 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figu
-res/print/analysis/statistical_errorIII.pdf>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[72]) (./RESULTS/systematics.tex [73 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/
+figures/print/analysis/statistical_errorIII.pdf>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING_RATI
-O/Converion_Probability_fix.pdf, id=3242, 1027.84pt x 770.88pt>
+O/Converion_Probability_fix.pdf, id=3270, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING
 _RATIO/Converion_Probability_fix.pdf Graphic file (type pdf)
 
@@ -2420,7 +2459,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 323.99088pt x 148.95064pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING_RATI
-O/Converion_Probability_II_fix.pdf, id=3243, 1027.84pt x 770.88pt>
+O/Converion_Probability_II_fix.pdf, id=3271, 1027.84pt x 770.88pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING
 _RATIO/Converion_Probability_II_fix.pdf Graphic file (type pdf)
 
@@ -2430,17 +2469,10 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/BRANCHING_RATIO/Converion_Probability_II_fix.pdf used on input line 2
 4.
 (pdftex.def)             Requested size: 323.99088pt x 148.95064pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-(./tables/branchingratios.tex)
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[73] [74 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANC
-HING_RATIO/Converion_Probability_fix.pdf> </Users/michaelkunkel/WORK/GIT_HUB/TH
-ESIS/figures/print/analysis/BRANCHING_RATIO/Converion_Probability_II_fix.pdf>]
+ [74 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/BRANCHING
+_RATIO/Converion_Probability_fix.pdf> </Users/michaelkunkel/WORK/GIT_HUB/THESIS
+/figures/print/analysis/BRANCHING_RATIO/Converion_Probability_II_fix.pdf>] (./t
+ables/branchingratios.tex)
 (./tables/systematics_cuts.tex
 Overfull \hbox (3.14986pt too wide) in paragraph at lines 10--10
 []\T1/cmr/m/n/10.95 Original| 
@@ -2457,8 +2489,12 @@ Overfull \hbox (5.25577pt too wide) in paragraph at lines 15--15
  []
 
 )
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_Cut_System
-atic.pdf, id=3348, 569.12625pt x 552.0625pt>
+atic.pdf, id=3367, 569.12625pt x 552.0625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_Cut_S
 ystematic.pdf Graphic file (type pdf)
 
@@ -2478,7 +2514,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [75] [76 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_C
 ut_Systematic.pdf, page is rotated 90 degrees>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/Beam_systemati
-c_Error.pdf, id=3406, 569.12625pt x 552.0625pt>
+c_Error.pdf, id=3427, 569.12625pt x 552.0625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/Beam_syst
 ematic_Error.pdf Graphic file (type pdf)
 
@@ -2488,8 +2524,12 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/Beam_systematic_Error.pdf used on input line 97.
 (pdftex.def)             Requested size: 324.01454pt x 223.42403pt.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/S_systematic_E
-rror.pdf, id=3409, 569.12625pt x 552.0625pt>
+rror.pdf, id=3430, 569.12625pt x 552.0625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/S_systema
 tic_Error.pdf Graphic file (type pdf)
 
@@ -2502,8 +2542,14 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[77 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/Beam_syste
-matic_Error.pdf, page is rotated 90 degrees>]
+[77]
+
+LaTeX Warning: Text page 78 contains only floats.
+
+[78 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/Beam_syste
+matic_Error.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WORK/GIT_HUB
+/THESIS/figures/print/analysis/S_systematic_Error.pdf, page is rotated 90 degre
+es>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 107.
@@ -2516,7 +2562,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (/Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/systematic_
 trackEfficiency.tex
 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEffPlot.
-pdf, id=3469, 569.12625pt x 368.37625pt>
+pdf, id=3535, 569.12625pt x 368.37625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEff
 Plot.pdf Graphic file (type pdf)
 
@@ -2559,57 +2605,270 @@ Overfull \hbox (1.58482pt too wide) in paragraph at lines 10--11
 o-ce-dure, de-scribed
  []
 
-[78 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/S_systemat
-ic_Error.pdf, page is rotated 90 degrees>]
-</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEffPlotS
-ys.pdf, id=3522, 569.12625pt x 368.37625pt>
-File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEff
-PlotSys.pdf Graphic file (type pdf)
 
-<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEffP
-lotSys.pdf>
-Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
-NOTE/RESULTS/NewEffPlotSys.pdf used on input line 20.
-(pdftex.def)             Requested size: 356.41513pt x 297.89972pt.
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_I.pdf, id=3537, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_I.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_I.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_I.pdf used on input line 21.
+(pdftex.def)             Requested size: 426.8089pt x 238.324pt.
+
+Overfull \hbox (70.43944pt too wide) in paragraph at lines 21--22
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_II.pdf, id=3538, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_II.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_II.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_II.pdf used on input line 23.
+(pdftex.def)             Requested size: 426.8089pt x 238.324pt.
+
+Overfull \hbox (70.43944pt too wide) in paragraph at lines 23--24
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_III.pdf, id=3539, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_III.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_III.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_III.pdf used on input line 30.
+(pdftex.def)             Requested size: 426.8089pt x 238.324pt.
+
+Overfull \hbox (70.43944pt too wide) in paragraph at lines 30--31
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_IV.pdf, id=3540, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_IV.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_IV.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_IV.pdf used on input line 32.
+(pdftex.def)             Requested size: 426.8089pt x 238.324pt.
+
+Overfull \hbox (70.43944pt too wide) in paragraph at lines 32--33
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_V.pdf, id=3541, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_V.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_V.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_V.pdf used on input line 38.
+(pdftex.def)             Requested size: 426.8089pt x 238.324pt.
+
+Overfull \hbox (70.43944pt too wide) in paragraph at lines 38--39
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_VI.pdf, id=3542, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_VI.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_VI.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_VI.pdf used on input line 40.
+(pdftex.def)             Requested size: 426.8089pt x 238.324pt.
+
+Overfull \hbox (70.43944pt too wide) in paragraph at lines 40--41
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_VII.pdf, id=3543, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_VII.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_VII.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_VII.pdf used on input line 46.
+(pdftex.def)             Requested size: 369.90163pt x 297.91763pt.
+
+Overfull \hbox (13.53217pt too wide) in paragraph at lines 46--47
+ [][] 
+ []
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiled
+HistMeanPartial_VIII.pdf, id=3544, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosPro
+filedHistMeanPartial_VIII.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_VIII.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/CosProfiledHistMeanPartial_VIII.pdf used on input line 48.
+(pdftex.def)             Requested size: 369.90163pt x 297.91763pt.
+
+Overfull \hbox (13.53217pt too wide) in paragraph at lines 48--49
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 78.235pt on input line 51.
+
+[79] [80 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/Ne
+wEffPlot.pdf, page is rotated 90 degrees>] [81 </Users/michaelkunkel/WORK/CLAS/
+CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiledHistMeanPartial_I.pdf, page is r
+otated 90 degrees> </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFF
+ICIENCY/CosProfiledHistMeanPartial_II.pdf, page is rotated 90 degrees>]
+[82 </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProf
+iledHistMeanPartial_III.pdf, page is rotated 90 degrees> </Users/michaelkunkel/
+WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiledHistMeanPartial_IV.pdf
+, page is rotated 90 degrees>] [83 </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/
+SVN/clas/PI0/EFFICIENCY/CosProfiledHistMeanPartial_V.pdf, page is rotated 90 de
+grees> </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosP
+rofiledHistMeanPartial_VI.pdf, page is rotated 90 degrees>] [84 </Users/michael
+kunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/CosProfiledHistMeanPartial
+_VII.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WORK/CLAS/CLAS6/COD
+ES/SVN/clas/PI0/EFFICIENCY/CosProfiledHistMeanPartial_VIII.pdf, page is rotated
+ 90 degrees>]
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/LepTrigRang
+eThesisBinningHistMean.pdf, id=3988, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/LepTri
+gRangeThesisBinningHistMean.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/LepTrig
+RangeThesisBinningHistMean.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/LepTrigRangeThesisBinningHistMean.pdf used on input line 59.
+(pdftex.def)             Requested size: 356.41513pt x 297.91763pt.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/MorTrigRang
+eThesisBinningHistMean.pdf, id=3989, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/MorTri
+gRangeThesisBinningHistMean.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/MorTrig
+RangeThesisBinningHistMean.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/MorTrigRangeThesisBinningHistMean.pdf used on input line 64.
+(pdftex.def)             Requested size: 356.41513pt x 297.91763pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[79 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEffP
-lot.pdf, page is rotated 90 degrees>]) (./tables/systematics.tex
-Overfull \hbox (9.52837pt too wide) in paragraph at lines 24--25
+[85 </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/LepTrig
+RangeThesisBinningHistMean.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_1_325.p
+df, id=4042, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_1_
+325.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_1_3
+25.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/Trk_1_325.pdf used on input line 75.
+(pdftex.def)             Requested size: 166.22342pt x 180.67555pt.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_2_375.p
+df, id=4043, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_2_
+375.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_2_3
+75.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/Trk_2_375.pdf used on input line 76.
+(pdftex.def)             Requested size: 166.22342pt x 180.67555pt.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_3_775.p
+df, id=4044, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_3_
+775.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_3_7
+75.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/Trk_3_775.pdf used on input line 77.
+(pdftex.def)             Requested size: 166.22342pt x 180.67555pt.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_4_875.p
+df, id=4045, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_4_
+875.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_4_8
+75.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/Trk_4_875.pdf used on input line 78.
+(pdftex.def)             Requested size: 166.22342pt x 180.67555pt.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/TrkUncertia
+ntyVSBeamEnergyReBin.pdf, id=4054, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/TrkUnc
+ertiantyVSBeamEnergyReBin.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/TrkUnce
+rtiantyVSBeamEnergyReBin.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EFFICIENCY/TrkUncertiantyVSBeamEnergyReBin.pdf used on input line 88.
+(pdftex.def)             Requested size: 356.41513pt x 297.91763pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[86 </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/MorTrig
+RangeThesisBinningHistMean.pdf, page is rotated 90 degrees>] [87 </Users/michae
+lkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_1_325.pdf, page is ro
+tated 90 degrees> </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFI
+CIENCY/Trk_2_375.pdf, page is rotated 90 degrees> </Users/michaelkunkel/WORK/CL
+AS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_3_775.pdf, page is rotated 90 degree
+s> </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EFFICIENCY/Trk_4_87
+5.pdf, page is rotated 90 degrees>] [88 </Users/michaelkunkel/WORK/CLAS/CLAS6/C
+ODES/SVN/clas/PI0/EFFICIENCY/TrkUncertiantyVSBeamEnergyReBin.pdf, page is rotat
+ed 90 degrees>]) (./tables/systematics.tex
+Overfull \hbox (15.00337pt too wide) in paragraph at lines 24--25
 []$[]$| 
  []
 
 )
-</Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_Systematic
-s.pdf, id=3574, 569.12625pt x 276.03125pt>
-File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_Syste
-matics.pdf Graphic file (type pdf)
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/All_Systema
+tics.pdf, id=4337, 569.12625pt x 276.03125pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/All_Sy
+stematics.pdf Graphic file (type pdf)
 
-<use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_System
-atics.pdf>
-Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/All_Systematics.pdf used on input line 121.
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/All_Sys
+tematics.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/RESULTS/All_Systematics.pdf used on input line 121.
 (pdftex.def)             Requested size: 356.41513pt x 283.03493pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[89
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[80 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/NewEffP
-lotSys.pdf, page is rotated 90 degrees>]
-
-LaTeX Warning: Text page 81 contains only floats.
-
-
-Overfull \vbox (1.24542pt too high) has occurred while \output is active []
-
-
-[81 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/All_System
-atics.pdf, page is rotated 90 degrees>]) (./RESULTS/comparision.tex
+]) (./RESULTS/comparision.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 4.
@@ -2648,7 +2907,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk01a.pdf, id=
-3679, 687.56876pt x 519.9425pt>
+4350, 687.56876pt x 519.9425pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk01a.pdf
  Graphic file (type pdf)
 
@@ -2661,7 +2920,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk02a.pdf, id=
-3696, 519.9425pt x 687.56876pt>
+4367, 519.9425pt x 687.56876pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk02a.pdf
  Graphic file (type pdf)
 
@@ -2674,7 +2933,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk03a.pdf, id=
-3699, 522.95375pt x 689.57625pt>
+4370, 522.95375pt x 689.57625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk03a.pdf
  Graphic file (type pdf)
 
@@ -2687,7 +2946,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk04a.pdf, id=
-3702, 522.95375pt x 689.57625pt>
+4373, 522.95375pt x 689.57625pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk04a.pdf
  Graphic file (type pdf)
 
@@ -2698,17 +2957,18 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[82]
+[90 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/All_Sys
+tematics.pdf, page is rotated 90 degrees>]
 
-LaTeX Warning: Text page 83 contains only floats.
+LaTeX Warning: Text page 91 contains only floats.
 
-[83 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk01a.pdf>
-] [84 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk02a.pd
-f>] [85 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk03a.
-pdf>] [86 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk04
+[91 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk01a.pdf>
+] [92 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk02a.pd
+f>] [93 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk03a.
+pdf>] [94 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/kk04
 a.pdf>]
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/mm01a-eps-
-converted-to.pdf, id=3753, 688.5725pt x 526.96875pt>
+converted-to.pdf, id=4468, 688.5725pt x 526.96875pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/mm01a
 -eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2719,7 +2979,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 323.99684pt x 297.9148pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/mm02a-eps-
-converted-to.pdf, id=3756, 688.5725pt x 505.89pt>
+converted-to.pdf, id=4471, 688.5725pt x 505.89pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/mm02a
 -eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2732,10 +2992,10 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[87
+[95
 
  </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/mm01a-eps
--converted-to.pdf>] [88 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
+-converted-to.pdf>] [96 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/DSG/mm02a-eps-converted-to.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -2747,7 +3007,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk01b-eps-
-converted-to.pdf, id=3791, 687.56876pt x 526.96875pt>
+converted-to.pdf, id=4506, 687.56876pt x 526.96875pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk01b
 -eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2758,7 +3018,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 323.99667pt x 297.9148pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk02b-eps-
-converted-to.pdf, id=3794, 526.96875pt x 687.56876pt>
+converted-to.pdf, id=4509, 526.96875pt x 687.56876pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk02b
 -eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2769,7 +3029,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 526.96745pt x 687.56708pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk03b-eps-
-converted-to.pdf, id=3797, 526.96875pt x 679.53876pt>
+converted-to.pdf, id=4512, 526.96875pt x 679.53876pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk03b
 -eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2780,7 +3040,7 @@ Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 (pdftex.def)             Requested size: 526.96745pt x 679.53711pt.
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk04b-eps-
-converted-to.pdf, id=3800, 687.56876pt x 529.98pt>
+converted-to.pdf, id=4515, 687.56876pt x 529.98pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk04b
 -eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2789,55 +3049,428 @@ eps-converted-to.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
 /analysis/DSG/kk04b-eps-converted-to.pdf used on input line 62.
 (pdftex.def)             Requested size: 323.99667pt x 297.90274pt.
- [89
+
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/G12_Pi0_XSe
+ction_pull.pdf, id=4518, 569.12625pt x 367.3725pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/G12_Pi
+0_XSection_pull.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/G12_Pi0
+_XSection_pull.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/RESULTS/G12_Pi0_XSection_pull.pdf used on input line 67.
+(pdftex.def)             Requested size: 251.9989pt x 162.67021pt.
+ [97
 
  </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk01b-eps
--converted-to.pdf>] [90 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/DSG/kk02b-eps-converted-to.pdf>] [91 </Users/michaelkunkel/WORK/GIT_H
-UB/THESIS/figures/print/analysis/DSG/kk03b-eps-converted-to.pdf>] [92 </Users/m
-ichaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk04b-eps-converted
--to.pdf>]
+-converted-to.pdf>] [98 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
+/analysis/DSG/kk02b-eps-converted-to.pdf>] [99 </Users/michaelkunkel/WORK/GIT_H
+UB/THESIS/figures/print/analysis/DSG/kk03b-eps-converted-to.pdf>] [100 </Users/
+michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/DSG/kk04b-eps-converte
+d-to.pdf> </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/RESULTS/G
+12_Pi0_XSection_pull.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 96.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\chi' on input line 96.
+(hyperref)                removing `math shift' on input line 100.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 96.
+(hyperref)                removing `\chi' on input line 100.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 96.
+(hyperref)                removing `superscript' on input line 100.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 100.
 
 
 </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/dsg1a-eps-conv
-erted-to.pdf, id=3845, 608.2725pt x 470.75874pt>
+erted-to.pdf, id=4575, 608.2725pt x 470.75874pt>
 File: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/dsg1a-eps
 -converted-to.pdf Graphic file (type pdf)
 
 <use /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/dsg1a-eps-
 converted-to.pdf>
 Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print
-/analysis/dsg1a-eps-converted-to.pdf used on input line 99.
+/analysis/dsg1a-eps-converted-to.pdf used on input line 103.
 (pdftex.def)             Requested size: 324.00716pt x 297.90129pt.
- [93
+ [101
 
  </Users/michaelkunkel/WORK/GIT_HUB/THESIS/figures/print/analysis/dsg1a-eps-con
-verted-to.pdf>])) [94] (./Analysis_note.bbl [95
+verted-to.pdf>])) [102] (./Analysis_note.bbl [103
 
-] [96])
-[97]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
+]
+[104])
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/AcceptanceAl
+l.pdf, id=4608, 569.12625pt x 520.94624pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf used on input line 135.
+(pdftex.def)             Requested size: 569.12486pt x 520.94498pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf used on input line 135.
+(pdftex.def)             Requested size: 569.12486pt x 520.94498pt.
+
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/AcceptanceAl
+l.pdf, id=4611, page=1, 569.12625pt x 520.94624pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 1>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page1 used on input line 135.
+(pdftex.def)             Requested size: 569.12486pt x 520.94498pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 1>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page1 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+ [105]
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 1>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page1 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 1>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page1 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 1>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page1 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+ [106 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accept
+anceAll.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/AcceptanceAl
+l.pdf, id=4664, page=2, 569.12625pt x 520.94624pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 2>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page2 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 2>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page2 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 2>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page2 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+ [107 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accept
+anceAll.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/AcceptanceAl
+l.pdf, id=4669, page=3, 569.12625pt x 520.94624pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 3>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page3 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 3>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page3 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 3>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page3 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+ [108 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accept
+anceAll.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/AcceptanceAl
+l.pdf, id=4674, page=4, 569.12625pt x 520.94624pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 4>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page4 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 4>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page4 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 4>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page4 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+ [109 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accept
+anceAll.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/AcceptanceAl
+l.pdf, id=4679, page=5, 569.12625pt x 520.94624pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 5>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page5 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 5>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page5 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 5>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page5 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+ [110 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accept
+anceAll.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/AcceptanceAl
+l.pdf, id=4684, page=6, 569.12625pt x 520.94624pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 6>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page6 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 6>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page6 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 6>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page6 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+ [111 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accept
+anceAll.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/AcceptanceAl
+l.pdf, id=4690, page=7, 569.12625pt x 520.94624pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 7>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page7 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 7>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page7 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 7>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page7 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+ [112 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accept
+anceAll.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/AcceptanceAl
+l.pdf, id=4695, page=8, 569.12625pt x 520.94624pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 8>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page8 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 8>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page8 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 8>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page8 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+ [113 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accept
+anceAll.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/AcceptanceAl
+l.pdf, id=4700, page=9, 569.12625pt x 520.94624pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 9>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page9 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 9>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page9 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 9>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page9 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+ [114 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accept
+anceAll.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/AcceptanceAl
+l.pdf, id=4705, page=10, 569.12625pt x 520.94624pt>
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 10>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page10 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 10>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page10 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+File: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accepta
+nceAll.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Acceptan
+ceAll.pdf, page 10>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_
+NOTE/REVIEW/AcceptanceAll.pdf, page10 used on input line 135.
+(pdftex.def)             Requested size: 597.63493pt x 547.0415pt.
+ [115 </Users/michaelkunkel/WORK/GIT_HUB/Pi0_Papers/ANALYSIS_NOTE/REVIEW/Accept
+anceAll.pdf, page is rotated 90 degrees>]
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EGammaVsMomemtumPlots_
+new.pdf, id=4710, 502.87875pt x 739.76375pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EGammaVsMomemtumP
+lots_new.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EGammaVsMomemtumPl
+ots_new.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EGammaVsMomemtumPlots_new.pdf used on input line 138.
+(pdftex.def)             Requested size: 356.39418pt x 446.85295pt.
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EGammaVsThetaPlots.pdf
+, id=4711, 502.87875pt x 739.76375pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EGammaVsThetaPlot
+s.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EGammaVsThetaPlots
+.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/EGammaVsThetaPlots.pdf used on input line 142.
+(pdftex.def)             Requested size: 356.39418pt x 446.85295pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/ThetaVsMomemtumPlots.p
+df, id=4712, 502.87875pt x 739.76375pt>
+File: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/ThetaVsMomemtumPl
+ots.pdf Graphic file (type pdf)
+
+<use /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/ThetaVsMomemtumPlo
+ts.pdf>
+Package pdftex.def Info: /Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI
+0/ThetaVsMomemtumPlots.pdf used on input line 146.
+(pdftex.def)             Requested size: 356.39418pt x 446.85295pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[116 </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EGammaVsMomemtumP
+lots_new.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 149.
+ [117 </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/EGammaVsThetaPlo
+ts.pdf>] [118 </Users/michaelkunkel/WORK/CLAS/CLAS6/CODES/SVN/clas/PI0/ThetaVsM
+omemtumPlots.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
  (./Analysis_note.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 149.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
 Package rerunfilecheck Info: File `Analysis_note.out' has not changed.
-(rerunfilecheck)             Checksum: D0F0A03A5B5564F55D82349BF66AA2FF;3989.
+(rerunfilecheck)             Checksum: F23DB0175AB1DAA3365C48BE4A4FB89D;4172.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2845,16 +3478,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 149.
  ) 
 Here is how much of TeX's memory you used:
- 22817 strings out of 493014
- 444630 string characters out of 6133350
- 509661 words of memory out of 5000000
- 25397 multiletter control sequences out of 15000+600000
+ 23557 strings out of 493014
+ 465617 string characters out of 6133350
+ 521692 words of memory out of 5000000
+ 26040 multiletter control sequences out of 15000+600000
  31567 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,16n,89p,2183b,600s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,18n,89p,2183b,600s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
@@ -2862,39 +3495,42 @@ usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
 /local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/20
-16/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2016/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-d
-ist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2016/tex
-mf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2016/texmf-d
-ist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2016/texmf-dis
-t/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2016/texmf-dist/
-fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2016/texmf-dist/fo
-nts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2016/texmf-dist/font
-s/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/
-type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
-pe1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
-1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
-public/cm-super/sftc0800.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
-blic/cm-super/sftc1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
-ic/cm-super/sftc1095.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
-/cm-super/sfti0600.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/c
-m-super/sfti0800.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-
-super/sfti1095.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-su
-per/sfti1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-supe
-r/sftt1095.pfb>
-Output written on Analysis_note.pdf (95 pages, 8539752 bytes).
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
+ype1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
+/public/cm-super/sfrm1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
+ublic/cm-super/sfrm1095.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/cm-super/sfrm1728.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
+cm-super/sftc0800.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm
+-super/sftc1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-s
+uper/sftc1095.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-sup
+er/sfti0600.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super
+/sfti0800.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/s
+fti1095.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sft
+i1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sftt1
+095.pfb>
+Output written on Analysis_note.pdf (116 pages, 9469666 bytes).
 PDF statistics:
- 4066 PDF objects out of 4296 (max. 8388607)
- 2461 compressed objects within 25 object streams
- 349 named destinations out of 1000 (max. 500000)
- 807 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5063 PDF objects out of 5155 (max. 8388607)
+ 2940 compressed objects within 30 object streams
+ 398 named destinations out of 1000 (max. 500000)
+ 986 words of extra memory for PDF output out of 10000 (max. 10000000)
 
