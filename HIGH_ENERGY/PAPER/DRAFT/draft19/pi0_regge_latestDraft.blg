@@ -1,5 +1,0 @@
-[0] Config.pm:343> INFO - This is Biber 2.5
-[0] Config.pm:346> INFO - Logfile is 'pi0_regge_latestDraft.blg'
-[50] biber-darwin:290> INFO - === Fri Aug 18, 2017, 15:42:55
-[161] Utils.pm:165> ERROR - Cannot find control file 'pi0_regge_latestDraft.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
-[161] Biber.pm:112> INFO - ERRORS: 1
