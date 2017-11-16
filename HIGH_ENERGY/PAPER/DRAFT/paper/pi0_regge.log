@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.24)  14 NOV 2017 20:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.24)  14 NOV 2017 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**pi0_regge_33.tex
-(./pi0_regge_33.tex
+**pi0_regge.tex
+(./pi0_regge.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/revtex/revtex4-1.cls
@@ -730,8 +730,8 @@ Class revtex4-1 Info: cite was not loaded (OK!) on input line 47.
 Class revtex4-1 Info: mcite was not loaded (OK!) on input line 47.
 Class revtex4-1 Info: multicol was not loaded (OK!) on input line 47.
 
-(./pi0_regge_33.aux)
-\openout1 = `pi0_regge_33.aux'.
+(./pi0_regge.aux)
+\openout1 = `pi0_regge.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
@@ -762,9 +762,9 @@ LaTeX Info: Redefining \ref on input line 47.
 LaTeX Info: Redefining \pageref on input line 47.
 LaTeX Info: Redefining \nameref on input line 47.
 
-(./pi0_regge_33.out) (./pi0_regge_33.out)
+(./pi0_regge.out) (./pi0_regge.out)
 \@outlinefile=\write5
-\openout5 = `pi0_regge_33.out'.
+\openout5 = `pi0_regge.out'.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -801,7 +801,7 @@ Package caption Info: End \AtBeginDocument code.
 
 ABD: EveryShipout initializing macros
 Class revtex4-1 Info: Taking \maketitle back from hyperref on input line 47.
-\openout3 = `pi0_regge_33Notes.bib'.
+\openout3 = `pi0_reggeNotes.bib'.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lineno/lineno.sty
@@ -920,10 +920,10 @@ nd Monte-Carlo sim-u-la-
 
 [2]
 Package epstopdf Info: Source file: <scale50.eps>
-(epstopdf)                    date: 2017-11-14 20:20:52
+(epstopdf)                    date: 2017-11-14 20:41:56
 (epstopdf)                    size: 204500 bytes
 (epstopdf)             Output file: <scale50-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-14 20:20:52
+(epstopdf)                    date: 2017-11-14 20:41:56
 (epstopdf)                    size: 75776 bytes
 (epstopdf)             Command: <repstopdf --outfile=scale50-eps-converted-to.p
 df scale50.eps>
@@ -936,10 +936,10 @@ File: scale50-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: scale50-eps-converted-to.pdf used on input line 443.
 (pdftex.def)             Requested size: 149.70062pt x 203.99689pt.
 Package epstopdf Info: Source file: <scale70.eps>
-(epstopdf)                    date: 2017-11-14 20:20:52
+(epstopdf)                    date: 2017-11-14 20:41:56
 (epstopdf)                    size: 197392 bytes
 (epstopdf)             Output file: <scale70-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-14 20:20:52
+(epstopdf)                    date: 2017-11-14 20:41:56
 (epstopdf)                    size: 78034 bytes
 (epstopdf)             Command: <repstopdf --outfile=scale70-eps-converted-to.p
 df scale70.eps>
@@ -953,10 +953,10 @@ File: scale70-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: scale70-eps-converted-to.pdf used on input line 443.
 (pdftex.def)             Requested size: 149.70062pt x 203.99689pt.
 Package epstopdf Info: Source file: <scale90.eps>
-(epstopdf)                    date: 2017-11-14 20:20:52
+(epstopdf)                    date: 2017-11-14 20:41:56
 (epstopdf)                    size: 168263 bytes
 (epstopdf)             Output file: <scale90-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-14 20:20:52
+(epstopdf)                    date: 2017-11-14 20:41:56
 (epstopdf)                    size: 65304 bytes
 (epstopdf)             Command: <repstopdf --outfile=scale90-eps-converted-to.p
 df scale90.eps>
@@ -970,10 +970,10 @@ File: scale90-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: scale90-eps-converted-to.pdf used on input line 446.
 (pdftex.def)             Requested size: 149.70062pt x 203.99689pt.
 Package epstopdf Info: Source file: <scale110.eps>
-(epstopdf)                    date: 2017-11-14 20:20:52
+(epstopdf)                    date: 2017-11-14 20:41:56
 (epstopdf)                    size: 120180 bytes
 (epstopdf)             Output file: <scale110-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-14 20:20:52
+(epstopdf)                    date: 2017-11-14 20:41:56
 (epstopdf)                    size: 45940 bytes
 (epstopdf)             Command: <repstopdf --outfile=scale110-eps-converted-to.
 pdf scale110.eps>
@@ -987,10 +987,10 @@ File: scale110-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: scale110-eps-converted-to.pdf used on input line 446.
 (pdftex.def)             Requested size: 149.70062pt x 203.99689pt.
 Package epstopdf Info: Source file: <dsdt.eps>
-(epstopdf)                    date: 2017-11-14 20:20:52
+(epstopdf)                    date: 2017-11-14 20:41:56
 (epstopdf)                    size: 586388 bytes
 (epstopdf)             Output file: <dsdt-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-14 20:20:52
+(epstopdf)                    date: 2017-11-14 20:41:56
 (epstopdf)                    size: 138141 bytes
 (epstopdf)             Command: <repstopdf --outfile=dsdt-eps-converted-to.pdf 
 dsdt.eps>
@@ -1007,10 +1007,10 @@ Package pdftex.def Info: dsdt-eps-converted-to.pdf used on input line 484.
 pdf, page is rotated 90 degrees> <./G12_Pi0_wBck.pdf, page is rotated 90 degree
 s>]
 Package epstopdf Info: Source file: <kroll.eps>
-(epstopdf)                    date: 2017-11-14 20:20:52
+(epstopdf)                    date: 2017-11-14 20:41:56
 (epstopdf)                    size: 77470 bytes
 (epstopdf)             Output file: <kroll-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-14 20:20:52
+(epstopdf)                    date: 2017-11-14 20:41:56
 (epstopdf)                    size: 33961 bytes
 (epstopdf)             Command: <repstopdf --outfile=kroll-eps-converted-to.pdf
  kroll.eps>
@@ -1074,22 +1074,23 @@ Underfull \hbox (badness 3503) in paragraph at lines 870--876
  []\OT1/cmr/m/n/9 T. Skwar-nicki, DESY-F31-86-02, DESY-F-31-86-02;
  []
 
-(./pi0_regge_33.bbl) [6]
+No file pi0_regge.bbl.
+[6]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 887.
- (./pi0_regge_33.aux)
+ (./pi0_regge.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 887.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 887.
-Package rerunfilecheck Info: File `pi0_regge_33.out' has not changed.
+Package rerunfilecheck Info: File `pi0_regge.out' has not changed.
 (rerunfilecheck)             Checksum: 17D59470F3284579C28AFF698E34EBB4;223.
  ) 
 Here is how much of TeX's memory you used:
- 19999 strings out of 493014
- 362618 string characters out of 6133350
+ 19997 strings out of 493014
+ 362542 string characters out of 6133350
  464495 words of memory out of 5000000
  23139 multiletter control sequences out of 15000+600000
  14342 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,9n,77p,1434b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,9n,77p,1431b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
@@ -1114,7 +1115,7 @@ ts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2016/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmtt9.pfb>
-Output written on pi0_regge_33.pdf (6 pages, 811758 bytes).
+Output written on pi0_regge.pdf (6 pages, 811758 bytes).
 PDF statistics:
  429 PDF objects out of 1000 (max. 8388607)
  295 compressed objects within 3 object streams
